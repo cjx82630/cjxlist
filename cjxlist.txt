@@ -6,8 +6,8 @@
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
 !
-! 原cjxlist补充ChinaList的规则已并入EasyList China
-! 现cjxlist只含CJX个人访问中文网站所触发的EasyList规则
+! 鍘焎jxlist琛ュ厖ChinaList鐨勮鍒欏凡骞跺叆EasyList China.
+! 鐜癱jxlist鍙惈CJX涓汉璁块棶涓枃缃戠珯鎵�瑙﹀彂鐨凟asyList瑙勫垯.
 ! If you have questions,please email 994722209@qq.com
 !
 ! Fork of: EasyList https://easylist.adblockplus.org/
