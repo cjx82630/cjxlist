@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! List version 20141209
-! Version: 20141209
+! List version 20150103
+! Version: 20150103
 ! Title: cjxList
 ! Expires: 10 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
@@ -2037,10 +2037,61 @@ _home_ad_
 _420x80_
 _728x150.
 msn.com,search.yahoo.com##.abs
-|http:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adv.li|allmyvideos.net|ay.gy|j.gs|linkbucksmedia.com|q.gs|shr77.com|thevideo.me|u.bb|vidspot.net
 |https:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adjet.biz|adv.li|ay.gy|j.gs|q.gs|u.bb
 ||advg.jp^$third-party
 ||awin1.com^$third-party
 ||cloudfront.net/scripts/js3caf.js
 ||flashtalking.com^$third-party
+!150103
+###AdSense1
+###AdSense3
+###TopAdvert
+###adRight1
+###adRight2
+###adTop1
+###adsBar
+###advertisement_box
+###download_ad
+###pr_ad
+###rightAD
+###search-ad
+###wp125adwrap_2c
+##.AdSense
+##.ad_label
+##.ad_middle
+##.adv-banner
+##.article_ad
+##.download_ad
+##.firstad
+##.h_ad
+##.headerAd
+##.img_ad
+##.native-ad
+-120x240.
+-ads-bottom.
+.tv/ads/
+/ad-ros-
+/adclick/*
+/addata.
+/adframe/*
+/ads/ads-$~stylesheet
+/common_ad.
+/flash/ad_
+/leftbanner/*
+/oascentral.$~object-subrequest
+/player/ad/*
+750x90.gif|
+@@||g.doubleclick.net/pagead/ads?ad_type=text_dynamicimage_flash^$object-subrequest
+_468x60ad.
+_advertising.
+_right_ad.
+search.yahoo.com##a[href="http://help.yahoo.com/l/us/yahoo/search/basics/basics-03.html"]
+yahoo.com##.lrec
+|http:$subdocument,third-party,domain=2ad.in|adf.ly|adfoc.us|adv.li|allmyvideos.net|ay.gy|imgmega.com|j.gs|linkbucksmedia.com|q.gs|shr77.com|thevideo.me|u.bb|vidspot.net
+||effectivemeasure.net^$third-party
+||fastapi.net^$third-party
+||h12-media.com^$third-party
+||httpool.com^$third-party
+||padstm.com^$third-party
+||the-adult-company.com^$third-party
 !----------------------------------The End------------------------------------!
