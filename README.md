@@ -15,6 +15,6 @@
 		<a href='abp:subscribe?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt&title=EasyList Lite' title='Add EasyList Lite'>添加EasyList精简版</a>
 	</li>
 </ul>
-```html
+```
 
 [更多说明](http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667)
