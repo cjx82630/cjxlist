@@ -1,0 +1,32 @@
+[Adblock Plus 2.0]
+! Checksum: O8HEWwH9AXSB7rKsg10r7A
+! Version: 201502041750
+! Title: CJX's Annoyance List
+! Only for Chinese websites.
+! Last modified: 2015/02/04 17:50 +0800
+! Expires: 4 days (update frequency)
+! License: http://creativecommons.org/licenses/by/3.0/
+! Email: 994722209@qq.com
+! Homepage: https://github.com/cjx82630/cjxlist/
+!
+!-----------------------General advert blocking filters-----------------------!
+!------------------------General element hiding rules-------------------------!
+!----------------------------------Ads-Union----------------------------------!
+!---------------------------Popups--------------------------------------------!
+!----------------------Specific advert blocking filters-----------------------!
+||feng.com^*/index_treasure/
+||feng.com^*/view.php?what=zone:
+||feng.com/aoodoo/
+||fengbuy.com/recommend-new.php
+||lab.feng.com/images_new/ad-
+!------------------------Specific element hiding rules------------------------!
+feng.com##DIV[class^="wep_e_"]
+feng.com##div[class^="wea_d_"]
+feng.com##.wea_d_panel_980
+!---------------------------------CSS Whitelist-------------------------------!
+!---------------------------------URL Whitelist-------------------------------!
+@@/view.php?what=zone:94&$domain=feng.com
+@@/%*logo.png|$domain=feng.com
+@@/view.php?what=zone:93&$domain=feng.com
+!--------------------------------Tracking Systems-----------------------------!
+!----------------------------------The End------------------------------------!

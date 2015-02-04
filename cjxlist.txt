@@ -1,16 +1,15 @@
 [Adblock Plus 2.0]
-! List version 20150103
-! Version: 20150103
-! Title: cjxList
+! Checksum: Ay4mQKdqL8lSne4Dv+BQlg
+! Version: 201502041750
+! Title: EasyList Lite
+! Only for Chinese websites.
+! Last modified: 2015/02/04 17:50 +0800
 ! Expires: 10 days (update frequency)
-! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
-! Licence: https://easylist-downloads.adblockplus.org/COPYING
-!
-! 原cjxlist补充ChinaList的规则已并入EasyList China.
-! 现cjxlist只含CJX个人访问中文网站所触发的EasyList规则.
-! If you have questions,please email 994722209@qq.com
-!
 ! Fork of: EasyList https://easylist.adblockplus.org/
+! Licence: https://easylist-downloads.adblockplus.org/COPYING
+! Email: 994722209@qq.com
+! Homepage: https://github.com/cjx82630/cjxlist/
+!
 &ad_type=
 &ad_url=
 &ad_zones=
@@ -249,7 +248,6 @@
 /advertisement_
 /advertisements/*
 /advertiser.
-/advertiser/*$domain=~mobileapptracking.com|~trialpay.com
 /advertising.
 /advertising?
 /advertorial/*
@@ -285,7 +283,6 @@
 /delivery/afr.
 /delivery/avw.
 /delivery/lg.
-/download/ads/*
 /eroex.
 /event.ng/*
 /exoclick.
@@ -1562,7 +1559,6 @@ imdb.com###top_rhs_wrapper
 youtube.com###watch-channel-brand-div
 au.news.yahoo.com##.acc-moneyhound
 1sale.com,7billionworld.com,abajournal.com,aljazeerasport.asia,altavista.com,arcadeprehacks.com,birdforum.net,coinad.com,cuzoogle.com,cyclingweekly.co.uk,cyprus-mail.com,disconnect.me,domainnamenews.com,eco-business.com,energylivenews.com,facemoods.com,fcall.in,flashx.tv,foxbusiness.com,foxnews.com,freetvall.com,friendster.com,fstoppers.com,ftadviser.com,furaffinity.net,gentoo.org,gmanetwork.com,govtrack.us,gramfeed.com,gyazo.com,hispanicbusiness.com,html5test.com,hurricanevanessa.com,ilovetypography.com,isearch.whitesmoke.com,itar-tass.com,itproportal.com,kingdomrush.net,laptopmag.com,lfpress.com,livetvcafe.net,lovemyanime.net,malaysiakini.com,manga-download.org,maps.google.com,mb.com.ph,mmajunkie.com,movies-online-free.net,mugshots.com,myfitnesspal.com,mypaper.sg,nbcnews.com,nugget.ca,panorama.am,pastie.org,phpbb.com,playboy.com,pocket-lint.com,previously.tv,radiobroadcaster.org,reason.com,ryanseacrest.com,sddt.com,searchfunmoods.com,shopbot.ca,sourceforge.net,tcm.com,tech2.com,thecambodiaherald.com,thedailyobserver.ca,thejakartapost.com,thelakewoodscoop.com,themalaysianinsider.com,theobserver.ca,thepeterboroughexaminer.com,theyeshivaworld.com,tiberium-alliances.com,tjpnews.com,today.com,tubeserv.com,turner.com,twogag.com,ultimate-guitar.com,wallpaper.com,washingtonpost.com,wftlsports.com,womanandhome.com,wtvz.net,yahoo.com,youthedesigner.com,yuku.com##.ads
-bloomberg.com,borfast.com,howmanyleft.co.uk,instantpulp.com,over-blog.com,plurk.com,scitechdaily.com,sgentrepreneurs.com,techsupportalert.com,wikihoops.com##.adsense
 adballa.com,allghananews.com,arabianindustry.com,bitcoinzebra.com,craveonline.com,dawn.com,designmena.com,express.co.uk,expressandstar.com,farmprogress.com,foxbusiness.com,foxnews.com,guernseypress.com,gulfnews.com,healthcanal.com,healthguru.com,healthinsurancedaily.com,hollywoodreporter.com,hoteliermiddleeast.com,humanipo.com,jerseyeveningpost.com,legendarypokemon.net,mmegi.bw,morningstar.co.uk,msnbc.com,myfinances.co.uk,ninemsn.com.au,piccsy.com,shropshirestar.com,sowetanlive.co.za,sundayworld.co.za,tenplay.com.au,thegayuk.com,thejournal.ie,totalscifionline.com,travelchannel.com,tvweek.com,vg247.com,winewizard.co.za,wow247.co.uk,xfire.com##.advert
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 mail.google.com##.aeF > .nH > .nH[role="main"] > .mq:first-child
@@ -2094,4 +2090,88 @@ yahoo.com##.lrec
 ||httpool.com^$third-party
 ||padstm.com^$third-party
 ||the-adult-company.com^$third-party
+!150204
+###ad-wrapper
+###adWrap
+###adrotate_widgets-2
+###adrotate_widgets-3
+###adrotate_widgets-4
+###adsID
+###adver
+###adwrapper
+###babAdTop
+###banner-ads
+###divTopAd
+###floatingAd
+###leftAD
+###super_ad
+##.ad-head
+##.ad_headline
+##.ad_position
+##.ad_topright
+##.adlist1
+##.ads-bottom
+##.bg-ad-link
+##.featured-ads
+##.item-ad
+##.listad
+##.m-advertisement
+##.ra[align="right"][width="30%"]
+##.ra[width="30%"][align="right"] + table[width="70%"][cellpadding="0"]
+##.rt_ad
+##.showcasead
+##.side_ads
+##.sidebar-ads
+##.single-ads
+##.sponsor_div
+##.sponsor_image
+##.widead
+##.widget_adsensewidget
+-300x250-$~xmlhttprequest
+-728x90-
+.biz/ad2/
+.com/?wid=
+/120x600.
+/700x90.
+/ad_load.
+/adjuggler?
+/adplayer.
+/adserving/*
+/adserving_
+/advertiser/*$domain=~bingads.microsoft.com|~mobileapptracking.com|~trialpay.com
+/bannerad.
+/download/ads
+/img/ads/*
+/imgs/ad/*
+/showads.
+/u-ads.
+/uploads/adv/*
+/userad/*
+://a.ads.
+=adshow&
+?adTagUrl=
+@@||adap.tv/crossdomain.xml$object-subrequest
+@@||aolcdn.com/os_merge/?file=/aol/*.js&$script
+@@||btrll.com/crossdomain.xml$object-subrequest
+@@||cdn.api.twitter.com*http%$script,third-party
+@@||epicgameads.com/crossdomain.xml$object-subrequest
+@@||spotxchange.com/crossdomain.xml$object-subrequest
+@@||tubemogul.com/crossdomain.xml$object-subrequest
+_300x250px.
+_486x60.
+_728x90px.
+_ad_serving.
+_ads_only&
+bloomberg.com,borfast.com,howmanyleft.co.uk,instantpulp.com,mysmartprice.com,nintandbox.net,over-blog.com,plurk.com,scitechdaily.com,sgentrepreneurs.com,techsupportalert.com,wikihoops.com##.adsense
+msn.com##.providerupsell
+||adtomafusion.com^$third-party
+||adversal.com^$third-party
+||brandreachsys.com^$third-party
+||china-netwave.com^$third-party
+||epicgameads.com^$third-party
+||fimserve.com^$third-party
+||ima3vpaid.appspot.com^
+||moatads.com^$third-party
+||propgoluxury.com/partners/$third-party
+||rtbidder.net^$third-party
 !----------------------------------The End------------------------------------!
