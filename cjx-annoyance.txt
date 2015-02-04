@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: O8HEWwH9AXSB7rKsg10r7A
-! Version: 201502041750
+! Checksum: ebr6GTQOwfJYuOfTy+C/zw
+! Version: 201502042237
 ! Title: CJX's Annoyance List
 ! Only for Chinese websites.
-! Last modified: 2015/02/04 17:50 +0800
+! Last modified: 2015/02/04 22:37 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
