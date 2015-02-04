@@ -19,10 +19,18 @@
 ||feng.com/aoodoo/
 ||fengbuy.com/recommend-new.php
 ||lab.feng.com/images_new/ad-
+||netease.com/cnews/bobologo.png
+||163.com^*/boboData
+||163.com/special/*/bobo.html
+||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
+||netease.com/tie/2015/2/2/yc3.jpg
 !------------------------Specific element hiding rules------------------------!
 feng.com##DIV[class^="wep_e_"]
 feng.com##div[class^="wea_d_"]
 feng.com##.wea_d_panel_980
+163.com##.bobo-area
+163.com###js_a_bobo
+163.com###bobo
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
 @@/view.php?what=zone:94&$domain=feng.com
