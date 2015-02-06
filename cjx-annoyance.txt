@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1lSP2VyoJwjjJBTB+nfSCQ
-! Version: 201502052311
+! Checksum: XiYkxwFYy/dWSE6eLsZ15w
+! Version: 201502062241
 ! Title: CJX's Annoyance List
-! Only for Chinese websites.
-! Last modified: 2015/02/05 23:11 +0800
+! Only for chinese language websites.
+! Last modified: 2015/02/06 22:41 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -13,6 +13,7 @@
 !------------------------General element hiding rules-------------------------!
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
+||looyu.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
@@ -25,6 +26,8 @@
 ||163.com/special/*/bobo.html
 ||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
 ||netease.com/tie/2015/2/2/yc3.jpg
+||koolearn.com/v2/js/indexAD.js
+||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 !------------------------Specific element hiding rules------------------------!
 feng.com##DIV[class^="wep_e_"]
@@ -35,6 +38,8 @@ feng.com##.wea_d_panel_980
 163.com###bobo
 haosou.com###haosou-banner-left
 haosou.com###so_feb
+cheaa.com###AD002
+cheaa.com###ADText
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
 @@/view.php?what=zone:94&$domain=feng.com
