@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: p5Tq+TJEUswh+e54ox+BJA
-! Version: 201502081306
+! Checksum: pnM+BuaSidSfTIOf7QLdmA
+! Version: 201502082053
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/02/08 13:06 +0800
+! Last modified: 2015/02/08 20:53 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -11,15 +11,20 @@
 !
 !-----------------------General advert blocking filters-----------------------!
 !------------------------General element hiding rules-------------------------!
+###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
 ||looyu.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
+||duba.net/skins/2009/images/db300_250.gif
 ||feng.com^*/view.php?what=zone:
 ||feng.com/aoodoo/
 ||fengbuy.com/recommend-new.php
+||ithome.com/images/v2.1/downsoftmaster.gif
+||ithome.com/images/productgif/pcmaster.gif
+||115img.com/static/pc/d_
 ||lab.feng.com/images_new/ad-
 ||iask.sina.com.cn/t/
 ||netease.com/cnews/bobologo.png
@@ -33,6 +38,13 @@
 !------------------------Specific element hiding rules------------------------!
 fmdisk.com##DIV[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > P
 iask.sina.com.cn###daily_topic_flnr
+news.baidu.com###favoriteTips
+news.baidu.com##.recommend-animate
+news.baidu.com##.recommend-mask
+hao123.com##.hao123-search > .notice-fixed
+hao123.com##.newskin-tip
+hao123.com##.slidetoolbarContainr
+hao123.com##.tvtip
 iask.sina.com.cn##.daily_entrance
 feng.com##DIV[class^="wep_e_"]
 feng.com##div[class^="wea_d_"]
