@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8G4ooif6PqJGd8XznlLIjw
-! Version: 201502092317
+! Checksum: zZ1okDwVFx4nhvHrVOCK5w
+! Version: 201502101740
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/02/09 23:17 +0800
+! Last modified: 2015/02/10 17:40 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -18,6 +18,7 @@
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
+||gtimg.com/gamezone/2014index/images/600x75.jpg
 ||duba.net/skins/2009/images/db300_250.gif
 ||feng.com^*/view.php?what=zone:
 ||feng.com/aoodoo/
@@ -67,4 +68,164 @@ cheaa.com###ADText
 @@/%*logo.png|$domain=feng.com
 @@/view.php?what=zone:93&$domain=feng.com
 !--------------------------------Tracking Systems-----------------------------!
+/cv/*&uuid=$object-subrequest
+/mysql/count/*$script,domain=ts.cn
+@@||7m.cn/v2/js/analyse.js
+@@||analytics.163.com/ntes.js
+@@||guahao.cn/common/js/plugins/fingerprint.js
+@@||hm.baidu.com^$domain=ihome99.com
+@@||msn.wrating.com/a1.js
+@@||pingjs.qq.com/ping.js
+@@||scorecardresearch.com/beacon.js$domain=hktvmall.com
+@@||stjscn.s-msn.com/portal/hp/2011/udctrack.
+@@||tajs.qq.com/stats?$domain=qq.com
+@@||tbcdn.cn^*/click_track.js
+||100bt.com/dc?Url
+||17173.com/live/stat_
+||19lou.com/dm2011_city.gif?
+||39.net/js/wt.js
+||55bbs.com/pv.js
+||56img.com/script/fn/stat/
+||8cnd.com^
+||a.tbcdn.cn/s/ac.js
+||a.tbcdn.cn/s/atp.js
+||a.tbcdn.cn/s/tb-tracer-min.js
+||acookie.*.gif?
+||acount.pconline.com.cn^
+||adgeo.163.com^
+||agrantsem.com/js/ag.js
+||analy.tuniu.cn^
+||analysis.chinaiiss.com^
+||analytics-union.sandai.net^
+||analytics-union.xunlei.com^
+||analytics.21cn.com^
+||analytics.tv189.cn^
+||api.cupid.qiyi.com/etx?
+||api.cupid.qiyi.com/track2
+||apple.www.letv.com/env/?
+||atpanel.com^$image
+||baidu.com/game/asset/common/performance.js
+||baidu.com/hunter/alog/
+||bc.qunar.com/o?s=
+||beacon.sina.com.cn^
+||bendibao.com/js/count.js
+||brand.sogou.com^
+||bshare.cn/bshare_view?Callback=
+||bt.ktxp.com/iframe/statistics.js
+||ca.cbsi.com.cn/rpv?
+||carstat.bitauto.com^
+||cbsi.com.cn/js/mlt.js
+||cdnlog.zhenai.com^
+||cheshi-img.com/js/pv.min.js
+||chinatimes.com/analytics/
+||cig.com.cn^$third-party
+||click.tianyaui.com^
+||cnmo.com/pv.js
+||count.enet.com.cn^
+||countpage.sznews.com^
+||cpms.now.com^
+||data.xici.net^
+||dcs.conac.cn/js/
+||dianping.com/hippo.gif?
+||doc88.com^*/count.js
+||dw.xcar.com.cn^*.gif?
+||ea3w.com/pv.js
+||fengniao.com/pv.js
+||fjsen.com:81/mysql/count/
+||frame.enet.com.cn/a.php
+||ftchinese.com/log/analytics.js
+||g.yccdn.com^
+||gdt.qq.com^
+||gridsumdissector.cn/gs.gif?
+||guahao.cn/blank.gif?
+||hao123img.com/res/js/track.js
+||haostat.qihoo.com^
+||hc360.com/js/module/common/logrecordservice.
+||hd.sohu.com.cn^$object-subrequest
+||hexun.com/js/att_count.js
+||house365.com/js/analyze.js
+||hz.youku.com/red/
+||icon.zol-img.com.cn/mainpage/js/click.js
+||ifengimg.com^*/sta_collection
+||img.kuai.xunlei.com/js/statistics.js
+||imp.zol.com.cn^
+||iqiyi.com/js/pingback/
+||isdspeed.qq.com^
+||itc.cn/cache/lib/v2/odvmonitor/
+||itc.cn/hdpv.js
+||itc.cn/pv/
+||itc.cn^*/tracker.js
+||js.17173.com/ping.js
+||kkpgv2.xunlei.com^
+||l.ykimg.com^
+||log.51cto.com^
+||log.daqi.com^
+||log.mtime.cn^
+||log.music.baidu.com^
+||log.vdisk.cn^
+||log.zongheng.com^
+||log1.17173.com^
+||log2.mtime.cn^
+||logs.51cto.com^
+||mafengwo.cn/uva/i.gif?
+||msg.71.am^
+||msg.ettoday.net^
+||msg.iqiyi.com^
+||msg.video.qiyi.com^
+||msn.ynet.com/c/tj_comm.js
+||newspage.xilu.com/model/visitlog.js
+||nsclick.baidu.com^
+||pv.hd.sohu.com^
+||pvtest.zol.com.cn^
+||qhimg.com/js/iwt.js
+||qunar.com/js/ga.min.js
+||record.kuai.xunlei.com^
+||rs.sinajs.cn^
+||runsky.com/phpstat/
+||s.360.cn^
+||s.so.360.cn^
+||shrek.6.cn^
+||sogou.com/js/pb_*.js
+||sohu.com/mail/pv/
+||stat.2u.com.cn/ol_2u.js
+||stat.55bbs.com^
+||stat.baike.com^
+||stat.cnmo.com^
+||stat.cutv.com^
+||stat.ea3w.com^
+||stat.fengniao.com^
+||stat.hebnews.cn^
+||stat.hkwb.net^
+||stat.house365.com^
+||stat.ijinshan.com^
+||stat.pchome.net^
+||stat.v.17173.com^
+||stat.ws.126.net^
+||stat.xgo.com.cn^
+||static.gridsumdissector.com^
+||static.hd.baofeng.com/script/baidu_
+||static.youku.com/*/index/js/iresearch.js
+||static.youku.com/*/js/cps.js
+||static.zongheng.com^*/ad_click.js
+||static.zongheng.com^*/adClickStat.js
+||static.zongheng.com^*/logger.min.js
+||stats.autohome.com.cn^
+||tajs.qq.com^
+||tcss.qq.com^
+||tf.360.cn^
+||tongji.mafengwo.cn^
+||tw.rd.yahoo.com^$image
+||uuu9.com/photolog.html
+||vm.aty.sohu.com^
+||web2.51.la^
+||xgo.com.cn/pv.js
+||xls.go.sohu.com^
+||youdao.com/ctlog?
+||youdao.com/tl?
+||zdnet.com.cn/js/pv.js
+||zdw.w8.com.cn/p.ht?
+||zhulang.com/zlpv.php
+||zol.com.cn/cgimp/zc.js
+||dp3.qq.com/qqcom/
+||hm.baidu.com/mkt.js
 !----------------------------------The End------------------------------------!
