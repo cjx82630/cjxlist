@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: NclSGJ90oHsatX1UvUtEPA
-! Version: 201502121328
+! Checksum: gjX9nJz14G2WhTB1ofta1A
+! Version: 201502140758
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/02/12 13:28 +0800
+! Last modified: 2015/02/14 07:58 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -18,6 +18,7 @@
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
+||iask.sina.com.cn/s-b/mxbg
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||17173.com/actapi/qiyu/
 ||17173cdn.com^*/js/task/src/task/live/greenhand/
@@ -35,7 +36,7 @@
 ||51zxw.net/netclass/images/*_top.jpg
 ||lab.feng.com/images_new/ad-
 ||iask.sina.com.cn/t/
-||netease.com/cnews/bobologo.png
+||netease.com^*bobologo
 ||163.com^*/boboData
 ||163.com/special/*/bobo.html
 ||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
@@ -45,6 +46,7 @@
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 !------------------------Specific element hiding rules------------------------!
 51zxw.net###idSlider
+163.com##.imglist-bobo-app
 jump.bdimg.com,tieba.baidu.com,tieba.com##.bonus_forum_aside
 17173.com###topAlert
 house365.com###ft-login
@@ -228,4 +230,6 @@ cheaa.com###ADText
 ||zol.com.cn/cgimp/zc.js
 ||dp3.qq.com/qqcom/
 ||hm.baidu.com/mkt.js
+/js/soku-analytics.js
+/soku/giantstar/js/youlog.js
 !----------------------------------The End------------------------------------!
