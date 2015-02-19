@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gjX9nJz14G2WhTB1ofta1A
-! Version: 201502140758
+! Checksum: PitLoszczySIsTLGsGKw9g
+! Version: 201502191018
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/02/14 07:58 +0800
+! Last modified: 2015/02/19 10:18 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -18,6 +18,8 @@
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||feng.com^*/index_treasure/
+||ithome.com/js/win7china.js
+||ithome.com/js/win8china.js
 ||iask.sina.com.cn/s-b/mxbg
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||17173.com/actapi/qiyu/
@@ -27,8 +29,7 @@
 ||house365.com/js/fixWin.php
 ||gtimg.com/gamezone/2014index/images/600x75.jpg
 ||duba.net/skins/2009/images/db300_250.gif
-||feng.com^*/view.php?what=zone:
-||feng.com/aoodoo/
+||feng.com/aodoo3/
 ||fengbuy.com/recommend-new.php
 ||ithome.com/images/v2.1/downsoftmaster.gif
 ||ithome.com/images/productgif/pcmaster.gif
@@ -108,7 +109,10 @@ cheaa.com###ADText
 ||atpanel.com^$image
 ||baidu.com/game/asset/common/performance.js
 ||baidu.com/hunter/alog/
-||bc.qunar.com/o?s=
+||bc.qunar.com^
+||qunar.com/render/ga.jsp?
+/analytics.js$domain=qunar.com
+||qunar.com/render/googlesem.jsp
 ||beacon.sina.com.cn^
 ||bendibao.com/js/count.js
 ||brand.sogou.com^
@@ -232,4 +236,6 @@ cheaa.com###ADText
 ||hm.baidu.com/mkt.js
 /js/soku-analytics.js
 /soku/giantstar/js/youlog.js
+||suning.cn/javascript/sn_da/sa.js
+||abab.com/pv.js
 !----------------------------------The End------------------------------------!
