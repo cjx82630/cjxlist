@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YQI1aI5YhIYC6Lcnb+ntmw
-! Version: 201502231322
+! Checksum: GrypfHkKgjiu5XYNxB/klQ
+! Version: 201502261731
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/02/23 13:22 +0800
+! Last modified: 2015/02/26 17:31 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -43,10 +43,13 @@
 ||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
 ||netease.com/tie/2015/2/2/yc3.jpg
 ||koolearn.com/v2/js/indexAD.js
+||shopping.udn.com/mall/cus/cat/OutWebAd.do?
+||eic.org.cn^*/analytics
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 !------------------------Specific element hiding rules------------------------!
 51zxw.net###idSlider
+8591.com.tw###active_enter
 tw.beanfun.com###flybeanfun
 163.com##.imglist-bobo-app
 jump.bdimg.com,tieba.baidu.com,tieba.com##.bonus_forum_aside
@@ -240,4 +243,5 @@ cheaa.com###ADText
 ||suning.cn/javascript/sn_da/sa.js
 ||abab.com/pv.js
 ||analytics.techweb.com.cn^
+||wlxww.com/html/analytics/
 !----------------------------------The End------------------------------------!
