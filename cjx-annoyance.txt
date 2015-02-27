@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GrypfHkKgjiu5XYNxB/klQ
-! Version: 201502261731
+! Checksum: WcEO2iyfvcxiRu0nrb966g
+! Version: 201502272108
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/02/26 17:31 +0800
+! Last modified: 2015/02/27 21:08 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -17,76 +17,80 @@
 ||looyu.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
-||feng.com^*/index_treasure/
-||ithome.com/js/win7china.js
-||ithome.com/js/win8china.js
-||iask.sina.com.cn/s-b/mxbg
-||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
+||115img.com/static/pc/d_
+||163.com/special/*/bobo.html
+||163.com^*/boboData
 ||17173.com/actapi/qiyu/
 ||17173cdn.com^*/js/task/src/task/live/greenhand/
-||zol-img.com.cn/star/image/star-banner2.gif
-||pcgames.com.cn/g/extlin/pcdownpic/
-||house365.com/js/fixWin.php
-||gtimg.com/gamezone/2014index/images/600x75.jpg
-||duba.net/skins/2009/images/db300_250.gif
-||feng.com/aodoo3/
-||fengbuy.com/recommend-new.php
-||ithome.com/images/v2.1/downsoftmaster.gif
-||ithome.com/images/productgif/pcmaster.gif
-||115img.com/static/pc/d_
 ||51zxw.net/netclass/images/*_top.jpg
-||lab.feng.com/images_new/ad-
+||duba.net/skins/2009/images/db300_250.gif
+||eic.org.cn^*/analytics
+||feng.com/aodoo3/
+||feng.com^*/index_treasure/
+||fengbuy.com/recommend-new.php
+||gtimg.com/gamezone/2014index/images/600x75.jpg
+||house365.com/js/fixWin.php
+||iask.sina.com.cn/s-b/mxbg
 ||iask.sina.com.cn/t/
-||netease.com^*bobologo
-||163.com^*/boboData
-||163.com/special/*/bobo.html
+||ithome.com/images/productgif/pcmaster.gif
+||ithome.com/images/v2.1/downsoftmaster.gif
+||ithome.com/js/win7china.js
+||ithome.com/js/win8china.js
+||koolearn.com/v2/js/indexAD.js
+||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
+||lab.feng.com/images_new/ad-
 ||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
 ||netease.com/tie/2015/2/2/yc3.jpg
-||koolearn.com/v2/js/indexAD.js
+||netease.com^*bobologo
+||pcgames.com.cn/g/extlin/pcdownpic/
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
-||eic.org.cn^*/analytics
-||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
+||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
+||tfg2.com/images/upfile/banner/
+||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
-51zxw.net###idSlider
-8591.com.tw###active_enter
-tw.beanfun.com###flybeanfun
-163.com##.imglist-bobo-app
-jump.bdimg.com,tieba.baidu.com,tieba.com##.bonus_forum_aside
-17173.com###topAlert
-house365.com###ft-login
-house365.com##.left_fudong_ad
-igo.cn##.adBG
-lvmama.com###centerDialog
-lvmama.com###leftDialog
-fmdisk.com##DIV[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > P
-iask.sina.com.cn###daily_topic_flnr
-news.baidu.com###favoriteTips
-news.baidu.com##.recommend-animate
-news.baidu.com##.recommend-mask
-hao123.com##.hao123-search > .notice-fixed
-hao123.com##.newskin-tip
-hao123.com##.slidetoolbarContainr
-hao123.com##.tvtip
-iask.sina.com.cn##.daily_entrance
-feng.com##DIV[class^="wep_e_"]
-feng.com##div[class^="wea_d_"]
-feng.com##.wea_d_panel_980
-163.com##.bobo-area
-163.com###js_a_bobo
-163.com###bobo
-haosou.com###haosou-banner-left
-haosou.com###so_feb
 cheaa.com###AD002
 cheaa.com###ADText
+8591.com.tw###active_enter
+163.com###bobo
+lvmama.com###centerDialog
+iask.sina.com.cn###daily_topic_flnr
+news.baidu.com###favoriteTips
+tw.beanfun.com###flybeanfun
+house365.com###ft-login
+haosou.com###haosou-banner-left
+51zxw.net###idSlider
+163.com###js_a_bobo
+lvmama.com###leftDialog
+haosou.com###so_feb
+17173.com###topAlert
+igo.cn##.adBG
+163.com##.bobo-area
+jump.bdimg.com,tieba.baidu.com,tieba.com##.bonus_forum_aside
+iask.sina.com.cn##.daily_entrance
+hao123.com##.hao123-search > .notice-fixed
+163.com##.imglist-bobo-app
+house365.com##.left_fudong_ad
+hao123.com##.newskin-tip
+news.baidu.com##.recommend-animate
+news.baidu.com##.recommend-mask
+hao123.com##.slidetoolbarContainr
+hao123.com##.tvtip
+feng.com##.wea_d_panel_980
+feng.com##div[class^="wea_d_"]
+feng.com##div[class^="wep_e_"]
+fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
-@@/view.php?what=zone:94&$domain=feng.com
 @@/%*logo.png|$domain=feng.com
 @@/view.php?what=zone:93&$domain=feng.com
+@@/view.php?what=zone:94&$domain=feng.com
 !--------------------------------Tracking Systems-----------------------------!
+/analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
+/js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
+/soku/giantstar/js/youlog.js
 ||100bt.com/dc?Url
 ||17173.com/live/stat_
 ||19lou.com/dm2011_city.gif?
@@ -97,6 +101,7 @@ cheaa.com###ADText
 ||a.tbcdn.cn/s/ac.js
 ||a.tbcdn.cn/s/atp.js
 ||a.tbcdn.cn/s/tb-tracer-min.js
+||abab.com/pv.js
 ||acookie.*.gif?
 ||acount.pconline.com.cn^
 ||adgeo.163.com^
@@ -106,17 +111,16 @@ cheaa.com###ADText
 ||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
 ||analytics.21cn.com^
+||analytics.techweb.com.cn^
 ||analytics.tv189.cn^
 ||api.cupid.qiyi.com/etx?
 ||api.cupid.qiyi.com/track2
+||apistat.wasu.cn^
 ||apple.www.letv.com/env/?
 ||atpanel.com^$image
 ||baidu.com/game/asset/common/performance.js
 ||baidu.com/hunter/alog/
 ||bc.qunar.com^
-||qunar.com/render/ga.jsp?
-/analytics.js$domain=qunar.com
-||qunar.com/render/googlesem.jsp
 ||beacon.sina.com.cn^
 ||bendibao.com/js/count.js
 ||brand.sogou.com^
@@ -138,6 +142,7 @@ cheaa.com###ADText
 ||dcs.conac.cn/js/
 ||dianping.com/hippo.gif?
 ||doc88.com^*/count.js
+||dp3.qq.com/qqcom/
 ||dw.xcar.com.cn^*.gif?
 ||ea3w.com/pv.js
 ||fengniao.com/pv.js
@@ -145,7 +150,6 @@ cheaa.com###ADText
 ||frame.enet.com.cn/a.php
 ||ftchinese.com/log/analytics.js
 ||g.yccdn.com^
-||gdt.qq.com^
 ||gridsumdissector.cn/gs.gif?
 ||guahao.cn/blank.gif?
 ||hao123img.com/res/js/track.js
@@ -153,6 +157,7 @@ cheaa.com###ADText
 ||hc360.com/js/module/common/logrecordservice.
 ||hd.sohu.com.cn^$object-subrequest
 ||hexun.com/js/att_count.js
+||hm.baidu.com/mkt.js
 ||house365.com/js/analyze.js
 ||hz.youku.com/red/
 ||icon.zol-img.com.cn/mainpage/js/click.js
@@ -189,6 +194,8 @@ cheaa.com###ADText
 ||pvtest.zol.com.cn^
 ||qhimg.com/js/iwt.js
 ||qunar.com/js/ga.min.js
+||qunar.com/render/ga.jsp?
+||qunar.com/render/googlesem.jsp
 ||record.kuai.xunlei.com^
 ||rs.sinajs.cn^
 ||runsky.com/phpstat/
@@ -212,6 +219,7 @@ cheaa.com###ADText
 ||stat.v.17173.com^
 ||stat.ws.126.net^
 ||stat.xgo.com.cn^
+||stat.yunfan.com^
 ||static.gridsumdissector.com^
 ||static.hd.baofeng.com/script/baidu_
 ||static.youku.com/*/index/js/iresearch.js
@@ -220,6 +228,7 @@ cheaa.com###ADText
 ||static.zongheng.com^*/adClickStat.js
 ||static.zongheng.com^*/logger.min.js
 ||stats.autohome.com.cn^
+||suning.cn/javascript/sn_da/sa.js
 ||tajs.qq.com^
 ||tcss.qq.com^
 ||tf.360.cn^
@@ -228,6 +237,7 @@ cheaa.com###ADText
 ||uuu9.com/photolog.html
 ||vm.aty.sohu.com^
 ||web2.51.la^
+||wlxww.com/html/analytics/
 ||xgo.com.cn/pv.js
 ||xls.go.sohu.com^
 ||youdao.com/ctlog?
@@ -236,12 +246,4 @@ cheaa.com###ADText
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
-||dp3.qq.com/qqcom/
-||hm.baidu.com/mkt.js
-/js/soku-analytics.js
-/soku/giantstar/js/youlog.js
-||suning.cn/javascript/sn_da/sa.js
-||abab.com/pv.js
-||analytics.techweb.com.cn^
-||wlxww.com/html/analytics/
 !----------------------------------The End------------------------------------!
