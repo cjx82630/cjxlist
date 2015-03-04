@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: B87ijjSQiF14NB7jgL2aQw
-! Version: 201503022218
+! Checksum: rYA1cpnYX690lAdhNFPWmQ
+! Version: 201503042253
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/03/02 22:18 +0800
+! Last modified: 2015/03/04 22:53 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -47,10 +47,28 @@
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 ||baidu.dj/u/upan/you.html
+||a.game.qidian.com/Layout.aspx?
+||a.game.qidian.com/Show.aspx?
+||script.cmfu.com/Script/GameAdAptationInfo.js
+||cj.qidian.com/Picture/$domain=forum.qidian.com|sosu.qidian.com
 ||tfg2.com/images/upfile/banner/
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+qidian.com##.game_tj
+qidian.com##.ggbox740X80
+me.qidian.com##.ad-shell
+qidian.com,qdwenxue.com###divADClient
+qidian.com###ad_tjword
+qidian.com###ad_yxword
+qidian.com###divUserGuide
+qidian.com###two_dimensional
+qdmm.com,qdwenxue.com,qidian.com##.game_info
+www.qidian.com##div[class^="gg"]
+qdmm.com,qidian.com##a[href^="http://avd.qidian.com/showavd.aspx"]
+qidian.com##DIV[style="margin:0 auto;width:375px;height:63px;padding-top:5px"]
+qidian.com##.qd_sms_pop
+qidian.com##.top_game_info
 baidu.dj###ETE
 163.com##.top-banner
 cheaa.com###ADText
@@ -249,4 +267,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||zdw.w8.com.cn/p.ht?
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
+||count.pcgames.com.cn^
+||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
+.com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
 !----------------------------------The End------------------------------------!
