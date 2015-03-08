@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rYA1cpnYX690lAdhNFPWmQ
-! Version: 201503042253
+! Checksum: 9gE8onM0ISP+yD7OlC4D/g
+! Version: 201503082034
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/03/04 22:53 +0800
+! Last modified: 2015/03/08 20:34 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -18,6 +18,7 @@
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||115img.com/static/pc/d_
+||a.game.qidian.com/material/xs.js
 ||163.com/special/*/bobo.html
 ||163.com^*/boboData
 ||17173.com/actapi/qiyu/
@@ -52,6 +53,7 @@
 ||script.cmfu.com/Script/GameAdAptationInfo.js
 ||cj.qidian.com/Picture/$domain=forum.qidian.com|sosu.qidian.com
 ||tfg2.com/images/upfile/banner/
+||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
@@ -270,4 +272,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||count.pcgames.com.cn^
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
 .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
+/scriptonline.js?uin=
+||28.com/count.js
+/zcool-analytics.js
+||28.com/countnew.js
 !----------------------------------The End------------------------------------!
