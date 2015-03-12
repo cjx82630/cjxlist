@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9gE8onM0ISP+yD7OlC4D/g
-! Version: 201503082034
+! Checksum: fJ8q8ErCuyrCrbs5tfzHNA
+! Version: 201503121953
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/03/08 20:34 +0800
+! Last modified: 2015/03/12 19:53 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -18,7 +18,6 @@
 !---------------------------Popups--------------------------------------------!
 !----------------------Specific advert blocking filters-----------------------!
 ||115img.com/static/pc/d_
-||a.game.qidian.com/material/xs.js
 ||163.com/special/*/bobo.html
 ||163.com^*/boboData
 ||17173.com/actapi/qiyu/
@@ -48,29 +47,13 @@
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
 ||baidu.dj/u/upan/you.html
-||a.game.qidian.com/Layout.aspx?
-||a.game.qidian.com/Show.aspx?
-||script.cmfu.com/Script/GameAdAptationInfo.js
-||cj.qidian.com/Picture/$domain=forum.qidian.com|sosu.qidian.com
 ||tfg2.com/images/upfile/banner/
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
+||eastmoney.com/js/Share.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
-qidian.com##.game_tj
-qidian.com##.ggbox740X80
-me.qidian.com##.ad-shell
-qidian.com,qdwenxue.com###divADClient
-qidian.com###ad_tjword
-qidian.com###ad_yxword
-qidian.com###divUserGuide
-qidian.com###two_dimensional
-qdmm.com,qdwenxue.com,qidian.com##.game_info
-www.qidian.com##div[class^="gg"]
-qdmm.com,qidian.com##a[href^="http://avd.qidian.com/showavd.aspx"]
-qidian.com##DIV[style="margin:0 auto;width:375px;height:63px;padding-top:5px"]
-qidian.com##.qd_sms_pop
-qidian.com##.top_game_info
+zol.com.cn##.today-hot-layer
 baidu.dj###ETE
 163.com##.top-banner
 cheaa.com###ADText
@@ -276,4 +259,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||28.com/count.js
 /zcool-analytics.js
 ||28.com/countnew.js
+||5173.com/__tra.gif?
+||ynet.com/c/js/manto.min.js
+||counter.tianjimedia.com^
+||baidu.com^*/w.gif?
 !----------------------------------The End------------------------------------!
