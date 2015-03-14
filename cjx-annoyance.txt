@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fJ8q8ErCuyrCrbs5tfzHNA
-! Version: 201503121953
+! Checksum: JNv8dt4lrYMU9+0BwSTIqQ
+! Version: 201503141341
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/03/12 19:53 +0800
+! Last modified: 2015/03/14 13:41 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -50,6 +50,7 @@
 ||tfg2.com/images/upfile/banner/
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
 ||eastmoney.com/js/Share.js
+||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
