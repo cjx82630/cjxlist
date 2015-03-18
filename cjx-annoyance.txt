@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZLY3XFxesPm9Q898QTSW1w
-! Version: 201503171221
+! Checksum: 0g/PoEPpbDWElwa8EcgjQg
+! Version: 201503182211
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/03/17 12:21 +0800
+! Last modified: 2015/03/18 22:11 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -49,12 +49,15 @@
 ||baidu.dj/u/upan/you.html
 ||tfg2.com/images/upfile/banner/
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
-||eastmoney.com/js/Share.js
+||eastmoney.com/js/*Share.js
 ||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
 ||qhimg.com/t01c9009fd25284520c.jpg
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+udn.com###ec
+tv.sohu.com###referr_bd_box
+taoguba.com.cn###wrap_footer > DIV[style^="width: 957px;"]
 360kan.com##.bg-link
 66rpg.com###left_overlay
 66rpg.com###right_overlay
