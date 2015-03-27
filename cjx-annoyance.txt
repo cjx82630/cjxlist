@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: uo6bGzl42hdvScP8ZDW5fg
-! Version: 201503200920
+! Checksum: EuH2bPKyqb8doI1dLAR47Q
+! Version: 201503272207
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/03/20 09:20 +0800
+! Last modified: 2015/03/27 22:07 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -24,6 +24,7 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
 ||163.com/special/*/bobo.html
 ||163.com^*/boboData
@@ -58,15 +59,15 @@
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
 ||eastmoney.com/js/*Share.js
 ||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
-||qhimg.com/t01c9009fd25284520c.jpg
+||ithome.com/block/headerline$subdocument
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+ithome.com##DIV[style^="width:960px;height:60px;"]
 360.cn###weishi-alert
 udn.com###ec
 tv.sohu.com###referr_bd_box
 taoguba.com.cn###wrap_footer > DIV[style^="width: 957px;"]
-360kan.com##.bg-link
 66rpg.com###left_overlay
 66rpg.com###right_overlay
 fx168.com###diaochaBg
