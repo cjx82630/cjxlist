@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iB25DjCcOy6Pyui63gf/+A
-! Version: 201503282040
+! Checksum: pi9MGUjjh+QQNWim0K1tzg
+! Version: 201504021735
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/03/28 20:40 +0800
+! Last modified: 2015/04/02 17:35 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -15,6 +15,7 @@
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
 ||looyu.com^$third-party
+||crs.baidu.com^
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
 ||tsdm.net/qxs.php/|$popup,domain=www.tsdm.net
