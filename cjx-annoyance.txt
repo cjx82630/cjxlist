@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Jv/2Bf7zuriV9FaysTcIFQ
-! Version: 201504051309
+! Checksum: b5hktsTp6u8/dswtB17n9Q
+! Version: 201504072031
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/05 13:09 +0800
+! Last modified: 2015/04/07 20:31 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -25,6 +25,7 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||eastmoney.com/public/ad.tools.
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
 ||163.com/special/*/bobo.html
@@ -65,6 +66,9 @@
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 cheaa.com###AD002
+loldk.com##.appfix
+15w.com###rec
+0439.com###kanfang
 duowan.com##.lolboxapps-qrcode
 www.163.com###layout-new2 A[href*="www.kaola.com"]
 ithome.com##DIV[style^="width:960px;height:60px;"]
@@ -125,6 +129,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
 ||100bt.com/dc?Url
+||51la.net^$third-party
 ||17173.com/live/stat_
 ||19lou.com/dm2011_city.gif?
 ||39.net/js/wt.js
