@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b5hktsTp6u8/dswtB17n9Q
-! Version: 201504072031
+! Checksum: kx7Vp4onJwTuKyva+jw9hw
+! Version: 201504092157
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/07 20:31 +0800
+! Last modified: 2015/04/09 21:57 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -25,6 +25,7 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||tq.cn/floatcard?
 ||eastmoney.com/public/ad.tools.
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
@@ -63,8 +64,16 @@
 ||tianyaui.com/global/dashang/vip_seat/js/ds_vip_seat.js
 ||ithome.com/block/headerline$subdocument
 ||mnks.cn/jk/appAD_
+||toutiao.haotui.com/data/js/0.js
+||bjwj2y.com/JS/LsJS.aspx
+||rjzxw.com/temp/index.files/logo2.gif
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
+2cto.com##.adv980
+iqiyi.com##IFRAME[style^="z-index:"]:last-child
+youth.cn###identifier-pannel
+2cto.com##.adv980box
+2cto.com##div[style^="float:left;width:300px;"]
 cheaa.com###AD002
 loldk.com##.appfix
 15w.com###rec
@@ -161,7 +170,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||bc.qunar.com^
 ||beacon.sina.com.cn^
 ||bendibao.com/js/count.js
-||brand.sogou.com^
 ||bshare.cn/bshare_view?Callback=
 ||bt.ktxp.com/iframe/statistics.js
 ||ca.cbsi.com.cn/rpv?
@@ -295,4 +303,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||ynet.com/c/js/manto.min.js
 ||counter.tianjimedia.com^
 ||baidu.com^*/w.gif?
+||tj.21ic.com^
+||sogou.com/cl.gif?
 !----------------------------------The End------------------------------------!
