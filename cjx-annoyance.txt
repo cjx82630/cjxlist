@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: kx7Vp4onJwTuKyva+jw9hw
-! Version: 201504092157
+! Checksum: 80uk06pIMnf/kTMrK2zsxQ
+! Version: 201504101014
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/09 21:57 +0800
+! Last modified: 2015/04/10 10:14 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -67,9 +67,11 @@
 ||toutiao.haotui.com/data/js/0.js
 ||bjwj2y.com/JS/LsJS.aspx
 ||rjzxw.com/temp/index.files/logo2.gif
+||127.net/external/js6promote.min.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+mail.126.com,mail.163.com##DIV[id$="_BannerDiv"]
 iqiyi.com##IFRAME[style^="z-index:"]:last-child
 youth.cn###identifier-pannel
 2cto.com##.adv980box
