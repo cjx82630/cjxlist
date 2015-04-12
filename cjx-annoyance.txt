@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ORwrNY6TefNyQ3BAxkiKbg
-! Version: 201504101824
+! Checksum: 9njyECUjv4+PXMqEjGgdjw
+! Version: 201504130039
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/10 18:24 +0800
+! Last modified: 2015/04/13 00:39 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -69,9 +69,12 @@
 ||bjwj2y.com/JS/LsJS.aspx
 ||rjzxw.com/temp/index.files/logo2.gif
 ||127.net/external/js6promote.min.js
+||naajie.com/float.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+sxrtv.com###ad1
+sxrtv.com###ad2
 wenku.baidu.com##.tiger-vip-dialog
 wenku.baidu.com##.edu_class_pop_dialog
 mail.126.com,mail.163.com##DIV[id$="_BannerDiv"]
@@ -248,7 +251,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||qunar.com/render/ga.jsp?
 ||qunar.com/render/googlesem.jsp
 ||record.kuai.xunlei.com^
-||rs.sinajs.cn^
 ||runsky.com/phpstat/
 ||s.360.cn^
 ||s.so.360.cn^
@@ -282,7 +284,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||suning.cn/javascript/sn_da/sa.js
 ||tajs.qq.com^
 ||tcss.qq.com^
-||tf.360.cn^
 ||tongji.mafengwo.cn^
 ||tw.rd.yahoo.com^$image
 ||uuu9.com/photolog.html
