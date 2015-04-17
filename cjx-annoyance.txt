@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9njyECUjv4+PXMqEjGgdjw
-! Version: 201504130039
+! Checksum: 21RT3ireRfteudqhoQkfpw
+! Version: 201504170922
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/13 00:39 +0800
+! Last modified: 2015/04/17 09:22 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -70,11 +70,17 @@
 ||rjzxw.com/temp/index.files/logo2.gif
 ||127.net/external/js6promote.min.js
 ||naajie.com/float.js
+||lofter.com/mailEntry.do?blogad
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+blog.163.com###r_mlofteriframe
+blog.163.com###r_mlofteriframe2
+17173.com##.js-lol-pop
+17173.com##.list-beauty
 sxrtv.com###ad1
 sxrtv.com###ad2
+iqiyi.com##DIV[style^="z-index: 4200; position: absolute; left:"]
 wenku.baidu.com##.tiger-vip-dialog
 wenku.baidu.com##.edu_class_pop_dialog
 mail.126.com,mail.163.com##DIV[id$="_BannerDiv"]
@@ -148,7 +154,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||100bt.com/dc?Url
 ||51la.net^$third-party
 ||17173.com/live/stat_
-||19lou.com/dm2011_city.gif?
+||19lou.com/dm2011_
 ||39.net/js/wt.js
 ||55bbs.com/pv.js
 ||56img.com/script/fn/stat/
