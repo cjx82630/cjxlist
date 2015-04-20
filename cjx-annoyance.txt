@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 21RT3ireRfteudqhoQkfpw
-! Version: 201504170922
+! Checksum: gWygqtrP57UhB05ls3O4ww
+! Version: 201504202227
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/17 09:22 +0800
+! Last modified: 2015/04/20 22:27 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -27,6 +27,8 @@
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
 ||tq.cn/floatcard?
+||mitbbs.com/img/app
+||cmsjs.eastmoney.com/js/news_fixed_left.js
 ||eastmoney.com/public/ad.tools.
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
@@ -51,8 +53,6 @@
 ||koolearn.com/v2/js/indexAD.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||lab.feng.com/images_new/ad-
-||netease.com/2008/2014/3/10/20140310173446abc7d.jpg
-||netease.com/tie/2015/2/2/yc3.jpg
 ||netease.com^*bobologo
 ||pcgames.com.cn/g/extlin/pcdownpic/
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
@@ -74,6 +74,8 @@
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+meitu.com###meipaiFixed
+163.com,~love.163.com##A[href^="http://love.163.com/"]
 blog.163.com###r_mlofteriframe
 blog.163.com###r_mlofteriframe2
 17173.com##.js-lol-pop
@@ -93,7 +95,8 @@ loldk.com##.appfix
 15w.com###rec
 0439.com###kanfang
 duowan.com##.lolboxapps-qrcode
-www.163.com###layout-new2 A[href*="www.kaola.com"]
+163.com##A[href*=".kaola.com"]:first-child:last-child
+163.com##.quickmark
 ithome.com##DIV[style^="width:960px;height:60px;"]
 360.cn###weishi-alert
 udn.com###ec
