@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gWygqtrP57UhB05ls3O4ww
-! Version: 201504202227
+! Checksum: uHSQZp7ZMYycJqfksjaJ9g
+! Version: 201504220016
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/20 22:27 +0800
+! Last modified: 2015/04/22 00:16 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -17,6 +17,8 @@
 ||knet.cn^$third-party
 ||looyu.com^$third-party
 ||crs.baidu.com^
+||lxbjs.baidu.com^$third-party
+||goutong.baidu.com^
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
 ||tsdm.net/qxs.php/|$popup,domain=www.tsdm.net
@@ -71,9 +73,11 @@
 ||127.net/external/js6promote.min.js
 ||naajie.com/float.js
 ||lofter.com/mailEntry.do?blogad
+||xcar.com.cn/bbs/adfocus.js
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+xcar.com.cn###show_car
 meitu.com###meipaiFixed
 163.com,~love.163.com##A[href^="http://love.163.com/"]
 blog.163.com###r_mlofteriframe
@@ -85,7 +89,6 @@ sxrtv.com###ad2
 iqiyi.com##DIV[style^="z-index: 4200; position: absolute; left:"]
 wenku.baidu.com##.tiger-vip-dialog
 wenku.baidu.com##.edu_class_pop_dialog
-mail.126.com,mail.163.com##DIV[id$="_BannerDiv"]
 iqiyi.com##IFRAME[style^="z-index:"]:last-child
 youth.cn###identifier-pannel
 2cto.com##.adv980box
@@ -320,4 +323,9 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||baidu.com^*/w.gif?
 ||tj.21ic.com^
 ||sogou.com/cl.gif?
+||optaim.com^$third-party
+||ark.letv.com/t?
+/cp2.gif?*=qc_
+||iqiyi.com/etx?
+||iqiyi.com/track
 !----------------------------------The End------------------------------------!
