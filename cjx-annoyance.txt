@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HjDEMGJlQapiYa26YMyTFw
-! Version: 201504242035
+! Checksum: AfGV9p4UZwdPAuN3g/bSlQ
+! Version: 201504250038
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/04/24 20:35 +0800
+! Last modified: 2015/04/25 00:38 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -77,6 +77,7 @@
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+youku.com##.pop-prompt-box
 cnbeta.com##.wdj_box
 xcar.com.cn###show_car
 meitu.com###meipaiFixed
