@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Fjph6fFI7fcIZB3RWzfLrw
-! Version: 201505062254
+! Checksum: qlTxdzpnfwNI/PLiediR8g
+! Version: 201505112313
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/05/06 22:54 +0800
+! Last modified: 2015/05/11 23:13 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -29,6 +29,9 @@
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
 ||tq.cn/floatcard?
+||gtimg.com/finance/js/st/p/news_ad_
+||forex.com.cn/index.php/Invoking/tanchukuang
+||forex.com.cn/statics/images/ewm.jpg
 ||mitbbs.com/img/app
 ||cmsjs.eastmoney.com/js/news_fixed_left.js
 ||eastmoney.com/public/ad.tools.
@@ -77,6 +80,8 @@
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+sogou.com##.side_adv_wrap
+sogou.com##.top_adv_wrap
 taizhou.com.cn##.duilian
 taizhou.com.cn##.duilian2
 52wmb.com###popContent
