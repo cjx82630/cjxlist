@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qlTxdzpnfwNI/PLiediR8g
-! Version: 201505112313
+! Checksum: fnzjEiFtRKbEmyeyaXZkDA
+! Version: 201505151444
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/05/11 23:13 +0800
+! Last modified: 2015/05/15 14:44 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -29,6 +29,7 @@
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
 ||tq.cn/floatcard?
+||lofter.com/blogPhotoAd?
 ||gtimg.com/finance/js/st/p/news_ad_
 ||forex.com.cn/index.php/Invoking/tanchukuang
 ||forex.com.cn/statics/images/ewm.jpg
@@ -80,6 +81,7 @@
 ||zol-img.com.cn/star/image/star-banner2.gif
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+baidu.com##.s-tutorial-tip
 sogou.com##.side_adv_wrap
 sogou.com##.top_adv_wrap
 taizhou.com.cn##.duilian
@@ -152,6 +154,7 @@ news.baidu.com##.recommend-animate
 news.baidu.com##.recommend-mask
 hao123.com##.slidetoolbarContainr
 hao123.com##.tvtip
+163.com##.m-adv
 feng.com##.wea_d_panel_980
 feng.com##div[class^="wea_d_"]
 feng.com##div[class^="wep_e_"]
