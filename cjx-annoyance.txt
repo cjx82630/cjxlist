@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
-! Checksum: TJV9k9fOjdXLH72Kcm5+Ag
-! Version: 201506032128
+! Checksum: 8buU0xcVpKqGQ9rXVxHQKw
+! Version: 201506072134
 ! Title: CJX's Annoyance List
 ! Only for chinese language websites.
-! Last modified: 2015/06/03 21:28 +0800
+! Last modified: 2015/06/07 21:34 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
-! Homepage: https://github.com/cjx82630/cjxlist/
+! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
 !-----------------------General advert blocking filters-----------------------!
 !------------------------General element hiding rules-------------------------!
@@ -83,8 +83,10 @@
 ||xcar.com.cn/bbs/adfocus.js
 ||qidian.com/Images/990x40_
 ||zol-img.com.cn/star/image/star-banner2.gif
+||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+gaokao.com###ad_top_gkw
 alipay.com###J-cooperant-banner
 qidian.com##.qdRead_client
 12306.cn##.fix-yh
