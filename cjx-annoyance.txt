@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8buU0xcVpKqGQ9rXVxHQKw
-! Version: 201506072134
+! Checksum: dV5Nb1txTY9mgMJXk3XQuw
+! Version: 201506100946
 ! Title: CJX's Annoyance List
-! Only for chinese language websites.
-! Last modified: 2015/06/07 21:34 +0800
+! Only for Chinese Language Websites.
+! Last modified: 2015/06/10 09:46 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -16,6 +16,7 @@
 ||knet.cn^$third-party
 ||looyu.com^$third-party
 ||crs.baidu.com^
+||tui.cnzz.com^$third-party
 ||lxbjs.baidu.com^$third-party
 ||goutong.baidu.com^
 !---------------------------Popups--------------------------------------------!
@@ -86,6 +87,7 @@
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+ganji.com###write_resume_id
 gaokao.com###ad_top_gkw
 alipay.com###J-cooperant-banner
 qidian.com##.qdRead_client
