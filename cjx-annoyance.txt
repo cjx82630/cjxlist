@@ -1,9 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bJKX6RetIqCBlku4g7mZAA
-! Version: 201506142336
+! Version: 201506151930
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/14 23:36 +0800
+! Last modified: 2015/06/15 19:30 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -88,6 +87,7 @@
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+pconline.com.cn###JtlBestA
 ofweek.com###flybox-db
 ganji.com###write_resume_id
 gaokao.com###ad_top_gkw
