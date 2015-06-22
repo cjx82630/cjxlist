@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Q/Zbkxgat/YoVDo7H4MrKw
-! Version: 201506182252
+! Checksum: XQxzZZhSob/4B2kWJLb2CQ
+! Version: 201506222022
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/18 22:52 +0800
+! Last modified: 2015/06/22 20:22 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -14,6 +14,7 @@
 ###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
+||wumii.cn^$third-party,domain=~wumii.com|~wumii.org
 ||zoosnet.net^$third-party
 ||kuaishang.cn^$third-party
 ||looyu.com^$third-party
@@ -90,6 +91,9 @@
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+ifeng.com##.fhsd
+zgsyz.com###ad
+zgsyz.com###ad2
 pconline.com.cn###JtlBestA
 ofweek.com###flybox-db
 ganji.com###write_resume_id
