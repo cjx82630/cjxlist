@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XQxzZZhSob/4B2kWJLb2CQ
-! Version: 201506222022
+! Checksum: 5/6O1oyP+5Ge0Xx2ONtW+A
+! Version: 201506232103
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/22 20:22 +0800
+! Last modified: 2015/06/23 21:03 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -91,6 +91,7 @@
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+eastmoney.com###rightadvert
 ifeng.com##.fhsd
 zgsyz.com###ad
 zgsyz.com###ad2
@@ -185,6 +186,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
 @@/%*logo.png|$domain=feng.com
+@@||feng.com/aodoo3/images/54f86e822ee42.png
 @@/view.php?what=zone:93&$domain=feng.com
 @@/view.php?what=zone:94&$domain=feng.com
 !--------------------------------Tracking Systems-----------------------------!
@@ -371,4 +373,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||bitauto.com/bglog.gif?
 ||trends.com.cn/k.js
 ||duba.com/static/v2/js/min.pop.js
+||dfcfw.com/libs/js/counter.js
+||eastmoney.com/analysis/
 !----------------------------------The End------------------------------------!
