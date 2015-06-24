@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5/6O1oyP+5Ge0Xx2ONtW+A
-! Version: 201506232103
+! Checksum: d663GXdcSyhudt61VlekWQ
+! Version: 201506241924
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/23 21:03 +0800
+! Last modified: 2015/06/24 19:24 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -14,7 +14,6 @@
 ###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
-||wumii.cn^$third-party,domain=~wumii.com|~wumii.org
 ||zoosnet.net^$third-party
 ||kuaishang.cn^$third-party
 ||looyu.com^$third-party
@@ -31,6 +30,7 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||wumii.cn/ext/relatedItemsWidget
 ||sinajs.cn/t6/home/js/pl/guide/bigday/index.js
 ||c-ctrip.com/ResUnionOnline/R3/float/floating_normal.min.js
 ||tq.cn/floatcard?
@@ -91,6 +91,8 @@
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+ck365.cn###Dmids
+ck365.cn###content_login
 eastmoney.com###rightadvert
 ifeng.com##.fhsd
 zgsyz.com###ad
