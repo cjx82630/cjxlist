@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d663GXdcSyhudt61VlekWQ
-! Version: 201506241924
+! Checksum: vh25WG7ITmmktHd07xrPAQ
+! Version: 201507021557
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/06/24 19:24 +0800
+! Last modified: 2015/07/02 15:57 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -14,6 +14,9 @@
 ###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
+||5etv.com^$third-party
+||wpa.b.qq.com/cgi/wpa.php?
+||2005net.net^$third-party
 ||zoosnet.net^$third-party
 ||kuaishang.cn^$third-party
 ||looyu.com^$third-party
@@ -30,6 +33,8 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 ||reaicomic.com/images/sound2/pm_
+||neuralstemcell.com.cn/img/js.js
+||dmzj.com/module/js/float_code.js
 ||wumii.cn/ext/relatedItemsWidget
 ||sinajs.cn/t6/home/js/pl/guide/bigday/index.js
 ||c-ctrip.com/ResUnionOnline/R3/float/floating_normal.min.js
@@ -91,6 +96,7 @@
 ||eduuu.com/gaokao/2015/bannerDaili.js
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+duba.net###login_alert
 ck365.cn###Dmids
 ck365.cn###content_login
 eastmoney.com###rightadvert
@@ -377,4 +383,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||duba.com/static/v2/js/min.pop.js
 ||dfcfw.com/libs/js/counter.js
 ||eastmoney.com/analysis/
+||fx678.com/htcount/count.js
 !----------------------------------The End------------------------------------!
