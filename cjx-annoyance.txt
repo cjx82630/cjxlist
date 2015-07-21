@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: X/JocLivTN3fvTXyJcm92g
-! Version: 201507181218
+! Checksum: et6JoBluKJrE+AySfvbcPw
+! Version: 201507211051
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/07/18 12:18 +0800
+! Last modified: 2015/07/21 10:51 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -32,6 +32,7 @@
 ||dmf8.taobao.com/|$popup,domain=www.tsdm.net
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
+/^http:\/\/.*?\.\w+$/$xmlhttprequest,domain=tiexue.net
 ||reaicomic.com/images/sound2/pm_
 ||neuralstemcell.com.cn/img/js.js
 ||dmzj.com/module/js/float_code.js
@@ -201,6 +202,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 @@||feng.com/aodoo3/images/54f86e822ee42.png
 @@/view.php?what=zone:93&$domain=feng.com
 @@/view.php?what=zone:94&$domain=feng.com
+@@||tiexue.net/post2
+@@||tiexue.net/xml
 !--------------------------------Tracking Systems-----------------------------!
 /analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
@@ -389,4 +392,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||fx678.com/htcount/count.js
 ||it168.com/pv.js
 ||iciba.com/web/static/scripts/kds2_record.js
+||track.uc.cn^
+||pcpop.com/pv/pv.js
 !----------------------------------The End------------------------------------!
