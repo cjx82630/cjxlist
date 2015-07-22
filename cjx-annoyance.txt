@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: et6JoBluKJrE+AySfvbcPw
-! Version: 201507211051
+! Checksum: A2A2hYA6QLHFFkXwKMALoA
+! Version: 201507221632
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/07/21 10:51 +0800
+! Last modified: 2015/07/22 16:32 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -14,6 +14,7 @@
 ###windlocation
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
+||54kefu.net^$third-party
 ||5etv.com^$third-party
 ||wpa.b.qq.com/cgi/wpa.php?
 ||2005net.net^$third-party
@@ -33,6 +34,7 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !----------------------Specific advert blocking filters-----------------------!
 /^http:\/\/.*?\.\w+$/$xmlhttprequest,domain=tiexue.net
+||hc360.com/js/module/info/info_liuliangbao.js
 ||reaicomic.com/images/sound2/pm_
 ||neuralstemcell.com.cn/img/js.js
 ||dmzj.com/module/js/float_code.js
@@ -85,7 +87,7 @@
 ||toutiao.haotui.com/data/js/0.js
 ||bjwj2y.com/JS/LsJS.aspx
 ||rjzxw.com/temp/index.files/logo2.gif
-||127.net/external/js6promote.min.js
+||127.net/external/js6promote
 ||naajie.com/float.js
 ||lofter.com/mailEntry.do?blogad
 ||wanwan.sina.com.cn/kb/
