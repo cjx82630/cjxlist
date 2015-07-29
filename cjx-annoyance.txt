@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: z0oImFvXOVr4l8HqJwld0A
-! Version: 201507272212
+! Checksum: 9ksB2uhayJhVb1e9g6gWJA
+! Version: 201507292115
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/07/27 22:12 +0800
+! Last modified: 2015/07/29 21:15 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -25,6 +25,7 @@
 ||crs.baidu.com^
 ||tui.cnzz.com^$third-party
 ||lxbjs.baidu.com^$third-party
+||tanx.com/ex?i=$third-party
 ||goutong.baidu.com^
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
@@ -40,7 +41,6 @@
 ||neuralstemcell.com.cn/img/js.js
 ||dmzj.com/module/js/float_code.js
 ||wumii.cn/ext/relatedItemsWidget
-||sinajs.cn/t6/home/js/pl/guide/bigday/index.js
 ||c-ctrip.com/ResUnionOnline/R3/float/floating_normal.min.js
 ||tq.cn/floatcard?
 ||lofter.com/blogPhotoAd?
@@ -100,8 +100,11 @@
 ||kaoyan.com/global/js/backtopnew.js
 ||sinaimg.cn/large/a518ed97jw1eu4mxubbe6j209q01e3ys.jpg
 ||eduuu.com/gaokao/2015/bannerDaili.js
+||baike.com/newtop/news.html
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
+baike.com###newsfix-on
 loldk.com##A[href$=".html?from=video_right"]
 koolearn.com##.show_ad
 sina.com.cn##.blk_APP_JSl
