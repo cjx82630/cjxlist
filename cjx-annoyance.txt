@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3RwGYI4dIk7lpoy9hEXiXQ
-! Version: 201508032211
+! Checksum: jbhmNA3uCtIoH3TzZgbm5g
+! Version: 201508120750
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/08/03 22:11 +0800
+! Last modified: 2015/08/12 07:50 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -106,6 +106,8 @@
 ||xiaoma.com/xiaoma/www/js/article_right
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+pconline.com.cn###app-ewm-tg
+newsmth.net##.Smthtwenty_float
 xiaoma.com##.leftewm_topa
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 baike.com###newsfix-on
