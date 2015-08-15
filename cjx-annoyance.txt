@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 67xjBpsz35VxYtJZ2QRv6A
-! Version: 201508141159
+! Checksum: xbS5jIC02dVA+V/c4gZe7w
+! Version: 201508150902
 ! Title: CJX's Annoyance List
 ! Only for Chinese Language Websites.
-! Last modified: 2015/08/14 11:59 +0800
+! Last modified: 2015/08/15 09:02 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -106,6 +106,8 @@
 ||xiaoma.com/xiaoma/www/js/article_right
 !------------------------Specific element hiding rules------------------------!
 2cto.com##.adv980
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJ.umoney-promotion-dialog
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJmodal
 kaopu001.com##.coupleBannerAdv
 house365.com###marryD
 house365.com###AD-coup-left
