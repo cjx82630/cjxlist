@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xbS5jIC02dVA+V/c4gZe7w
-! Version: 201508150902
+! Checksum: +4Fk+x2vVFgJn10pf8UN+A
+! Version: 201508161142
 ! Title: CJX's Annoyance List
-! Only for Chinese Language Websites.
-! Last modified: 2015/08/15 09:02 +0800
+! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
+! to Remove Self-promotion & Block Tracking Systems on Chinese Websites
+! Last modified: 2015/08/16 11:42 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: 994722209@qq.com
@@ -104,7 +105,10 @@
 ||baike.com/newtop/news.html
 ||xiaoma.com/kf.php?arg=
 ||xiaoma.com/xiaoma/www/js/article_right
+||baidu.com/cms/lemmaconfig/baikeDynamic.
+||baidu.com/cms/lemmaconfig/navbarAd.
 !------------------------Specific element hiding rules------------------------!
+baike.baidu.com##.baike-dynamic-wrapper
 2cto.com##.adv980
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJ.umoney-promotion-dialog
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJmodal
@@ -417,4 +421,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||iciba.com/web/static/scripts/kds2_record.js
 ||track.uc.cn^
 ||pcpop.com/pv/pv.js
+||ta.trs.cn^$third-party
 !----------------------------------The End------------------------------------!
