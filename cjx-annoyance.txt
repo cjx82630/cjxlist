@@ -1,13 +1,13 @@
 [Adblock Plus 2.0]
-! Checksum: +4Fk+x2vVFgJn10pf8UN+A
-! Version: 201508161142
+! Checksum: LdOFwZzlOjEEVA7VDVFAJQ
+! Version: 201508181313
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! to Remove Self-promotion & Block Tracking Systems on Chinese Websites
-! Last modified: 2015/08/16 11:42 +0800
+! Last modified: 2015/08/18 13:13 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
-! Email: 994722209@qq.com
+! Email: cjxlist@gmail.com
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
 !-----------------------General advert blocking filters-----------------------!
@@ -107,8 +107,11 @@
 ||xiaoma.com/xiaoma/www/js/article_right
 ||baidu.com/cms/lemmaconfig/baikeDynamic.
 ||baidu.com/cms/lemmaconfig/navbarAd.
+/banner/*$domain=leiphone.com
 !------------------------Specific element hiding rules------------------------!
+leiphone.com##.zhiqu-ads
 baike.baidu.com##.baike-dynamic-wrapper
+miercn.com###foot_return_foot
 2cto.com##.adv980
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJ.umoney-promotion-dialog
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJmodal
