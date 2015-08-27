@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: NUlvBHReWihcxGIv20sIWA
-! Version: 201508262246
+! Checksum: yo+jbF+MF1cWDPZ/pa3vRA
+! Version: 201508271346
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! to Remove Self-promotion & Block Tracking Systems on Chinese Websites
-! Last modified: 2015/08/26 22:46 +0800
+! Last modified: 2015/08/27 13:46 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
-!-----------------------General advert blocking filters-----------------------!
+!--------------------------General blocking filters---------------------------!
 /source/plugin/yw_alertlogin/*
 !------------------------General element hiding rules-------------------------!
 ###windlocation
@@ -36,7 +36,7 @@
 ||dm.tsdm.net/xinfandongman/|$popup,domain=www.tsdm.net
 ||dmf8.taobao.com/|$popup,domain=www.tsdm.net
 ||loli.cd/|$popup,domain=www.tsdm.net
-!----------------------Specific advert blocking filters-----------------------!
+!--------------------------Specific blocking filters--------------------------!
 /^http:\/\/.*?\.\w+$/$xmlhttprequest,domain=tiexue.net
 ||bjsxt.com/statics/js/bjsxt/js.js
 ||hc360.com/js/module/info/info_liuliangbao.js
@@ -113,6 +113,7 @@
 ||hao123img.com/v4/MB/xU/jy/VY/YX/MBxUjyVYYX.js
 ||imall.cntv.cn^
 ||cctvpic.com/photoAlbum/templet/common/*/game_
+||to8to.com/gb_js/zxbj_bottom_bar.js
 !------------------------Specific element hiding rules------------------------!
 leiphone.com##.zhiqu-ads
 fwxgx.com##.baibaoxiang
