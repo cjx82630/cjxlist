@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: vmAwzVFNbuAfzyYcBtYiDA
-! Version: 201509061550
+! Checksum: pqQ8oEYc4wOMsbcd5sEf9w
+! Version: 201509101147
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! to Remove Self-promotion & Block Tracking Systems on Chinese Websites
-! Last modified: 2015/09/06 15:50 +0800
+! Last modified: 2015/09/10 11:47 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -107,7 +107,6 @@
 ||xiaoma.com/xiaoma/www/js/article_right
 ||baidu.com/cms/lemmaconfig/baikeDynamic.
 ||baidu.com/cms/lemmaconfig/navbarAd.
-/banner/*$domain=leiphone.com
 ||cndns.com/incs/js/website_mobile.js
 ||pconline.com.cn/jrzcz/*/intf
 ||hao123img.com/v4/MB/xU/jy/VY/YX/MBxUjyVYYX.js
@@ -116,9 +115,10 @@
 ||to8to.com/gb_js/zxbj_bottom_bar.js
 ||kuakao.com:6053/floatcard?
 ||iwan.baidu.com/rmaAjax/getGame?
+||netease.com/fz/interface/frontend/fz.do?pos=tongyong-
 !------------------------Specific element hiding rules------------------------!
-leiphone.com##.zhiqu-ads
 neihanshe.cn###mobile_client
+auto.ifeng.com##.acquire_1
 3d66.com##.King_Chance_LayerCont
 loldk.com##.intro-area > DIV[style="margin-top:10px;"]:nth-child(2)
 jikexueyuan.com##.pewm2
@@ -450,4 +450,5 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||news.cn/pc-log?
 ||123cha.com/counter.js
 ||stat.mql5.com^
+||analytics.oneplus.cn^
 !----------------------------------The End------------------------------------!
