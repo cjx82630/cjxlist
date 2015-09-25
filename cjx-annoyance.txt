@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zxv1p/p07aZ9JXQLuV9BfA
-! Version: 201509242201
+! Checksum: gPQHZ2kbIpNGcc01WNOmhg
+! Version: 201509251646
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! to Remove Self-promotion & Block Tracking Systems on Chinese Websites
-! Last modified: 2015/09/24 22:01 +0800
+! Last modified: 2015/09/25 16:46 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -268,11 +268,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /soku/giantstar/js/youlog.js
 ||100bt.com/dc?Url
 ||51la.net^$third-party
-||17173.com/live/stat_
 ||19lou.com/dm2011_
 ||39.net/js/wt.js
-||55bbs.com/pv.js
-||56img.com/script/fn/stat/
 ||8cnd.com^
 ||a.tbcdn.cn/s/ac.js
 ||a.tbcdn.cn/s/atp.js
@@ -280,7 +277,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||abab.com/pv.js
 ||acookie.*.gif?
 ||pconline.com.cn/count.php?
-||adgeo.163.com^
 ||agrantsem.com/js/ag.js
 ||analy.tuniu.cn^
 ||analysis.chinaiiss.com^
@@ -344,18 +340,14 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||itc.cn/hdpv.js
 ||itc.cn/pv/
 ||itc.cn^*/tracker.js
-||js.17173.com/ping.js
 ||kkpgv2.xunlei.com^
 ||l.ykimg.com^
-||log.51cto.com^
 ||log.daqi.com^
 ||log.mtime.cn^
 ||log.music.baidu.com^
 ||log.vdisk.cn^
 ||log.zongheng.com^
-||log1.17173.com^
 ||log2.mtime.cn^
-||logs.51cto.com^
 ||mafengwo.cn/uva/i.gif?
 ||msg.71.am^
 ||msg.ettoday.net^
@@ -364,7 +356,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||msn.ynet.com/c/tj_comm.js
 ||newspage.xilu.com/model/visitlog.js
 ||nsclick.baidu.com^
-||pv.hd.sohu.com^
 ||pvtest.zol.com.cn^
 ||qhimg.com/js/iwt.js
 ||qunar.com/js/ga.min.js
@@ -374,11 +365,9 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||runsky.com/phpstat/
 ||s.360.cn^
 ||s.so.360.cn^
-||shrek.6.cn^
 ||sogou.com/js/pb_*.js
 ||sohu.com/mail/pv/
 ||stat.2u.com.cn/ol_2u.js
-||stat.55bbs.com^
 ||stat.baike.com^
 ||stat.cnmo.com^
 ||stat.cutv.com^
@@ -390,17 +379,14 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||stat.ijinshan.com^
 ||stat.pchome.net^
 ||stat.v.17173.com^
-||stat.ws.126.net^
 ||stat.xgo.com.cn^
 ||stat.yunfan.com^
 ||static.gridsumdissector.com^
-||static.hd.baofeng.com/script/baidu_
 ||static.youku.com/*/index/js/iresearch.js
 ||static.youku.com/*/js/cps.js
 ||static.zongheng.com^*/ad_click.js
 ||static.zongheng.com^*/adClickStat.js
 ||static.zongheng.com^*/logger.min.js
-||stats.autohome.com.cn^
 ||suning.cn/javascript/sn_da/sa.js
 ||tajs.qq.com^
 ||tcss.qq.com^
