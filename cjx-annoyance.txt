@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ZWt27nREJRRG1bycXzLlQg
-! Version: 201510132313
+! Checksum: C2X6OpLDgw4xcuAzkE+Fxg
+! Version: 201510171033
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! to Remove Self-promotion & Block Tracking Systems on Chinese Websites
-! Last modified: 2015/10/13 23:13 +0800
+! Last modified: 2015/10/17 10:33 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -122,8 +122,13 @@
 ||wbiao.co/src2/js/expand/fudong/
 ||kongzhong.com/style/newindex/js/tad.js
 ||ol-img.com/channel/tuku/js/tukuPopup.js
+||yes1.feng.com^
+||pchome.com.tw/js/fancybox/
+||ifeng.com/uploadfiles/main_blog/main_child/v3_block
 !------------------------Specific element hiding rules------------------------!
 kongzhong.com###dn
+ltn.com.tw##.ltn_ad
+2.taobao.com##.download-layer
 neihanshe.cn###mobile_client
 ye120.com##.fixed_bottom
 qidian.com##.qdRead_redscan
