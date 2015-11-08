@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zUAWBHbITC4MpD/FSJuBkg
-! Version: 201511061559
+! Checksum: kkV5Su3uV8+3nSdgyN+lzQ
+! Version: 201511081331
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! to Remove Self-promotion & Block Tracking Systems on Chinese Websites
-! Last modified: 2015/11/06 15:59 +0800
+! Last modified: 2015/11/08 13:31 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -37,7 +37,6 @@
 ||dmf8.taobao.com/|$popup,domain=www.tsdm.net
 ||loli.cd/|$popup,domain=www.tsdm.net
 !--------------------------Specific blocking filters--------------------------!
-/^http:\/\/.*?\.\w+$/$xmlhttprequest,domain=tiexue.net
 ||bjsxt.com/statics/js/bjsxt/js.js
 ||hc360.com/js/module/info/info_liuliangbao.js
 ||reaicomic.com/images/sound2/pm_
@@ -129,6 +128,12 @@
 ||fydisk.com/images/showvip.gif
 !------------------------Specific element hiding rules------------------------!
 kongzhong.com###dn
+58.com###banjiaAD
+58.com###erweimaAd
+bilibili.com##.index-promote
+wenmi114.com###xiezuo
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###questionnaire_bg
+1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###questionnaire_contianer
 hehagame.com##.webad_bottom
 hehagame.com##.webad_right
 56.com##.xiu_mm
@@ -282,8 +287,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 @@||feng.com/aodoo3/images/54f86e822ee42.png
 @@/view.php?what=zone:93&$domain=feng.com
 @@/view.php?what=zone:94&$domain=feng.com
-@@||tiexue.net/post2
-@@||tiexue.net/xml
 !--------------------------------Tracking Systems-----------------------------!
 /analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
