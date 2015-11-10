@@ -1,16 +1,17 @@
 [Adblock Plus 2.0]
-! Checksum: bACCy7haKZjbmKhf+YfWgw
-! Version: 201511100958
+! Checksum: 7A5bUpHuiHzGM7YVuE999g
+! Version: 201511102326
 ! Title: CJX's Annoyance List
-! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
-! Remove Annoyances (e.g., Self-promotion) & Privacy Protection on Chinese Websites
-! Last modified: 2015/11/10 09:58 +0800
+! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
+! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
+! Last modified: 2015/11/10 23:26 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
 !--------------------------General blocking filters---------------------------!
+=Ad_ZPlusGoods&
 /source/plugin/yw_alertlogin/*
 !------------------------General element hiding rules-------------------------!
 ###windlocation
@@ -129,6 +130,7 @@
 ||pconline.com.cn/intf/hot_
 !------------------------Specific element hiding rules------------------------!
 kongzhong.com###dn
+iciba.com##.pc-entry
 zybang.com###aside
 58.com###banjiaAD
 58.com###erweimaAd
@@ -480,6 +482,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||stat.timedg.com^
 ||btrace.video.qq.com^
 ||stat.ts.cn^
+||baidu.com/4.gif?
+||apistat.gao7.com^
 !---------------------------------微博首页------------------------------------!
 !---首页顶部【游戏】
 weibo.com##.gn_nav_list > LI:nth-child(3)
