@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 7A5bUpHuiHzGM7YVuE999g
-! Version: 201511102326
+! Checksum: kD5zQq2fPmd+ervWGRTPyw
+! Version: 201511172114
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2015/11/10 23:26 +0800
+! Last modified: 2015/11/17 21:14 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -15,6 +15,7 @@
 /source/plugin/yw_alertlogin/*
 !------------------------General element hiding rules-------------------------!
 ###windlocation
+###qrcodeDownloadBar
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
 ||53kf.com^$third-party
@@ -113,7 +114,6 @@
 ||cctvpic.com/photoAlbum/templet/common/*/game_
 ||to8to.com/gb_js/zxbj_bottom_bar.js
 ||kuakao.com:6053/floatcard?
-||iwan.baidu.com/rmaAjax/getGame?
 ||netease.com/fz/interface/frontend/fz.do?pos=tongyong-
 ||bilibili.com/html/ads-index.js
 ||126.net/caipiao/js2/index/homePop.js
@@ -130,6 +130,8 @@
 ||pconline.com.cn/intf/hot_
 !------------------------Specific element hiding rules------------------------!
 kongzhong.com###dn
+uuu9.com##.c_box
+gfan.com##.downs
 iciba.com##.pc-entry
 zybang.com###aside
 58.com###banjiaAD
@@ -321,7 +323,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||apistat.wasu.cn^
 ||apple.www.letv.com/env/?
 ||atpanel.com^$image
-||baidu.com/game/asset/common/performance.
 ||baidu.com/hunter/alog/
 ||bc.qunar.com^
 ||bendibao.com/js/count.js
