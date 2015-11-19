@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kD5zQq2fPmd+ervWGRTPyw
-! Version: 201511172114
+! Checksum: jmx/YASX28xw7m4u2a9ClA
+! Version: 201511191918
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2015/11/17 21:14 +0800
+! Last modified: 2015/11/19 19:18 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -78,7 +78,6 @@
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 ||lab.feng.com/images_new/ad-
 ||netease.com^*bobologo
-||pcgames.com.cn/g/extlin/pcdownpic/
 ||shopping.udn.com/mall/cus/cat/OutWebAd.do?
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
 ||soft4fun.net/wp-content/themes/arthemia/js/common_footer_min.js
@@ -130,6 +129,10 @@
 ||pconline.com.cn/intf/hot_
 !------------------------Specific element hiding rules------------------------!
 kongzhong.com###dn
+xtuan.com###foot_zhaobiao_bar
+zol.com.cn###btmLoginLayer
+360.cn###pushbar-festival
+360.cn###sidebar
 uuu9.com##.c_box
 gfan.com##.downs
 iciba.com##.pc-entry
@@ -485,6 +488,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||stat.ts.cn^
 ||baidu.com/4.gif?
 ||apistat.gao7.com^
+||qhimg.com/clk.gif?
 !---------------------------------微博首页------------------------------------!
 !---首页顶部【游戏】
 weibo.com##.gn_nav_list > LI:nth-child(3)
