@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5saMkXfSrNMqz2OXCQDHEA
-! Version: 201511242226
+! Checksum: 1yyDkV9KgCw3OOAtZjCeWw
+! Version: 201511252124
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2015/11/24 22:26 +0800
+! Last modified: 2015/11/25 21:24 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -29,7 +29,6 @@
 ||crs.baidu.com^
 ||tui.cnzz.com^$third-party
 ||lxbjs.baidu.com^$third-party
-||p.tanx.com/ex?i=$third-party
 ||goutong.baidu.com^
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
@@ -112,6 +111,7 @@
 ||imall.cntv.cn^
 ||cctvpic.com/photoAlbum/templet/common/*/game_
 ||to8to.com/gb_js/zxbj_bottom_bar.js
+||to8to.com/yezhu/zxbjWidget.
 ||kuakao.com:6053/floatcard?
 ||netease.com/fz/interface/frontend/fz.do?pos=tongyong-
 ||bilibili.com/html/ads-index.js
@@ -129,6 +129,9 @@
 ||pconline.com.cn/intf/hot_
 ||pic.wpdaxue.com^*.js
 !------------------------Specific element hiding rules------------------------!
+to8to.com##.ask_side_opa
+to8to.com##.float
+to8to.com##.kgjr-wrap
 kongzhong.com###dn
 cngold.org##.ag_fwindow_ywp
 douyutv.com##.lyzm-prevent
@@ -194,6 +197,7 @@ yahoo.com##.crazyad
 pconline.com.cn###app-ewm-tg
 newsmth.net##.Smthtwenty_float
 xiaoma.com##.leftewm_topa
+taobao.com##.banner.row
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 baike.com###newsfix-on
 loldk.com##A[href$=".html?from=video_right"]
