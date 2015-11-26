@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 1yyDkV9KgCw3OOAtZjCeWw
-! Version: 201511252124
+! Checksum: Lo/k6Do11cnnPyu+yuGI2g
+! Version: 201511261034
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2015/11/25 21:24 +0800
+! Last modified: 2015/11/26 10:34 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -134,7 +134,6 @@ to8to.com##.float
 to8to.com##.kgjr-wrap
 kongzhong.com###dn
 cngold.org##.ag_fwindow_ywp
-douyutv.com##.lyzm-prevent
 aipai.com###pop_guide
 xtuan.com###foot_zhaobiao_bar
 zol.com.cn###btmLoginLayer
@@ -299,7 +298,6 @@ feng.com##div[class^="wea_d_"]
 feng.com##div[class^="wep_e_"]
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
 !---------------------------------CSS Whitelist-------------------------------!
-btbt.tv#@#.google-ad
 !---------------------------------URL Whitelist-------------------------------!
 @@/%*logo.png|$domain=feng.com
 @@||feng.com/aodoo3/images/54f86e822ee42.png
