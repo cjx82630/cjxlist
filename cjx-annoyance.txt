@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 5ib6e5TcHXLb2LZQJ3uTRQ
-! Version: 201512072213
+! Checksum: tiE7hB9gm2fpfjkjEGj7nA
+! Version: 201512111800
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2015/12/07 22:13 +0800
+! Last modified: 2015/12/11 18:00 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -38,6 +38,7 @@
 ||dmf8.taobao.com/|$popup,domain=www.tsdm.net
 ||loli.cd/|$popup,domain=www.tsdm.net
 !--------------------------Specific blocking filters--------------------------!
+||eastmoney.com/js/news_fixed_
 ||bjsxt.com/statics/js/bjsxt/js.js
 ||hc360.com/js/module/info/info_liuliangbao.js
 ||reaicomic.com/images/sound2/pm_
@@ -51,7 +52,6 @@
 ||forex.com.cn/index.php/Invoking/tanchukuang
 ||forex.com.cn/statics/images/ewm.jpg
 ||mitbbs.com/img/app
-||cmsjs.eastmoney.com/js/news_fixed_left.js
 ||eastmoney.com/public/ad.tools.
 ||mianwww.com/wp-content/uploads/2014/05/insigmaedu1.gif
 ||115img.com/static/pc/d_
@@ -129,8 +129,14 @@
 ||pconline.com.cn/intf/hot_
 ||pic.wpdaxue.com^*.js
 ||offcn.com/offcnewm/
+||eastmoney.com/trade/hqb_
 !------------------------Specific element hiding rules------------------------!
 to8to.com##.ask_side_opa
+eastmoney.com###fp1
+eastmoney.com###fundtg-fb
+eastmoney.com##.fund-pop
+eastmoney.com##.advertisement
+17173.com##.pic[href*="Room"]
 7808.cn###float-chat
 7808.cn###force-popup
 fydisk.com###vbox
