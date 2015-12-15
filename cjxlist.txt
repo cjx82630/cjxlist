@@ -1,15 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: 8UWh4/CZfVVYNrQP/WNUAQ
-! Version: 201512122302
+! Checksum: qEqugoflv8iiH3DuL6GRqA
+! Version: 201512160013
 ! Title: EasyList Lite
 ! This is a Lite version of EasyList. Only for Simplified Chinese Language Websites
-! Last modified: 2015/12/12 23:02 +0800
+! Last modified: 2015/12/16 00:13 +0800
 ! Expires: 10 days (update frequency)
 ! Fork of: EasyList https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
 ! Email: cjxlist@gmail.com
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
+###leftAD
 /home/ad_
 _ads.js?
 /iframe/ad/*
