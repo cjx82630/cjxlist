@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: oHWH2G48vT+AODFb0MOQ3g
-! Version: 201512160013
+! Checksum: 2AXS2toJ6SgW7ak20NUQow
+! Version: 201512172107
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2015/12/16 00:13 +0800
+! Last modified: 2015/12/17 21:07 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -39,6 +39,7 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !--------------------------Specific blocking filters--------------------------!
 ||eastmoney.com/js/news_fixed_
+||tianya.cn/shang/minsheng/index.shtml
 ||bjsxt.com/statics/js/bjsxt/js.js
 ||hc360.com/js/module/info/info_liuliangbao.js
 ||reaicomic.com/images/sound2/pm_
@@ -131,8 +132,15 @@
 ||eastmoney.com/trade/hqb_
 ||jc001.cn/img/yhj.gif
 ||jc001.cn/indexnew/js/yuyue.js
+||goodcome.com.tw/block/ad/rndtopad.php
 !------------------------Specific element hiding rules------------------------!
 to8to.com##.ask_side_opa
+goodcome.com.tw###fulljad
+goodcome.com.tw###jad-float
+goodcome.com.tw###jad-right
+goodcome.com.tw###jad-top
+goodcome.com.tw###mask
+goodcome.com.tw##.Phase2_BigAdbox
 eastmoney.com###fp1
 eastmoney.com###fundtg-fb
 eastmoney.com##.fund-pop
@@ -509,6 +517,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||stat.cqwb.com.cn^
 /tb/img/hg/hg.gif?
 ||push.zhanzhang.baidu.com/push.js
+||yaolan.com/ylk.mini.js
 !---------------------------------微博首页------------------------------------!
 !---首页顶部【游戏】
 weibo.com##.gn_nav_list > LI:nth-child(3)
