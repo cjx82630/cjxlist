@@ -1,15 +1,16 @@
 [Adblock Plus 2.0]
-! Checksum: ghbLi8vluCcXVLS4Xh+kjw
-! Version: 201601112146
+! Checksum: +mbGdYjzQVbG8i4en5oELQ
+! Version: 201601151454
 ! Title: EasyList Lite
 ! This is a Lite version of EasyList. Only for Simplified Chinese Language Websites
-! Last modified: 2016/01/11 21:46 +0800
+! Last modified: 2016/01/15 14:54 +0800
 ! Expires: 10 days (update frequency)
 ! Fork of: EasyList https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
 ! Email: cjxlist@gmail.com
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
+||adnetworkperformance.com^$third-party
 ###ad_link
 ##.ad_notice
 ###textad
@@ -45,8 +46,6 @@ tgfcer.com#@##content_adv
 ##.ad_1000x90
 ##.ad_wrap
 /adscpv/*
-||mengheng.net^$third-party
-||msypr.com^$third-party
 ||jiawen88.com^$third-party
 ||bbuni.com^$third-party
 ||778669.com^$third-party
@@ -75,7 +74,6 @@ _ad3.
 /ad_iframe.
 ##.textad
 ##.ui-ad
-@@||p.jwpcdn.com^$script,third-party
 /rightad.
 /bottomad/*
 ://a.ads.
@@ -99,7 +97,6 @@ _ad_bottom.
 ://affiliate.$third-party
 /uploads/ads/*
 /adspace.
-||h12-media.com^$third-party
 _468.gif
 /topad.
 /img/ad_
@@ -228,7 +225,6 @@ _300x250.
 ##.ads-1
 ##.ads-2
 .co/ads/
-##.pr-widget
 ##.ad_zone
 /ads/ad_
 /advert/*
@@ -264,8 +260,6 @@ _300x250.
 /adsys/*
 /adx.
 /adbox/*
-||directrev.com^$third-party
-||adnxs.com^$third-party
 /upload/ads/*
 /topads.
 ##.ad04
@@ -294,17 +288,11 @@ _ad.php?
 ###bottomad
 ###rightad2
 /floatadv.
-||impact-ad.jp^$third-party
 ##.rightAD
 /adimg/*
 ##.text-ad
 /adpolestar/*
 /sidebar_ad_
-||doubleclick.net/adj/$~object-subrequest,third-party
-||adsfactor.net^$third-party
-/overture.$script,stylesheet
-/overture_
-||zedo.com^$third-party
 .com/adv/
 ##.sidebar-ad
 ##.sidead
@@ -316,14 +304,8 @@ _ad.php?
 ##.ad-right
 ##.ad-top
 ###googleAd
-/adserver.
-/show_ads.js
-||prscripts.com^$third-party
 ##.adtxt
 ##.flash_ad
-##.yom-ad-LREC
-yahoo.com##li[data-beacon^="https://beap.gemini.yahoo.com/"]
-/moneyball/ads/*
 ##.ads02
 ##.head_ad
 ||china-netwave.com^$third-party
@@ -363,23 +345,6 @@ yahoo.com##li[data-beacon^="https://beap.gemini.yahoo.com/"]
 ||allyes.com^$third-party
 /adsense/*
 ||revsci.net^$third-party
-###yom-ad-tbs-as
-##.yom-ad
-##.yom-ad-LREC2
-##.yom-ad-LREC3
-/300x150_
-##.rmx-ad
-||serving-sys.com^$third-party
-###ad-north-base
-###fpad2
-###my-adsFPAD
-###my-adsFPL
-###my-adsFPT
-##.ad-tl1
-##.list-ads
-||yimg.com/rq/darla/$domain=yahoo.com
-@@||yimg.com/rq/darla/*/g-r-min.js$domain=yahoo.com
-@@||yimg.com/zz/combo?*&*.js$domain=~search.yahoo.com
 ###header_ad
 .cc/ads/
 /viewad.
@@ -387,15 +352,12 @@ yahoo.com##li[data-beacon^="https://beap.gemini.yahoo.com/"]
 ###ads_inner
 ##.long_ad
 ##.ad-area
-||sonobi.com^$third-party
 ##.ad_box
 ://ads.
 /adsense.
 ###ad_bottom
 ###ad_box
 ###head_ad_area
-##.adbox1
-##.adbox2
 ###ads_right
 ##div[id^="div-gpt-ad-"]
 ||partner.googleadservices.com^$third-party
