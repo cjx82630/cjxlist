@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 4WCGzih03uJGWr3j+d88yA
-! Version: 201601191131
+! Checksum: /cPDuzO4Dp4cqVrOSAr9VQ
+! Version: 201601191722
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/01/19 11:31 +0800
+! Last modified: 2016/01/19 17:22 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -16,6 +16,7 @@
 !------------------------General element hiding rules-------------------------!
 ###windlocation
 ###qrcodeDownloadBar
+###login_wp.foot_flwp
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
 ||5251.net^$third-party
@@ -531,6 +532,9 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /tb/img/hg/hg.gif?
 ||push.zhanzhang.baidu.com/push.js
 ||yaolan.com/ylk.mini.js
+||ftchinese.com/js/log.js
+||ftchinese.com/index.php/jsapi/analytics
+||ftchinese.com/index.php/jsapi/ga
 !---------------------------------微博首页------------------------------------!
 !---首页顶部【游戏】
 weibo.com##.gn_nav_list > LI:nth-child(3)
