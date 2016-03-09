@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ERhCxRn2N+hqgM2MhBHiqw
-! Version: 201603072233
+! Checksum: uEa1s+7dal/qvvCJmSsBTw
+! Version: 201603092100
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/03/07 22:33 +0800
+! Last modified: 2016/03/09 21:00 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -125,7 +125,6 @@
 ||wbiao.co/src2/js/expand/fudong/
 ||kongzhong.com/style/newindex/js/tad.js
 ||ol-img.com/channel/tuku/js/tukuPopup.js
-||yes1.feng.com^
 ||pchome.com.tw/js/fancybox/
 ||soso.com/wenwen/i/ad/
 ||ifeng.com/uploadfiles/main_blog/main_child/v3_block
@@ -222,7 +221,6 @@ pinggu.org##.banner2015
 pinggu.org##.mui-mbar-tabs
 auto.ifeng.com##.acquire_1
 3d66.com##.King_Chance_LayerCont
-loldk.com##.intro-area > DIV[style="margin-top:10px;"]:nth-child(2)
 jikexueyuan.com##.pewm2
 jikexueyuan.com##.pewm3
 fwxgx.com##.baibaoxiang
@@ -347,10 +345,6 @@ feng.com##div[class^="wep_e_"]
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
-@@/%*logo.png|$domain=feng.com
-@@||feng.com/aodoo3/images/54f86e822ee42.png
-@@/view.php?what=zone:93&$domain=feng.com
-@@/view.php?what=zone:94&$domain=feng.com
 !--------------------------------Tracking Systems-----------------------------!
 /analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
