@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: uhL4NZ2HY3Qo44TgufDsKQ
-! Version: 201603101248
+! Checksum: SA0j0oZvJmRm1m8XRF9Nxg
+! Version: 201603162102
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/03/10 12:48 +0800
+! Last modified: 2016/03/16 21:02 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -144,6 +144,7 @@
 ||netease.com^*-bobo_recommend_
 ||51credit.com/bbs/js/bbs-end-layer.js
 ||ifengimg.com/auto/js/*_enquiry
+||autoimg.cn/Space/help/HelpRdTask.js
 !------------------------Specific element hiding rules------------------------!
 to8to.com##.ask_side_opa
 yy.com###rbappend
@@ -210,7 +211,7 @@ ltn.com.tw##.ltn_ad
 2.taobao.com##.download-layer
 neihanshe.cn###mobile_client
 ye120.com##.fixed_bottom
-qidian.com##.qdRead_redscan
+qdmm.com,qidian.com##.qdRead_redscan
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.thread_recommend
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###forum_recommend
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
@@ -260,7 +261,7 @@ pconline.com.cn###JtlBestA
 ofweek.com###flybox-db
 ganji.com###write_resume_id
 alipay.com###J-cooperant-banner
-qidian.com##.qdRead_client
+qdmm.com,qidian.com##.qdRead_client
 163.com##.kaola-ad
 qianlima.com###float_mask
 aoshitang.com###msg_win
