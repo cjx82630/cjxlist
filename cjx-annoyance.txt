@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: qENv7Omtqc2yTEz1lc7VjA
-! Version: 201603222211
+! Checksum: V8crqPeABDSJ1tCddJf41A
+! Version: 201604051735
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/03/22 22:11 +0800
+! Last modified: 2016/04/05 17:35 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -146,8 +146,10 @@
 ||51credit.com/bbs/js/bbs-end-layer.js
 ||ifengimg.com/auto/js/*_enquiry
 ||autoimg.cn/Space/help/HelpRdTask.js
+||heiguang.com/_r/2015/js/hrBottomBar.
 !------------------------Specific element hiding rules------------------------!
 to8to.com##.ask_side_opa
+ifeng.com###wx
 5253.com###android-qr
 yy.com###rbappend
 xdf.cn##DIV[style="position:fixed;top:120px;left:4px;width:210px;height:298px;isplay:block;background-position:initial initial;background-repeat:no-repeat no-repeat;"]
@@ -551,6 +553,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||tjj.com^
 ||s-msn.com/portal/js/vendor/manto/
 ||hoopchina.com.cn/web/module/dace/
+||cjyun.org/assets/js/analytics.js
 !---------------------------------微博首页------------------------------------!
 !---首页顶部【游戏】
 weibo.com##.gn_nav_list > LI:nth-child(3)
