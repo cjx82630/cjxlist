@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: cwuXgGeDfsTxejoaA74qIw
-! Version: 201605071146
+! Checksum: Nt6cx/2emEFwXO1uWNylCA
+! Version: 201605121255
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/05/07 11:46 +0800
+! Last modified: 2016/05/12 12:55 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -74,7 +74,6 @@
 ||gtimg.com/gamezone/2014index/images/600x75.jpg
 ||house365.com/js/fixWin.php
 ||iask.sina.com.cn/s-b/mxbg
-||sina.com.cn/t/cnxh?
 ||ithome.com/images/productgif/pcmaster.gif
 ||ithome.com/images/v2.1/downsoftmaster.gif
 ||koolearn.com/v2/js/*AD.js
@@ -322,7 +321,6 @@ cheaa.com###ADText
 8591.com.tw###active_enter
 163.com###bobo
 lvmama.com###centerDialog
-iask.sina.com.cn###daily_topic_flnr
 news.baidu.com###favoriteTips
 tw.beanfun.com###flybeanfun
 house365.com###ft-login
@@ -335,7 +333,6 @@ haosou.com###so_feb
 igo.cn##.adBG
 163.com##.bobo-area
 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.bonus_forum_aside
-iask.sina.com.cn##.daily_entrance
 hao123.com##.hao123-search > .notice-fixed
 163.com##.imglist-bobo-app
 house365.com##.left_fudong_ad
@@ -364,7 +361,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||stats.v.duowan.com^
 ||100bt.com/dc?Url
 ||51la.net^$third-party
-||19lou.com/dm2011_
 ||39.net/js/wt.js
 ||8cnd.com^
 ||a.tbcdn.cn/s/ac.js
