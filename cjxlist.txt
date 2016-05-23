@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cFkaxh4L7i+2SKV8WJ2Mww
-! Version: 201605191007
+! Checksum: Ma0IL8fdl/b2oUMYMTlo8g
+! Version: 201605231908
 ! Title: EasyList Lite
 ! This is a Lite version of EasyList. Only for Simplified Chinese Language Websites
-! Last modified: 2016/05/19 10:07 +0800
+! Last modified: 2016/05/23 19:08 +0800
 ! Expires: 10 days (update frequency)
 ! Fork of: EasyList https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -15,13 +15,11 @@
 /image/ads/*
 ##.widget_ads
 /pop.js|
-.com/ads.
 /onead_
 ##.topad1
 ||kukuplay.com/upload/*.swf
 /ad_display.
 /adlink.
-||jiawen88.com^$third-party
 ###ad-box
 ###top-ads
 ||ad.doubleclick.net^$~object-subrequest,third-party
