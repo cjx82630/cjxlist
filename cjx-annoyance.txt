@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: K39FZ5H5KjapzzYtCtfCIg
-! Version: 201605271021
+! Checksum: cH0vQcSAMwQgKO2qSr3Fig
+! Version: 201606021332
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/05/27 10:21 +0800
+! Last modified: 2016/06/02 13:32 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -18,8 +18,7 @@
 ###windlocation
 ###qrcodeDownloadBar
 ###login_wp.foot_flwp
-##IFRAME[style^="border: 0px none; display: block; width: 120px; position: fixed; top: 0px; z-index:"]
-##IFRAME[style^="border: 0px none; width: 100%; height: 38px; overflow: hidden; position: fixed; left: 0px; bottom: 0px; min-height: 0px; z-index:"]
+###SOHU_MAIN > .module-cmt-float-bar
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
 ||pop800.com^$third-party
@@ -46,6 +45,7 @@
 ||loli.cd/|$popup,domain=www.tsdm.net
 !--------------------------Specific blocking filters--------------------------!
 ||eastmoney.com/js/news_fixed_
+||dahe.cn/indiboy/ads/
 ||tianya.cn/shang/*/index.shtml
 ||bjsxt.com/statics/js/bjsxt/js.js
 ||reaicomic.com/images/sound2/pm_
@@ -149,6 +149,8 @@
 ||meilele.com/js/mll/baiduLabelRecommend.
 !------------------------Specific element hiding rules------------------------!
 to8to.com##.ask_side_opa
+douyu.com,douyutv.com,wasu.cn###js-live-room-recommend
+douyu.com,douyutv.com,wasu.cn##.chat > .no-login
 xcar.com.cn###eMeng
 ucptt.com##.hidden-sm
 ifeng.com###wx
