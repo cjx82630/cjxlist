@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TGHrpxyvvDV/NRTdT9pWPQ
-! Version: 201606021309
+! Checksum: R3uEobxQCN6xCCP65HySVw
+! Version: 201606161742
 ! Title: EasyList Lite
 ! This is a Lite version of EasyList. Only for Simplified Chinese Language Websites
-! Last modified: 2016/06/02 13:09 +0800
+! Last modified: 2016/06/16 17:42 +0800
 ! Expires: 10 days (update frequency)
 ! Fork of: EasyList https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -394,7 +394,8 @@ _ad.php?
 .org/ads/
 /ad2.
 /image/ad/*
-.com/ad/$domain=~channel4.com|~watchever.de
+.com/ad/$~image,third-party,domain=~mediaplex.com
+.com/ad/$~third-party,domain=~blogs.technet.microsoft.com|~channel4.com|~mediaplex.com
 /common/ad_
 _300_250.
 .com/ads_
