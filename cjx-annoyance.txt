@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: q4vxe7+HEZrJ2rtGJ5qQAQ
-! Version: 201606161742
+! Checksum: C8n4Q/P8bXlyP+stem3U2w
+! Version: 201606301003
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/06/16 17:42 +0800
+! Last modified: 2016/06/30 10:03 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -147,8 +147,14 @@
 ||autoimg.cn/Space/help/HelpRdTask.js
 ||heiguang.com/_r/2015/js/hrBottomBar.
 ||meilele.com/js/mll/baiduLabelRecommend.
+||100xuexi.com/CssModel/botad.js
+||chinaacc.com/lamu/piao
+||bdstatic.com/??/tb/_/frs-aside/hottopic_
 !------------------------Specific element hiding rules------------------------!
 to8to.com##.ask_side_opa
+mafengwo.cn##.hotel-banner
+bbs.tianya.cn###bbs_login_div
+chinaacc.com##.banner
 qq.com##.qGirl-wrap
 pchome.net###rightbar
 douyu.com,douyutv.com,wasu.cn###js-live-room-recommend
@@ -359,6 +365,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
+||ysont.cn^
 ||other.v.duowan.com^
 ||p2p.v.yyclouds.com/crossdomain.xml
 ||stat.game.yy.com^
