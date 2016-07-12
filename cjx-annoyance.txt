@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: C8n4Q/P8bXlyP+stem3U2w
-! Version: 201606301003
+! Checksum: vdIGmnmRaz0Hth4h3McLyQ
+! Version: 201607122015
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/06/30 10:03 +0800
+! Last modified: 2016/07/12 20:15 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -14,8 +14,10 @@
 =Ad_ZPlusGoods&
 /source/plugin/yw_alertlogin/*
 -bobo_recommend_
+/dongaogg/*
 !------------------------General element hiding rules-------------------------!
 ###windlocation
+###qrcodeWrap
 ###qrcodeDownloadBar
 ###login_wp.foot_flwp
 ###SOHU_MAIN > .module-cmt-float-bar
@@ -150,8 +152,15 @@
 ||100xuexi.com/CssModel/botad.js
 ||chinaacc.com/lamu/piao
 ||bdstatic.com/??/tb/_/frs-aside/hottopic_
+||easteat.com/templets/default/images/media-top.png
 !------------------------Specific element hiding rules------------------------!
 to8to.com##.ask_side_opa
+dongao.com###ad
+dongao.com##DIV[class^="fu_"]
+sogou.com###sogou_vr_21222401_wrap_0
+ifeng.com##.foot_top_box
+ifeng.com##.h_top_box
+ifeng.com##.mr_top_box
 mafengwo.cn##.hotel-banner
 bbs.tianya.cn###bbs_login_div
 chinaacc.com##.banner
@@ -365,6 +374,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
+||ad-survey.com^$third-party
 ||ysont.cn^
 ||other.v.duowan.com^
 ||p2p.v.yyclouds.com/crossdomain.xml
