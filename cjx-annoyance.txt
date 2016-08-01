@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /PR6WGeLh3ICT3go56N6VA
-! Version: 201607292227
+! Checksum: uOlxWNX+7oWf03MzXrpFhg
+! Version: 201608012055
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/07/29 22:27 +0800
+! Last modified: 2016/08/01 20:55 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -167,7 +167,8 @@ ifeng.com##.foot_top_box
 ifeng.com##.h_top_box
 ifeng.com##.mr_top_box
 mafengwo.cn##.hotel-banner
-bbs.tianya.cn###bbs_login_div
+tianya.cn###bbs_login_div
+tianya.cn###login_mask
 chinaacc.com##.banner
 qq.com##.qGirl-wrap
 pchome.net###rightbar
