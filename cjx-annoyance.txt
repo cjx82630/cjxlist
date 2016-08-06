@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: xOdZE5ME7fk6Tm7+8AStdw
-! Version: 201608050908
+! Checksum: Cu0GOd0VpCpnDUDrzVX6Fg
+! Version: 201608060812
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/08/05 09:08 +0800
+! Last modified: 2016/08/06 08:12 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -151,7 +151,6 @@
 ||meilele.com/js/mll/baiduLabelRecommend.
 ||100xuexi.com/CssModel/botad.js
 ||chinaacc.com/lamu/piao
-||bdstatic.com/??/tb/_/frs-aside/hottopic_
 ||easteat.com/templets/default/images/media-top.png
 ||pcauto.com.cn/forum/1508/intf7631.js
 ||pcauto.com.cn/forum/autobbs/clubtl/
