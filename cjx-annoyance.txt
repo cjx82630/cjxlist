@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nBOnEl2MCD50oR1sGuAtmQ
-! Version: 201608310843
+! Checksum: vwdLUfE4C0KM0zATs9iJCg
+! Version: 201609051336
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/08/31 08:43 +0800
+! Last modified: 2016/09/05 13:36 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -165,8 +165,16 @@
 ||guancha.cn/js/index.js
 ||blog.sina.com.cn/lm/mini/
 ||dfcfw.com/public/js/left.js
+||wbiao.cn/common/adapi/
+||wbiao.cn/common/newsbannerAds/
+||sinaimg.cn/finance/wanghong_
 !------------------------Specific element hiding rules------------------------!
 guancha.cn###ewm_app
+focus.cn##.qhb-fixed
+1010jiajiao.com##.fixed-bar
+1010jiajiao.com##.fixedbox2
+wbiao.cn##.wb-panel
+so.com###bqPromote
 zcool.com.cn##.ad
 guancha.cn###goapp
 ettoday.net##.etvideo_collect_1
@@ -200,8 +208,8 @@ ifeng.com##.yc_con_r
 chinaacc.com##.banner
 qq.com##.qGirl-wrap
 pchome.net###rightbar
-douyu.com,douyutv.com,wasu.cn###js-live-room-recommend
-douyu.com,douyutv.com,wasu.cn##.chat > .no-login
+douyu.com,douyutv.com###js-live-room-recommend
+douyu.com,douyutv.com##.chat > .no-login
 xcar.com.cn###eMeng
 ucptt.com##.hidden-sm
 ifeng.com###wx
@@ -410,6 +418,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
+||web.51.la^$third-party
 ||baidu.com/smalllog/
 ||ad-survey.com^$third-party
 ||ysont.cn^
@@ -513,7 +522,6 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||qunar.com/render/googlesem.jsp
 ||record.kuai.xunlei.com^
 ||runsky.com/phpstat/
-||s.360.cn^
 ||s.so.360.cn^
 ||sogou.com/js/pb_*.js
 ||sohu.com/mail/pv/
