@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 59Y9fSl28Dhsm07S1M4wDA
-! Version: 201609191617
+! Checksum: 2ubM4ZBxrcgOsrkwb/uTbA
+! Version: 201609251913
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/09/19 16:17 +0800
+! Last modified: 2016/09/25 19:13 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -168,6 +168,7 @@
 ||wbiao.cn/common/adapi/
 ||wbiao.cn/common/newsbannerAds/
 ||sinaimg.cn/finance/wanghong_
+||hexun.com/inc/popbox.aspx
 !------------------------Specific element hiding rules------------------------!
 mumu.163.com##.pic-con
 pc841.com##.today-hot-layer
@@ -416,6 +417,8 @@ feng.com##div[class^="wep_e_"]
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
+@@||fm.ipinyou.$domain=ipinyou.com.cn
+@@||fm.p0y.cn^$domain=ipinyou.com.cn
 !--------------------------------Tracking Systems-----------------------------!
 /analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
