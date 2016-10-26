@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: tJdlgbpt5m9G1K2Jbp9vqQ
-! Version: 201610222246
+! Checksum: jTLlCvC1TLeiSi0fyeyQgQ
+! Version: 201610260932
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/10/22 22:46 +0800
+! Last modified: 2016/10/26 09:32 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -116,7 +116,7 @@
 ||hao123img.com/v4/MB/xU/jy/VY/YX/MBxUjyVYYX.js
 ||imall.cntv.cn^
 ||cctvpic.com/photoAlbum/templet/common/*/game_
-||to8to.com/gb_js/zxbj_bottom_
+||to8to.com^*_bottom_
 ||to8to.com/yezhu/zxbjWidget.
 ||kuakao.com:6053/floatcard?
 ||netease.com/fz/interface/frontend/fz.do?pos=tongyong-
@@ -174,7 +174,10 @@
 ||tv002.com/img/down1_ssp1.gif
 ||koolearn.com/v2/js/wxewm.js
 ||yytcdn.com/js/common/widget/pcpusher.
+||rrjc.com/home/seo/ad/
 !------------------------Specific element hiding rules------------------------!
+rrjc.com###alertBox
+rrjc.com##.coupletbox
 sporttery.cn###mask
 sporttery.cn###newDiv
 koolearn.com##.news_pf
