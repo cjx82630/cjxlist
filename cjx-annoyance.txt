@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +Ys1kYx9W2bCF+NLXThjAg
-! Version: 201611040921
+! Checksum: /oK1QEf3qKX8+pOEy5lVsA
+! Version: 201611121342
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/11/04 09:21 +0800
+! Last modified: 2016/11/12 13:42 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -40,6 +40,7 @@
 ||tui.cnzz.net^$third-party
 ||lxbjs.baidu.com^$third-party
 ||goutong.baidu.com^
+||soperson.com^$third-party
 !---------------------------Popups--------------------------------------------!
 ||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
 ||tsdm.net/qxs.php/|$popup,domain=www.tsdm.net
@@ -48,6 +49,7 @@
 ||dmf8.taobao.com/|$popup,domain=www.tsdm.net
 ||loli.cd/|$popup,domain=www.tsdm.net
 !--------------------------Specific blocking filters--------------------------!
+||igo.cn/liuxue/js/slideBar.js
 ||eastmoney.com/js/news_fixed_
 ||dahe.cn/indiboy/ads/
 ||tianya.cn/shang/*/index.shtml
@@ -177,7 +179,16 @@
 ||yytcdn.com/js/common/widget/pcpusher.
 ||rrjc.com/home/seo/ad/
 ||wuxibus.com/Image/title
+||hjfile.cn/site/js/bottomActive
+||hjfile.cn/site/js/passAddAd.js
+||hjfile.cn/site/js/pop_gift_plugin.js
+||hjfile.cn/site/js/questionnaire.js
+||a6.hujiang.com^$domain=~class.hujiang.com
+||hjapi.com/v1/pageSoftText?
 !------------------------Specific element hiding rules------------------------!
+hjenglish.com,hujiang.com##.lamu_banner
+hjenglish.com###regscrollcontainer
+infoq.com##.ab_detect
 zol.com.cn##.zolapp
 scsjgjj.com###floatinfo
 neihanshequ.com###pageletBottomBanner
@@ -455,6 +466,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
+||cnfol.com/Count.html
+||pv.ltn.com.tw^
 ||s.btime.com^
 ||web.51.la^$third-party
 ||baidu.com/smalllog/
