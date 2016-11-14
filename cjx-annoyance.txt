@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: /oK1QEf3qKX8+pOEy5lVsA
-! Version: 201611121342
+! Checksum: QqdkxLCLsFzoypug6NMPng
+! Version: 201611141304
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/11/12 13:42 +0800
+! Last modified: 2016/11/14 13:04 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -186,6 +186,8 @@
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||hjapi.com/v1/pageSoftText?
 !------------------------Specific element hiding rules------------------------!
+firefoxchina.cn##.side-mod[track-key="side_tpth"]
+oschina.net##.recruitment
 hjenglish.com,hujiang.com##.lamu_banner
 hjenglish.com###regscrollcontainer
 infoq.com##.ab_detect
@@ -677,7 +679,7 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 ||cjyun.org/assets/js/analytics.js
 !---------------------------------微博首页------------------------------------!
 !---首页顶部【游戏】
-weibo.com##.gn_nav_list > LI:nth-child(3)
+weibo.com##.S_txt1[nm="game"]
 !---首页顶部:提示【微博热点：神最右，爆料，找节操...总有一款适合你，点击使用！】
 weibo.com###v6_pl_content_hometip
 !---首页中上:微博发布框上的【有什么新鲜事告诉大家?】
