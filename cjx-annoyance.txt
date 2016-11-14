@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: QqdkxLCLsFzoypug6NMPng
-! Version: 201611141304
+! Checksum: k+ujpl18ZkQS6JT1rCuCBw
+! Version: 201611142221
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/11/14 13:04 +0800
+! Last modified: 2016/11/14 22:21 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -458,6 +458,10 @@ feng.com##.wea_d_panel_980
 feng.com##div[class^="wea_d_"]
 feng.com##div[class^="wep_e_"]
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
+blog.163.com###r_m163news
+blog.163.com###topbar_gachaArea
+blog.163.com###topbar_lofterDldArea
+blog.163.com###topbar_yxpArea
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
 @@||fm.ipinyou.$domain=ipinyou.com.cn
@@ -468,6 +472,8 @@ fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; 
 /js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
+||113.105.248.169^
+||fcm.baidu.com^
 ||cnfol.com/Count.html
 ||pv.ltn.com.tw^
 ||s.btime.com^
