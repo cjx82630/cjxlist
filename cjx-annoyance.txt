@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: fM/54cz1LU55V6pNm1vvYg
-! Version: 201611181245
+! Checksum: fPQQv5gsYhFYXoasaicCLw
+! Version: 201611262101
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
 ! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/11/18 12:45 +0800
+! Last modified: 2016/11/26 21:01 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -186,6 +186,8 @@
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||hjapi.com/v1/pageSoftText?
 !------------------------Specific element hiding rules------------------------!
+51cto.com##.suspend
+sina.com.cn###J_forAutoShow
 wasu.cn##.qp
 wasu.cn###scan_qrcode
 163.com##.ns-side-qrcode
