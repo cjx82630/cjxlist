@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: lQ6xZMfooZQTQdq0qNbPOA
-! Version: 201612152119
+! Checksum: YLpNA/ECxpuX/xqgwwOfkQ
+! Version: 201612200803
 ! Title: CJX's Annoyance List
-! Supplement for "EasyList China+EasyList" and "EasyPrivacy"
-! Removes Annoyances, Self-promotion and Privacy Protection on Chinese Websites
-! Last modified: 2016/12/15 21:19 +0800
+! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
+! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
+! Last modified: 2016/12/20 08:03 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -195,7 +195,9 @@
 ||kekenet.com/images/*/app
 ||kgimg.com/public/root//images/hardware.jpg
 !------------------------Specific element hiding rules------------------------!
-bilibili.com##A[href*=".biligame."]
+qidian.com##.app_download_ad02
+qidian.com##.app_download_ad
+qidian.com###app_download_blank_show
 yd.baidu.com##.ui-distribution-bar
 baidu.com###activateGuidePopupOuter
 kekenet.com###weixinwz
@@ -502,7 +504,6 @@ blog.163.com###topbar_yxpArea
 ||s.btime.com^
 ||web.51.la^$third-party
 ||baidu.com/smalllog/
-||ad-survey.com^$third-party
 ||ysont.cn^
 ||other.v.duowan.com^
 ||p2p.v.yyclouds.com/crossdomain.xml
