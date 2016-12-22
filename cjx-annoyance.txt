@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: HL3MdFOUtNsZgD9oScXerw
-! Version: 201612221009
+! Checksum: nm/hqqFswGvtZfhltEeWCg
+! Version: 201612222117
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2016/12/22 10:09 +0800
+! Last modified: 2016/12/22 21:17 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -495,6 +495,7 @@ blog.163.com###topbar_yxpArea
 /js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
+||btdb.in/beacon.html
 ||autoimg.cn/bi/mda/
 ||qdp.qidian.com^
 ||chouti.com/js/tingyun-rum.js
@@ -720,7 +721,7 @@ weibo.com###v6_trustPagelet_recom_member
 !---首页右侧用户名下的【亚洲新歌榜】
 weibo.com###v6_pl_rightmod_rank
 !---首页顶部【游戏】
-weibo.com##.S_txt1[nm="game"] !添加了视频,会误拦.weibo.com##.gn_nav_list > LI:nth-child(3)
+weibo.com##.S_txt1[nm="game"]
 !---首页底部之【微博精彩等】
 weibo.com##.WB_footer > .footer_link
 !---首页底部之【备案】
