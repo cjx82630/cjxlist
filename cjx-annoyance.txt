@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: YLpNA/ECxpuX/xqgwwOfkQ
-! Version: 201612200803
+! Checksum: HL3MdFOUtNsZgD9oScXerw
+! Version: 201612221009
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2016/12/20 08:03 +0800
+! Last modified: 2016/12/22 10:09 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -495,6 +495,7 @@ blog.163.com###topbar_yxpArea
 /js/soku-analytics.js
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
+||autoimg.cn/bi/mda/
 ||qdp.qidian.com^
 ||chouti.com/js/tingyun-rum.js
 ||113.105.248.169^
@@ -708,35 +709,32 @@ blog.163.com###topbar_yxpArea
 ||hoopchina.com.cn/web/module/dace/
 ||cjyun.org/assets/js/analytics.js
 !---------------------------------微博首页------------------------------------!
-!---首页顶部【游戏】
-weibo.com##.S_txt1[nm="game"]
 !---首页顶部:提示【微博热点：神最右，爆料，找节操...总有一款适合你，点击使用！】
 weibo.com###v6_pl_content_hometip
+!---首页右侧:【好友关注动态】
+weibo.com###v6_pl_rightmod_attfeed
+!---首页左侧好友圈>>【公告栏】
+weibo.com###v6_pl_rightmod_noticeboard
+!---首页右侧:【会员专区/明星势力】
+weibo.com###v6_trustPagelet_recom_member
+!---首页右侧用户名下的【亚洲新歌榜】
+weibo.com###v6_pl_rightmod_rank
+!---首页顶部【游戏】
+weibo.com##.S_txt1[nm="game"] !添加了视频,会误拦.weibo.com##.gn_nav_list > LI:nth-child(3)
+!---首页底部之【微博精彩等】
+weibo.com##.WB_footer > .footer_link
+!---首页底部之【备案】
+weibo.com##.WB_footer > .other_link
 !---首页中上:微博发布框上的【有什么新鲜事告诉大家?】
 weibo.com##.send_weibo > .title_area
 !---首页中上:微博发布框上的【热门微博】和随机出现的热门话题
 weibo.com##div[node-type="recommendTopic"]
 !---首页中下:提示【被不想看到的微博刷屏了，开通微博会员可设置关键词来屏蔽相关微博内容】
 weibo.com##.W_tips.tips_warn
-!---首页底部之【微博精彩等】
-weibo.com##.WB_footer > .footer_link
-!---首页底部之【备案】
-weibo.com##.WB_footer > .other_link
 !---首页右下:【新闻"快讯】
 weibo.com##.WBIM_news
-!---首页右侧用户名下的【亚洲新歌榜】
-weibo.com###v6_pl_rightmod_rank
 !---首页右侧用户名下的【新版微博使用指南】
 weibo.com###v6_pl_rightmod_updatev6
-!---首页右侧:【可能感兴趣的人】
-weibo.com###v6_pl_rightmod_recominfo > .WB_cardwrap.S_bg2:nth-child(-n+2)
-!---首页右侧:【热门话题】
-weibo.com###v6_pl_rightmod_recominfo
-!weibo.com###v6_pl_rightmod_recominfo > .WB_cardwrap.S_bg2:nth-child(n+3)
-!---首页右侧:【好友关注动态】
-weibo.com###v6_pl_rightmod_attfeed
-!---首页右侧:【会员专区/明星势力】
-weibo.com###v6_trustPagelet_recom_member
 !---首页右侧下拉时的卡片
 weibo.com##.WB_main_r > DIV[style^="position: fixed;"]
 !--首页左侧【抢红包】
@@ -760,8 +758,6 @@ weibo.com###v6_pl_rightmod_helpgroupchatnotice
 weibo.com###v6_pl_rightmod_favyoudao
 !---首页左侧收藏>>【收藏使用小帮助】
 weibo.com###v6_pl_rightmod_helpfav
-!---首页左侧好友圈>>【公告栏】
-weibo.com###v6_pl_rightmod_noticeboard
 !---首页顶部发现>>右侧【微博发现】
 weibo.com###Pl_Core_P7MultiPicPlay__7
 !-------------------------------微博评论页面----------------------------------!
