@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: CIygs33j4BeRUCrord8ZEA
-! Version: 201701091542
+! Checksum: ZjoS5d15gPeiagY8z9/1AA
+! Version: 201701171032
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/01/09 15:42 +0800
+! Last modified: 2017/01/17 10:32 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -18,6 +18,7 @@
 /tb/_/video_frs_head_
 /z.zolapp.
 /tencentvideo/script/webtips/*
+/loooyu.js
 !------------------------General element hiding rules-------------------------!
 ###windlocation
 ###qrcodeWrap
@@ -43,19 +44,13 @@
 ||goutong.baidu.com^
 ||soperson.com^$third-party
 !---------------------------Popups--------------------------------------------!
-||tsdm.net/qxs.php|$popup,domain=www.tsdm.net
-||tsdm.net/qxs.php/|$popup,domain=www.tsdm.net
-||mh.tsdm.net/|$popup,domain=www.tsdm.net
-||dm.tsdm.net/xinfandongman/|$popup,domain=www.tsdm.net
-||dmf8.taobao.com/|$popup,domain=www.tsdm.net
-||loli.cd/|$popup,domain=www.tsdm.net
 !--------------------------Specific blocking filters--------------------------!
 ||igo.cn/liuxue/js/slideBar.js
 ||eastmoney.com/js/news_fixed_
 ||dahe.cn/indiboy/ads/
 ||tianya.cn/shang/*/index.shtml
 ||bjsxt.com/statics/js/bjsxt/js.js
-||reaicomic.com/images/sound2/pm_
+||tsdmw.net/img01/MP3/pm_
 ||neuralstemcell.com.cn/img/js.js
 ||dmzj.com/module/js/float_code.js
 ||wumii.cn/ext/relatedItemsWidget
@@ -202,6 +197,8 @@
 ||jia.com/js/common/jia-common.js
 ||jia.com/js/zixun/news.js
 !------------------------Specific element hiding rules------------------------!
+jiankang.com##.all_eye
+jiankang.com##.three_hot
 ctfile.com##.speedydown-info-box
 soku.com###\5f xbox_ad
 smzdm.com###footer_layer
