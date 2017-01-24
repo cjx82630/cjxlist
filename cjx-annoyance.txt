@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: NjS31Fq4bhe29xGC9WDcMw
-! Version: 201701231803
+! Checksum: 0dPYnxdkmDdWtVAroq2PIA
+! Version: 201701242130
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/01/23 18:03 +0800
+! Last modified: 2017/01/24 21:30 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -25,6 +25,8 @@
 ###qrcodeDownloadBar
 ###login_wp.foot_flwp
 ###SOHU_MAIN > .module-cmt-float-bar
+###appBottomIn
+###appIn
 !-----------------------------Union&third-party-------------------------------!
 ||knet.cn^$third-party
 ||pop800.com^$third-party
@@ -186,7 +188,6 @@
 ||chinanews.com/fileftp/2016/06/2016-06-13/U194P4T47D35171F967DT20160613093733.jpg
 ||chinanews.com/fileftp/2016/08/2016-08-04/U194P4T47D36220F967DT20160804155100.jpg
 ||zuoyebang.cc/zyb_4953cbb8a9a2332469592196c056a906.jpg
-||zuoyebang.cc/zyb_e47d9b7f269de651f60b8cd04718f762.jpg
 ||kekenet.com/images/*/app
 ||kgimg.com/public/root//images/hardware.jpg
 ||ithome.com/file/js/win8china.js
@@ -196,7 +197,9 @@
 ||upaiyun.com/wp-content/uploads/2016/12/wenzhangyouce
 ||jia.com/js/common/jia-common.js
 ||jia.com/js/zixun/news.js
+||zuoyebang.cc/static/question/question/resource/QRCode_
 !------------------------Specific element hiding rules------------------------!
+zuoye.baidu.com,zybang.com###QRinside
 51cto.com###edu_adver
 qq.com###tips
 jiankang.com##.all_eye
@@ -509,6 +512,7 @@ blog.163.com###topbar_yxpArea
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
 /hunter/alog/*
+||hiido.com^$third-party
 ||cnpc.infzm.com^
 ||cbjg.cqnews.net^
 ||statis1.mama.cn^
