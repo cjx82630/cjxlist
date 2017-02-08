@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 77lOKOW1Ex2IRLyEnzwOKA
-! Version: 201702031458
+! Checksum: 2+9hDIT64E4H3e2PROw5cQ
+! Version: 201702082219
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/02/03 14:58 +0800
+! Last modified: 2017/02/08 22:19 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -147,7 +147,7 @@
 ||bobo.com/special/mod-follow/
 ||netease.com^*-bobo_recommend_
 ||51credit.com/bbs/js/bbs-end-layer.js
-||ifengimg.com/auto/js/*_enquiry
+||ifengimg.com/auto/js/*enquiry
 ||autoimg.cn/Space/help/HelpRdTask.js
 ||heiguang.com/_r/2015/js/hrBottomBar.
 ||meilele.com/js/mll/baiduLabelRecommend.
@@ -198,8 +198,12 @@
 ||jia.com/js/common/jia-common.js
 ||jia.com/js/zixun/news.js
 ||zuoyebang.cc/static/question/question/resource/QRCode_
+||iciba.com/static/images/download_banner.png
 !------------------------Specific element hiding rules------------------------!
 hupu.com##.m-app-info
+163.com###yjj_pop_wrapper
+163.com##.rg_ad
+163.com##.topnav_ad
 pclady.com.cn##.mdxyAppEnter
 hao123.com##.cjcard2017Container
 zuoye.baidu.com,zybang.com###QRinside
@@ -515,6 +519,7 @@ blog.163.com###topbar_yxpArea
 /mysql/count/*$script,domain=ts.cn
 /soku/giantstar/js/youlog.js
 /hunter/alog/*
+||count.iyaxin.com^
 ||track.hujiang.com^
 ||trackcommon.hujiang.com^
 ||bdstatic.eastmoney.com^
