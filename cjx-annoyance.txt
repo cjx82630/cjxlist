@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: yLpBMhHUdu8UIxzuRiuJFA
-! Version: 201703081730
+! Checksum: ngB5GY1yiibDy+fxoy1uPw
+! Version: 201703082014
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/03/08 17:30 +0800
+! Last modified: 2017/03/08 20:14 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -204,7 +204,19 @@
 ||mtime.cn/library/*/ECommerce/GoodsAndFeatureCtrl.js
 ||soufunimg.com/common_m/m_public/js/wa
 ||taobao.com/js/smartbanner/
+||pstatp.com/growth/mobile_list/image/bonus_
+||chinacloudsites.cn/api/promotion?
 !------------------------Specific element hiding rules------------------------!
+yidianzixun.com##.banner
+58.com##.invokeApp
+bing.com###BottomAppPro
+m.toutiao.com##.banner-top
+m.toutiao.com##.recommendation-container + DIV[class]
+m.babytree.com##.recommend-brand
+m.babytree.com##.recommend-img-box
+m.babytree.com##.wrap > section[class*="0"],.wrap > DIV[class*="0"]
+m.babytree.com##.wrap > section[class*="4"],.wrap > DIV[class*="4"]
+m.babytree.com##.wrap > section[class*="9"],.wrap > DIV[class*="9"]
 m.baidu.com,www.baidu.com###banner_call + div[id]
 m.baidu.com,www.baidu.com###header + script + div[id]
 ifanr.com##.popup-app-download
