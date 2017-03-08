@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: EKYpTqxUqkdMtlqtOUFG7w
-! Version: 201703031308
+! Checksum: yLpBMhHUdu8UIxzuRiuJFA
+! Version: 201703081730
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/03/03 13:08 +0800
+! Last modified: 2017/03/08 17:30 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -202,7 +202,17 @@
 ||zuoyebang.cc/static/question/question/resource/QRCode_
 ||iciba.com/static/images/download_banner.png
 ||mtime.cn/library/*/ECommerce/GoodsAndFeatureCtrl.js
+||soufunimg.com/common_m/m_public/js/wa
+||taobao.com/js/smartbanner/
 !------------------------Specific element hiding rules------------------------!
+m.baidu.com,www.baidu.com###banner_call + div[id]
+m.baidu.com,www.baidu.com###header + script + div[id]
+ifanr.com##.popup-app-download
+kaopu001.com###pokemon
+m.taobao.com##.install-app
+zhiyoo.com###body-bg
+zhiyoo.com###dialog1
+zhiyoo.com###header_app
 itmo.com##.aside-game-icon-box
 itmo.com##.right-side-pop
 hupu.com##.m-app-info
@@ -502,7 +512,7 @@ house365.com##.left_fudong_ad
 hao123.com##.newskin-tip
 news.baidu.com##.recommend-animate
 news.baidu.com##.recommend-mask
-hao123.com##.slidetoolbarContainr
+hao123.com###slidetoolbarContainer
 hao123.com##.tvtip
 163.com##.m-adv
 feng.com##.wea_d_panel_980
