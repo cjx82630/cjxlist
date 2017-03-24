@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: S9n0+qp5B37QAZmZBY92nA
-! Version: 201703182017
+! Checksum: czDUZQExk5zoyfUj3U8wJg
+! Version: 201703241142
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/03/18 20:17 +0800
+! Last modified: 2017/03/24 11:42 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -180,10 +180,9 @@
 ||yytcdn.com/js/common/widget/pcpusher.
 ||rrjc.com/home/seo/ad/
 ||wuxibus.com/Image/title
-||hjfile.cn/site/js/bottomActive
-||hjfile.cn/site/js/passAddAd.js
+||hujiang.com/Web/tx.ashx
+||hjfile.cn/site/hj-lzs/
 ||hjfile.cn/site/js/pop_gift_plugin.js
-||hjfile.cn/site/js/questionnaire.js
 ||a6.hujiang.com^$domain=~class.hujiang.com
 ||hjapi.com/v1/pageSoftText?
 ||qudao.com/common/minisite.js
@@ -218,7 +217,10 @@
 ||ali213.net/js/3g/newsdetail.js
 ||21sq.org/js/downloadbanner.js
 ||dwstatic.com/p/2017dw/1.1.0/common/newsPopup/
+||kaoyan.com/school/js/yz.school.packed.js
 !------------------------Specific element hiding rules------------------------!
+kaoyan.com##.floatQrcode
+shejiben.com##.bottom_zb_box
 bilibili.com##A[href*=".biligame."]
 dianyingbar.com###jihuaslide
 dianyingbar.com##.alert_windows
