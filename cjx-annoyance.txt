@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: eWMYHcISrvPE8iTmPcXdUA
-! Version: 201705212206
+! Checksum: sUUSFJ+2w6JPuP6rGp23Dg
+! Version: 201705271235
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/05/21 22:06 +0800
+! Last modified: 2017/05/27 12:35 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -223,6 +223,7 @@
 ||hjfile.cn/lib/hui/footer/0.1.0/footer.js
 ||6pan.cc/ps/vip.jpg
 !------------------------Specific element hiding rules------------------------!
+heirui.cn##.index711-mask
 wbiao.cn###popupImgCorner
 dditblog.com###income_div
 taoguba.com.cn##.ct_app
@@ -630,6 +631,8 @@ blog.163.com###topbar_yxpArea
 /soku/giantstar/js/youlog.js
 /hunter/alog/*
 /yesky/js/counter/*
+||autohome.com.cn/risk_fp_log?
+||autoimg.cn/bi/mda/ahas_body.
 ||olpv.onlylady.com^
 ||comm100.cn/livechatserver/chatbutton.*&res=
 ||tingyun.com^$third-party
@@ -646,7 +649,6 @@ blog.163.com###topbar_yxpArea
 ||91160.com/nykj/f=static/v4/common/tj.js
 ||ejieban.com^
 ||btdb.in/beacon.html
-||autoimg.cn/bi/mda/
 ||qdp.qidian.com^
 ||chouti.com/js/tingyun-rum.js
 ||113.105.248.169^
