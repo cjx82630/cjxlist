@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zmbiNq6yxNJGFTrghiyxGw
-! Version: 201706232008
+! Checksum: bcdB1QsNr70D5SrtzJdF3g
+! Version: 201706302038
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/06/23 20:08 +0800
+! Last modified: 2017/06/30 20:38 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -22,6 +22,7 @@
 /wp-content/plugins/upprev/*
 /shenmago_download_app_
 !------------------------General element hiding rules-------------------------!
+###b_login
 ###windlocation
 ###qrcodeWrap
 ###qrcodeDownloadBar
@@ -31,6 +32,7 @@
 ###appIn
 ###upprev_box
 !-----------------------------Union&third-party-------------------------------!
+||meiqia.com^$third-party
 ||knet.cn^$third-party
 ||pop800.com^$third-party
 ||5251.net^$third-party
@@ -228,7 +230,11 @@
 ||jia.com/js/tuku/footBanner_
 ||daf-rs.com/imageViewer/wpAd
 ||aoji.cn/default/looyu/
+||51liucheng.com/js/dialogLogin.js
+||live800.com^$third-party
 !------------------------Specific element hiding rules------------------------!
+medsci.cn##.adv1201
+zhiding.cn###MgBox
 tianya.cn##.slider_box
 heirui.cn##.index711-mask
 wbiao.cn###popupImgCorner
@@ -638,6 +644,7 @@ blog.163.com###topbar_yxpArea
 /soku/giantstar/js/youlog.js
 /hunter/alog/*
 /yesky/js/counter/*
+||pv.zhiding.cn^
 ||autohome.com.cn/risk_fp_log?
 ||autoimg.cn/bi/mda/ahas_body.
 ||olpv.onlylady.com^
@@ -871,6 +878,7 @@ blog.163.com###topbar_yxpArea
 /gen_204?$image,script
 /log.gif?
 /track.gif?
+||s.360.cn^
 ||cnzz.com^$third-party
 ||google-analytics.com/analytics.js
 ||googletagmanager.com/gtm.js?$third-party
