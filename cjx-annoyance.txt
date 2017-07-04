@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: bcdB1QsNr70D5SrtzJdF3g
-! Version: 201706302038
+! Checksum: XsbC2iNe3pV0XhpZDrUi5g
+! Version: 201707041531
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/06/30 20:38 +0800
+! Last modified: 2017/07/04 15:31 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -32,6 +32,7 @@
 ###appIn
 ###upprev_box
 !-----------------------------Union&third-party-------------------------------!
+||live800.com^$third-party
 ||meiqia.com^$third-party
 ||knet.cn^$third-party
 ||pop800.com^$third-party
@@ -52,6 +53,8 @@
 ||soperson.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]+\.(?:com|com\.cn|cn|cc|net|org)\/(?=[0-9a-z]*[a-z][0-9][a-z])[0-9a-z]{10}\.js/$script
+/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
 ||igo.cn/liuxue/js/slideBar
 ||eastmoney.com/js/news_fixed_
 ||dahe.cn/indiboy/ads/
@@ -231,7 +234,6 @@
 ||daf-rs.com/imageViewer/wpAd
 ||aoji.cn/default/looyu/
 ||51liucheng.com/js/dialogLogin.js
-||live800.com^$third-party
 !------------------------Specific element hiding rules------------------------!
 medsci.cn##.adv1201
 zhiding.cn###MgBox
