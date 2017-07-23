@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RYIh8BoQhZU937rT74yDow
-! Version: 201707230859
+! Checksum: 8kCdYrnbCw4tDjnMLxqMmQ
+! Version: 201707231907
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/07/23 08:59 +0800
+! Last modified: 2017/07/23 19:07 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -21,6 +21,7 @@
 /loooyu.js
 /wp-content/plugins/upprev/*
 /shenmago_download_app_
+/3dmgamegzh.png
 !------------------------General element hiding rules-------------------------!
 ###b_login
 ###windlocation
@@ -51,6 +52,7 @@
 ||lxbjs.baidu.com^$third-party
 ||goutong.baidu.com^
 ||soperson.com^$third-party
+||bobo.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
 /^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
@@ -235,7 +237,10 @@
 ||aoji.cn/default/looyu/
 ||51liucheng.com/js/dialogLogin.js
 ||cpu.baidu.com^
+||4399.com/jss/skiner
+||imall.cctv.com^
 !------------------------Specific element hiding rules------------------------!
+ganji.com##.fl_pop
 setn.com###FBAnchor
 setn.com##.header-left-banner
 setn.com##.header-right-banner-b
