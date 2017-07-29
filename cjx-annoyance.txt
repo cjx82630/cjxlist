@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: nDRI22QPb5GAYTRLOXHNyQ
-! Version: 201707280857
+! Checksum: NDew7NXlo8b3+09q+0IQJA
+! Version: 201707290926
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/07/28 08:57 +0800
+! Last modified: 2017/07/29 09:26 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -242,7 +242,19 @@
 ||fh21.com.cn/js/passport/createQuickMenu.js
 ||sinaimg.cn/finance/*/sideQR
 ||autohome.com.cn/news/js_resource/resource/commonfile?
+||bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 !------------------------Specific element hiding rules------------------------!
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="0"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="1"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="2"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="3"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="4"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="5"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="6"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="7"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="8"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="9"]
+ithome.com##.con_2 > .img_listbox
 autohome.com.cn##.fixqbot
 qq.com##.public-banner
 qq.com##.J_hot_game
@@ -357,7 +369,6 @@ m.babytree.com##.wrap > section[class*="0"],.wrap > DIV[class*="0"]
 m.babytree.com##.wrap > section[class*="4"],.wrap > DIV[class*="4"]
 m.babytree.com##.wrap > section[class*="9"],.wrap > DIV[class*="9"]
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###banner_call + div[id]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > [-abp-properties='height: 53px;']
 ifanr.com##.popup-app-download
 kaopu001.com###pokemon
 m.taobao.com##.install-app
