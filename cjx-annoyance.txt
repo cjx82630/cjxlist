@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: Vy2o4XYJAWZSQIWSlwL5tg
-! Version: 201709302215
+! Checksum: 5BWZMIh2+lVnkxfClfsLyQ
+! Version: 201710022134
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/09/30 22:15 +0800
+! Last modified: 2017/10/02 21:34 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -241,14 +241,14 @@
 ||imall.cctv.com^
 ||fh21.com.cn/js/passport/createQuickMenu.js
 ||sinaimg.cn/finance/*/sideQR
-||autohome.com.cn/news/js_resource/resource/commonfile?
 ||bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 ||howbuy.com/subject/js/layer/layer.js
 ||xnimg.cn^*/liveinc/rightlive.js
-||autohome.com.cn/news/img_resource/source/commonimgsalert
+||autohome.com.cn/news/img_resource/source/
 ||sinaimg.cn^*/everyoneReading.js
 ||baidu.com^*/app/banner_
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.rmb-carsousel-position-bottom
 ifeng.com###golddigger_bottom
 ifeng.com###linkrat_bottom
 163.com##.m-slider-footer
@@ -268,6 +268,7 @@ renren.com##.swiper-container
 renren.com##.toplive
 mydrivers.com###a_showhotnews_list_dia
 instrument.com.cn###leftFlash
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com##[-abp-properties='height: 53px;*z-index: 999;']
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="0"]
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="1"]
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="2"]
