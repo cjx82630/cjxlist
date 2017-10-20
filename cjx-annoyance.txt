@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: sbV+PGja1RQw5wFv07ecMQ
-! Version: 201710191844
+! Checksum: XJIY9Om+djJ/N09B+yz6kA
+! Version: 201710202058
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/10/19 18:44 +0800
+! Last modified: 2017/10/20 20:58 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -224,7 +224,7 @@
 ||to8to.com/assets/wap//common/widgets/appGuide/appGuide.
 ||ali213.net/js/3g/newsdetail.js
 ||21sq.org/js/downloadbanner.js
-||dwstatic.com/p/2017dw/1.1.0/common/newsPopup/
+||dwstatic.com^*/common/newsPopup/
 ||kaoyan.com/school/js/yz.school.packed.js
 ||sinaimg.cn^$domain=678pan.com
 ||webservice.360doc.com^
@@ -251,6 +251,8 @@
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
 !------------------------Specific element hiding rules------------------------!
+cnbeta.com##DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
+cnbeta.com#?#DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 55haitao.com##.bbs-bottom-popup
 55haitao.com##.global-dialog
 gov.cn###ippad01
