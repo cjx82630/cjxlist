@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: XJIY9Om+djJ/N09B+yz6kA
-! Version: 201710202058
+! Checksum: NkgeQ17RNTN4LklTCM2NxQ
+! Version: 201710212150
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/10/20 20:58 +0800
+! Last modified: 2017/10/21 21:50 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -23,6 +23,7 @@
 /shenmago_download_app_
 /3dmgamegzh.png
 /znds/dbsc98060.gif
+/to8to_pc/chunks/slide_and_popup_
 !------------------------General element hiding rules-------------------------!
 ###b_login
 ###windlocation
@@ -251,6 +252,9 @@
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
 !------------------------Specific element hiding rules------------------------!
+gitee.com##.float-left-box
+to8to.com##.ad-commom
+to8to.com##.quoted-outside
 cnbeta.com##DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 cnbeta.com#?#DIV[style="display:block !important;position:fixed;bottom:0;margin-top:10px;width:100%;background:#c44;color:#fff;font-size:15px;z-index:99999"]
 55haitao.com##.bbs-bottom-popup
