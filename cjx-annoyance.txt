@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: LQh3ITnvXj81pOT+jLeYVA
-! Version: 201711100630
+! Checksum: Iy3cz+CC7L2d2die9MB6YQ
+! Version: 201711121713
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/11/10 06:30 +0800
+! Last modified: 2017/11/12 17:13 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -59,8 +59,8 @@
 ||cir-smart.baidu.com^
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
-/^https?:\/\/(?!www[0-9]?)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
+/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
 ||igo.cn/liuxue/js/slideBar
 ||eastmoney.com/js/news_fixed_
 ||dahe.cn/indiboy/ads/
@@ -260,6 +260,7 @@
 ||hexun.com/2017-11-07/191534592.jpg
 ||china.com/images/milapp
 !------------------------Specific element hiding rules------------------------!
+km.com##.downloadApp
 w3cschool.cn##.widget-main
 baidu.com##.download-app-parent
 autohome.com.cn###packetsWrap
@@ -756,7 +757,6 @@ blog.163.com###topbar_yxpArea
 /soku/giantstar/js/youlog.js
 /hunter/alog/*
 /yesky/js/counter/*
-/fingerprint2.min.js
 ||hdslb.com/js/bfd.js
 ||s.union.360.cn^
 ||d-test.39.net^
