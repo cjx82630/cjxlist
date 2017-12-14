@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: aQDAmo4sELqJeuRagIGajg
-! Version: 201712111147
+! Checksum: amsEV4rIqVZA38OHXhAVyQ
+! Version: 201712141431
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/12/11 11:47 +0800
+! Last modified: 2017/12/14 14:31 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -321,16 +321,8 @@ renren.com##.toplive
 mydrivers.com###a_showhotnews_list_dia
 instrument.com.cn###leftFlash
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div[id]:-abp-has(>.bf-close-btn)
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="0"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="1"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="2"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="3"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="4"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="5"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="6"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="7"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="8"]
-3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com###index-card > DIV[id*="9"]
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
+3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>.openBox-container)
 ithome.com##.con_2 > .img_listbox
 autohome.com.cn##.fixqbot
 qq.com##.public-banner
@@ -386,7 +378,7 @@ bilibili.com##A[href*=".biligame."]
 dianyingbar.com###jihuaslide
 dianyingbar.com##.alert_windows
 dianyingbar.com##.recover
-baijiahao.baidu.com##.openBox-shareEntry
+baidu.com##.openBox-shareEntry
 mobile.baidu.com##.p_fixed_lb
 mydrivers.com###a_showhotnews_list_dia
 appchina.com###yyh-bottom
