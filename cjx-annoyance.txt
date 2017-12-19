@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: KvM/PfTszv76TadxxEAZpA
-! Version: 201712171554
+! Checksum: fanFQSR7AraMiyRRw8tZ5g
+! Version: 201712191019
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/12/17 15:54 +0800
+! Last modified: 2017/12/19 10:19 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -267,6 +267,9 @@
 ||eastmoney.com/Extends/GetReferralLinkJavaScriptObj
 ||zndsssp.dangbei.net^
 !------------------------Specific element hiding rules------------------------!
+news.baidu.com###detail-HotScrollNews-wrapper
+news.baidu.com##.swipe-backflow-container
+baijiahao.baidu.com,feed.baidu.com##BODY > DIV[id$="-container"]:last-child
 eastmoney.com##DIV[id^="em_important_"]
 qyer.com###zpui-head-ad
 sohu.com###apkBanner
@@ -766,6 +769,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||bytecdn.cn/ta/resource/v0/analytics.js
 ||qyer.com^*/base_beacon_ga.js
 ||hdslb.com/js/bfd.js
 ||s.union.360.cn^
