@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: kJCR898CHd3gwn5iZQdNKw
-! Version: 201712202311
+! Checksum: /bEW+U76TlDnzZhjuHv2SQ
+! Version: 201712221322
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/12/20 23:11 +0800
+! Last modified: 2017/12/22 13:22 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -62,7 +62,6 @@
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
 /^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
 ||igo.cn/liuxue/js/slideBar
-||eastmoney.com/js/news_fixed_
 ||dahe.cn/indiboy/ads/
 ||tianya.cn/shang/*/index.shtml
 ||bjsxt.com/statics/js/bjsxt/js.js
@@ -150,7 +149,6 @@
 ||fydisk.com/images/showvip.gif
 ||pconline.com.cn/intf/hot_
 ||offcn.com/offcnewm/
-||eastmoney.com/trade/hqb_
 ||jc001.cn/img/yhj.gif
 ||jc001.cn/indexnew/js/yuyue.js
 ||goodcome.com.tw/block/ad/rndtopad.php
@@ -180,7 +178,6 @@
 ||pstatp.com^*/bannersdk/
 ||kuwo.cn/static/swf/xctg.swf
 ||blog.sina.com.cn/lm/mini/
-||dfcfw.com/public/js/left.js
 ||wbiao.cn/common/adapi/
 ||wbiao.cn/common/newsbannerAds/
 ||sinaimg.cn/finance/wanghong_
@@ -278,7 +275,6 @@ baijiahao.baidu.com,feed.baidu.com##BODY > DIV[id$="-container"]:last-child
 eastmoney.com##DIV[id^="em_important_"]
 qyer.com###zpui-head-ad
 sohu.com###apkBanner
-ifeng.com##.newbagicon
 zhihu.com##.AdblockBanner
 zhihu.com##.Card[data-za-module="ContentList"]
 zhihu.com##.Card[data-za-detail-view-path-module="ContentList"]
@@ -309,8 +305,6 @@ qq.com##.yscoin-box
 baidu.com##.openAppCommonTpl-100
 baidu.com##.rmb-carsousel-position-bottom
 baidu.com##.rmb-growth-common-tpl-1-wrapper
-ifeng.com###golddigger_bottom
-ifeng.com###linkrat_bottom
 163.com##.m-slider-footer
 iciba.com##.ad-sign
 iciba.com##.info-product
