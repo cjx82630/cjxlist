@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: ONDr0hTgAKwGgZu6ILwD8w
-! Version: 201712251923
+! Checksum: 6EUZA/eF0M2kmbdltVuPpg
+! Version: 201712311213
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2017/12/25 19:23 +0800
+! Last modified: 2017/12/31 12:13 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -268,6 +268,12 @@
 ||asp300.com/2017images/kefu.js
 ||douyu.com/dygev/*.swf
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.rmb-growth-common-tpl-1-wrapper
+haokan.baidu.com,sv.baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
+baidu.com##.openAppCarsouselTpl
+haokan.baidu.com##.eye-catching-tpl-container
+baidu.com#?#.rec-item:-abp-has(> div > a > .rn-footer > .open-bdbox-title)
+ifeng.com##A[href*=".app"]
 douyu.com##.double-festival-pop
 douyu.com##.pendant-wrap
 96weixin.com##.pop
@@ -773,6 +779,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||mixer.sina.cn^
 ||bytecdn.cn/ta/resource/v0/analytics.js
 ||qyer.com^*/base_beacon_ga.js
 ||hdslb.com/js/bfd.js
