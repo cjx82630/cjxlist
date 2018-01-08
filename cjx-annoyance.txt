@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: l00o/oR8sQJRU+LcGp4QTg
-! Version: 201801062259
+! Checksum: +7R1SAb9Yxi9+WGmZ1xDiw
+! Version: 201801081228
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/01/06 22:59 +0800
+! Last modified: 2018/01/08 12:28 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -228,7 +228,6 @@
 ||21sq.org/js/downloadbanner.js
 ||dwstatic.com^*/newsPopup/
 ||kaoyan.com/school/js/yz.school.packed.js
-||sinaimg.cn^$domain=678pan.com
 ||webservice.360doc.com^
 ||hjfile.cn/lib/uzhi/uzt.
 ||hjfile.cn/lib/hui/footer/0.1.0/footer.js
@@ -271,7 +270,11 @@
 ||douyu.com/dygev/*.swf
 ||showguide.cn/templets/*/qqcenter.js
 ||showguide.cn/templets/*/sg-ad.js
+||hanjutv.com/public/js/layer/layer.js
 !------------------------Specific element hiding rules------------------------!
+tmall.com##.mui-mbarp-qrcode
+suning.com###sn-sidebar-change-code
+hanjutv.com##.ggw_fr
 zimuzu.tv##.key-result > LI > A[href*=".taobao.com"]
 yaofangwang.com##.bad
 crsky.com##A[href^="http://count."][href$=".exe"]
