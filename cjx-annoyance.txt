@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: f0cZgAkRR7xJU804uwTlAg
-! Version: 201801131728
+! Checksum: F7shEZ/n6tOrimCNqP+4OA
+! Version: 201801181922
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/01/13 17:28 +0800
+! Last modified: 2018/01/18 19:22 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -233,7 +233,6 @@
 ||hjfile.cn/lib/hui/footer/0.1.0/footer.js
 ||6pan.cc/ps/vip.jpg
 ||51cto.com/iframe/get-station-ads
-||autohome.com.cn/news/new_*/index_css?
 ||bendibao.com/weixin_
 ||jia.com/js/tuku/footBanner_
 ||daf-rs.com/imageViewer/wpAd
@@ -247,9 +246,6 @@
 ||bdstatic.com/searchbox/icms/searchbox/img/*.jpg
 ||howbuy.com/subject/js/layer/layer.js
 ||xnimg.cn^*/liveinc/rightlive.js
-||autohome.com.cn/news/img_resource/source/
-||autohome.com.cn/news/cdn_resource/source/userfiles
-||autohome.com.cn/news/see_myactive/look/pass.html
 ||sinaimg.cn^*/everyoneReading.js
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
@@ -273,7 +269,10 @@
 ||hanjutv.com/public/js/layer/layer.js
 ||alicdn.com/mtb/lib-smartbanner-
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
+||chazidian.com/all/gg_
+||autohome.com.cn/news/$script
 !------------------------Specific element hiding rules------------------------!
+maiziedu.com##.msg
 baixing.com##.listing-fixed-bottom-promo
 baixing.com##.guide-video-app
 baixing.com##.red-package
@@ -796,6 +795,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||count.candou.com^
 ||analyse.weather.com.cn^
 ||btime.com/api/weblog?
 ||reportlog.dftoutiao.com^
