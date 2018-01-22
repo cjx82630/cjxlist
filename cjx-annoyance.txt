@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: 8WCzw4BAw/B+Zm+NYhLvsA
-! Version: 201801192138
+! Checksum: QMuCHkyhQebIOMnCCEZCcQ
+! Version: 201801220948
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/01/19 21:38 +0800
+! Last modified: 2018/01/22 09:48 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -50,7 +50,6 @@
 ||kuaishang.cn^$third-party
 ||looyu.com^$third-party
 ||crs.baidu.com^
-||tui.cnzz.com^$third-party
 ||tui.cnzz.net^$third-party
 ||lxbjs.baidu.com^$third-party
 ||goutong.baidu.com^
@@ -160,7 +159,6 @@
 ||zp365.com/newhousered/hb-index-pop-
 ||dmzj.com/public/js/app_banner.js
 ||bobo.com/special/mod-follow/
-||netease.com^*-bobo_recommend_
 ||51credit.com/bbs/js/bbs-end-layer.js
 ||ifengimg.com/auto/js/*enquiry
 ||autoimg.cn/Space/help/HelpRdTask.js
@@ -272,6 +270,7 @@
 ||chazidian.com/all/gg_
 ||autohome.com.cn/news/$script
 !------------------------Specific element hiding rules------------------------!
+zhihu.com##.KanshanDiversion
 maiziedu.com##.msg
 baixing.com##.listing-fixed-bottom-promo
 baixing.com##.guide-video-app
@@ -331,7 +330,6 @@ mydrivers.com###recommend
 qq.com##.yscoin-box
 baidu.com##.openAppCommonTpl-100
 baidu.com##.rmb-carsousel-position-bottom
-baidu.com##.rmb-growth-common-tpl-1-wrapper
 163.com##.m-slider-footer
 iciba.com##.ad-sign
 iciba.com##.info-product
@@ -347,7 +345,6 @@ ichunqiu.com###cnzz168_Login
 pixiv.net##.ads_anchor
 renren.com##.swiper-container
 renren.com##.toplive
-mydrivers.com###a_showhotnews_list_dia
 instrument.com.cn###leftFlash
 ithome.com##.con_2 > .img_listbox
 autohome.com.cn##.fixqbot
@@ -922,7 +919,6 @@ blog.163.com###topbar_yxpArea
 ||log.zongheng.com^
 ||log2.mtime.cn^
 ||mafengwo.cn/uva/i.gif?
-||msg.71.am^
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
 ||msg.video.qiyi.com^
