@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: m+/tZuqbnFcCasFY/fC8xQ
-! Version: 201801302036
+! Checksum: O+eaf3TzYydJkyWdEK6ETQ
+! Version: 201801310955
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/01/30 20:36 +0800
+! Last modified: 2018/01/31 09:55 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -23,6 +23,7 @@
 /shenmago_download_app_
 /3dmgamegzh.png
 /to8to_pc/chunks/slide_and_popup_
+/yksmartbanner.
 !------------------------General element hiding rules-------------------------!
 ###b_login
 ###windlocation
@@ -219,7 +220,6 @@
 ||youdao.com/market/banner/banner
 ||39.net/PictureLib/A/f76/20160825/org_749281.png
 ||enet.com.cn/counter.php
-||youku.com/video/js/yksmartbanner.
 ||caixin.com/file/content/js/mobile_news_app_banner.js
 ||ettoday.net/style/mobileweb2014/js/smartbanner/jquery.smartbanner.
 ||to8to.com/assets/wap//common/widgets/appGuide/appGuide.
@@ -270,7 +270,12 @@
 ||w3cschool.cn/attachments/image/20170919/1505817817281252.jpg
 ||chazidian.com/all/gg_
 ||autohome.com.cn/news/$script
+||huodong.m.taobao.com^$domain=youku.com
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.redenvelope-small
+miaopai.com##.dialogplayer
+miaopai.com##.footer_banner
+miaopai.com##.swiper-container
 douguo.com###dlayer
 infoq.com###psa-note
 ck101.com##.btn_dw_app
