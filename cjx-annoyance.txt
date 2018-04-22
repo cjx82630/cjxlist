@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: pGUilc5jOYbZt1Qh8Hn6kw
-! Version: 201804022254
+! Checksum: ynSvSzaOZEOsDeLS1kRwcg
+! Version: 201804222029
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/04/02 22:54 +0800
+! Last modified: 2018/04/22 20:29 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -61,8 +61,6 @@
 ||3jia5.com^$third-party
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
-/^https?:\/\/(?!www\.)[0-9a-z-]+\.m\.[0-9a-z-]{4,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,~third-party,xmlhttprequest
-/^https?:\/\/(?!www\.)[0-9a-z-]+\.[0-9a-z-]{5,}\.(?:com|cn|cc|net)(?:\/[0-9]{1,7}){1,4}(?:\.html|\.xhtml|\.html\?ts=[0-9]+)?$/$script,third-party,xmlhttprequest
 ||igo.cn/liuxue/js/slideBar
 ||dahe.cn/indiboy/ads/
 ||tianya.cn/shang/*/index.shtml
@@ -274,6 +272,7 @@
 ||ifengimg.com^*/red2018icon.
 ||docin.com/building/getAdvById.
 ||jia.com/js/zixun/zixun_
+||youdao.com/www/banner.html
 !------------------------Specific element hiding rules------------------------!
 csdn.net##.panel_body > DIV[style^="position:fixed;bottom: 0;"]
 wallstreetcn.com##.xinren-wrapper
@@ -807,6 +806,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||ydstatic.com/js/rlog/
 ||ll.hudong.com^
 ||58cdn.com.cn/resource/xxzl/xxfw/
 ||count.candou.com^
