@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: RPDKqDwL29fiUuUXtyMOxA
-! Version: 201804241505
+! Checksum: 0KYDvDyxvrUJTgzbhWsX8Q
+! Version: 201804242133
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/04/24 15:05 +0800
+! Last modified: 2018/04/24 21:33 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -274,7 +274,9 @@
 ||jia.com/js/zixun/zixun_
 ||youdao.com/www/banner.html
 ||bdstatic.com/tb/img/icon_coo_operation_
+||ad.qn.img-space.com^
 !------------------------Specific element hiding rules------------------------!
+fengniao.com###ad-head
 it168.com##.fu1020_box
 csdn.net##.panel_body > DIV[style^="position:fixed;bottom: 0;"]
 wallstreetcn.com##.xinren-wrapper
@@ -808,6 +810,8 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+||stat.img-space.com^
+||fengniao.com*/pv.js
 ||ydstatic.com/js/rlog/
 ||ll.hudong.com^
 ||58cdn.com.cn/resource/xxzl/xxfw/
@@ -903,7 +907,6 @@ blog.163.com###topbar_yxpArea
 ||dp3.qq.com/qqcom/
 ||dw.xcar.com.cn^*.gif?
 ||ea3w.com/pv.js
-||fengniao.com/pv.js
 ||fjsen.com:81/mysql/count/
 ||frame.enet.com.cn/a.php
 ||ftchinese.com/log/analytics.js
@@ -958,7 +961,6 @@ blog.163.com###topbar_yxpArea
 ||stat.cnmo.com^
 ||stat.cutv.com^
 ||stat.ea3w.com^
-||stat.fengniao.com^
 ||stat.hebnews.cn^
 ||stat.hkwb.net^
 ||stat.house365.com^
