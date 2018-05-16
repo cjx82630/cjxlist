@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: FiNMZi6G8/O8o51PN/ej0Q
-! Version: 201805101913
+! Checksum: ydiqdvRN2a2X8GDwhD7YFA
+! Version: 201805161036
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/05/10 19:13 +0800
+! Last modified: 2018/05/16 10:36 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -280,7 +280,15 @@
 ||dwstatic.com^*/sidebar.js
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shejiben.com/common/libs/layer.js
+||me360.com/swt/swt.js
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.first-card-container
+me360.com##.footer-booking-open
+m.youku.com###banner
+m.youku.com##.cmt-more
+m.youku.com##.cmt-more-cont
+m.youku.com##.hdwrap
+m.youku.com##.recommend
 qihoo.com##.qrcode
 jpwind.com###asideNav
 51cto.com##.footer_mask
@@ -836,6 +844,7 @@ blog.163.com###topbar_yxpArea
 ||stat.download.xunlei.com^
 ||mlog.aipai.com^
 ||mixer.sina.cn^
+||sina.cn*/view?
 ||bytecdn.cn/ta/resource/v0/analytics.js
 ||qyer.com^*/base_beacon_ga.js
 ||hdslb.com/js/bfd.js
