@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: zT+9FUQMjxwXSLg3ZpL21A
-! Version: 201805171506
+! Checksum: xuySZUFQ0Cc6qF2DLcbIFA
+! Version: 201805211807
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/05/17 15:06 +0800
+! Last modified: 2018/05/21 18:07 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -282,6 +282,7 @@
 ||shejiben.com/common/libs/layer.js
 ||me360.com/swt/swt.js
 !------------------------Specific element hiding rules------------------------!
+apowersoft.cn##.activity-poster
 so.com###bottom_ask
 csdn.net##.edu-promotion
 baidu.com##.first-card-container
@@ -332,7 +333,6 @@ baidu.com##.commentEmbed-backHomeCard
 baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baidu.com##.openAppCarsouselTpl
 baidu.com##.eye-catching-tpl-container
-baidu.com#?#.rec-item:-abp-has(> div > a > .rn-footer > .open-bdbox-title)
 ifeng.com##A[href*=".app"]
 douyu.com##.double-festival-pop
 douyu.com##.pendant-wrap
@@ -834,6 +834,7 @@ blog.163.com###topbar_yxpArea
 /hunter/alog/*
 /yesky/js/counter/*
 /_3jia5_analyser.
+/v.gif?logtype=
 ||kaipuyun.cn/count/
 ||stat.img-space.com^
 ||fengniao.com*/pv.js

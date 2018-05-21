@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xrUV2NSe2JhjYzvzuWA/FQ
-! Version: 201803010914
+! Checksum: j9n4AcOFIveRLYcFlBHKug
+! Version: 201805211807
 ! Title: EasyList Lite
 ! This is a Lite version of EasyList. Only for Simplified Chinese Language Websites
-! Last modified: 2018/03/01 09:14 +0800
+! Last modified: 2018/05/21 18:07 +0800
 ! Expires: 10 days (update frequency)
 ! Fork of: EasyList https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -297,8 +297,6 @@ _728_90_
 ##.adbottom
 ###topad1
 /300x250-
-/addata.
-||fastapi.net^$third-party
 ##.ad980
 ##.ads1
 ##.ads3
