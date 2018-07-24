@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: +5NR/8+054bp8VT/8SIs6g
-! Version: 201807221543
+! Checksum: SOaAUywnR7GdLud6do8QUA
+! Version: 201807250759
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/07/22 15:43 +0800
+! Last modified: 2018/07/25 07:59 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -26,6 +26,7 @@
 /yksmartbanner.
 /tianya_recommend?
 !------------------------General element hiding rules-------------------------!
+###sign-ad
 ###b_login
 ###windlocation
 ###qrcodeWrap
@@ -345,7 +346,6 @@ taobao.com##.downapp
 tmall.com##.mui-mbarp-qrcode
 suning.com###sn-sidebar-change-code
 hanjutv.com##.ggw_fr
-zimuzu.tv##.key-result > LI > A[href*=".taobao.com"]
 yaofangwang.com##.bad
 crsky.com##A[href^="http://count."][href$=".exe"]
 aiyuke.com##.index_app_down_ad
@@ -400,7 +400,6 @@ iciba.com##.info-product
 ifeng.com###minefields_bottom
 1010jiajiao.com###yueyu3
 1010jiajiao.com##.xiti_content + .xiti
-zimuzu.tv###help
 mayi.com###floatingLayer
 po.baidu.com###shareBoxBlank
 8264.com##.zhidemaibox
