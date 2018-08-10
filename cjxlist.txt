@@ -1,9 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: muK5p5qS3GyaCt9hRosGdA
-! Version: 201808030125
+! Version: 201808100837
 ! Title: EasyList Lite
 ! This is a Lite version of EasyList. Only for Simplified Chinese Language Websites
-! Last modified: 2018/08/03 01:25 +0800
+! Last modified: 2018/08/10 08:37 +0800
 ! Expires: 10 days (update frequency)
 ! Fork of: EasyList https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
