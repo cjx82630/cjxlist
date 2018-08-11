@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 201808100837
+! Version: 201808111732
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/08/10 08:37 +0800
+! Last modified: 2018/08/11 17:32 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -345,7 +345,6 @@ baidu.com##.baiduapp-ad-container
 ifeng.com##DIV[class^="h"] > DIV[class$="-main"]
 jd.com###toolbar-qrcode
 baidu.com##.redenvelope-small
-miaopai.com##.dialogplayer
 miaopai.com##.footer_banner
 miaopai.com##.swiper-container
 douguo.com###dlayer
