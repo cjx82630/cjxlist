@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 201808111732
+! Version: 201808142106
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/08/11 17:32 +0800
+! Last modified: 2018/08/14 21:06 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -296,7 +296,9 @@
 ||betteredu.net/js/pop_tuiguang_
 ||tuyiyi.com/tuyiyi/m.js
 ||tianyaui.com/cms_fragments/res/*/bbs_include_mod.js
+||con-article.hjapi.com/v1/txs/
 !------------------------Specific element hiding rules------------------------!
+php.cn##.close_id
 to8to.com##.common-tender-wrapper
 to8to.com##.bottom_slide_box
 stc.gov.cn###mov
@@ -558,7 +560,7 @@ jiankang.com##.three_hot
 ctfile.com##.speedydown-info-box
 soku.com###\5f xbox_ad
 smzdm.com###footer_layer
-youku.com##.laifeng
+v.youku.com##.laifeng
 ~laifeng.youku.com,youku.com##A[href^="http://cps.laifeng.com/"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + IMG
 zuowen.com##.cj
@@ -868,6 +870,9 @@ blog.163.com###topbar_yxpArea
 /yesky/js/counter/*
 /_3jia5_analyser.
 /v.gif?logtype=
+||itsmore.cn^$third-party
+||tongji.xinmin.cn^
+||xs8.cn/qreport?
 ||dot.gate.panda.tv^
 ||a-m-s.adnonstop.com^
 ||nmgnews.com.cn/sys/online_calc.js
