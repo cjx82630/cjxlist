@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 201808161310
+! Version: 201808192034
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/08/16 13:10 +0800
+! Last modified: 2018/08/19 20:34 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -300,6 +300,12 @@
 ||360doc.com/js/index7/mask_index_yc.js
 ||gtimg.com/pingjs/ext2020/dc2017/dist/m_tips/tips.js
 !------------------------Specific element hiding rules------------------------!
+zybang.com##.top-banner
+zybang.com##.top_download
+1kkk.com,dm5.com##.guide
+bilibili.com###fixed_app_download
+finance.sina.com.cn###ny-link-r0
+sina.com.cn##A[href="https://finance.sina.com.cn/mobile/comfinanceweb.shtml"]
 php.cn##.close_id
 to8to.com##.common-tender-wrapper
 to8to.com##.bottom_slide_box
