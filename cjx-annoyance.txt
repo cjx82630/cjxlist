@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 201808202113
+! Version: 201808241952
 ! Title: CJX's Annoyance List
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/08/20 21:13 +0800
+! Last modified: 2018/08/24 19:52 +0800
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Email: cjxlist@gmail.com
@@ -248,7 +248,6 @@
 ||sinaimg.cn^*/everyoneReading.js
 ||baidu.com^*/app/banner_
 ||dangbei.net/img/db/downdangbei.gif
-||ltn.com.tw/Upload/Module/2/118/1117360.gif
 ||wingontravel.com/Static/headerfooter/Content/js/masterpage.
 ||hexun.com/2017-11-07/191534592.jpg
 ||china.com/images/milapp
@@ -300,6 +299,7 @@
 ||360doc.com/js/index7/mask_index_yc.js
 ||gtimg.com/pingjs/ext2020/dc2017/dist/m_tips/tips.js
 !------------------------Specific element hiding rules------------------------!
+ltn.com.tw##A[href^="https://draw.ltn.com.tw/"]
 csdn.net##.p4course_target
 9miao.com###deanrlc22
 zybang.com##.top-banner
@@ -871,6 +871,8 @@ blog.163.com###topbar_yxpArea
 @@||fm.ipinyou.$domain=ipinyou.com.cn
 @@||fm.p0y.cn^$domain=ipinyou.com.cn
 @@||doub.io^$generichide
+@@/adview_pic_$domain=xclient.info
+@@||jin10.com^$generichide
 !--------------------------------Tracking Systems-----------------------------!
 /analytics.js$domain=qunar.com
 /cv/*&uuid=$object-subrequest
