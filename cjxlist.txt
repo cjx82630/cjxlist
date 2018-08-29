@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 201808281910
+! Version: 201808291031
 ! Title: CJX's EasyList Lite
 ! If you only visite Simplified Chinese Websites,
-! you can replace default "EasyList China+EasyList" with "EasyList China+EasyList Lite"
-! Last modified: 2018/08/28 19:10 +0800
+! you can replace default "EasyList China+EasyList" with "EasyList China+CJX's EasyList Lite"
+! Last modified: 2018/08/29 10:31 +0800
 ! Expires: 10 days (update frequency)
 ! Fork of: EasyList https://easylist.adblockplus.org/
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
