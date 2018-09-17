@@ -1,14 +1,14 @@
 [Adblock Plus 2.0]
-! Version: 201809022207
+! Version: 201809172300
 ! Title: CJX's Annoyance List
+! Last modified: 2018/09/17 23:00 +0800
+! Expires: 4 days (update frequency)
+! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
+! License: http://creativecommons.org/licenses/by/3.0/
+!
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Last modified: 2018/09/02 22:07 +0800
-! Expires: 4 days (update frequency)
-! License: http://creativecommons.org/licenses/by/3.0/
-! Email: cjxlist@gmail.com
-! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
-!
+! Email (cjxlist@gmail.com)
 !--------------------------General blocking filters---------------------------!
 /live800.
 =Ad_ZPlusGoods&
@@ -42,6 +42,7 @@
 ###bottom_qr_code
 ###downdiv > .downcode
 !-----------------------------Union&third-party-------------------------------!
+||ntalker.com^
 ||live800.com^$third-party
 ||mylikechat.com^$third-party
 ||meiqia.com^$third-party
@@ -300,6 +301,7 @@
 ||360doc.com/js/index7/mask_index_yc.js
 ||gtimg.com/pingjs/ext2020/dc2017/dist/m_tips/tips.js
 !------------------------Specific element hiding rules------------------------!
+ibaotu.com##.comVip-tg
 zhidiy.com###festival_float_bottom
 1905.com##.zx-pic
 1905.com##.zx-small-pic
