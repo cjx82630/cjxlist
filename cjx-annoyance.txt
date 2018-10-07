@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201810031940
+! Version: 201810072324
 ! Title: CJX's Annoyance List
-! Last modified: 2018/10/03 19:40 +0800
+! Last modified: 2018/10/07 23:24 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -131,7 +131,6 @@
 ||dmzj.com/public/js/app_banner.js
 ||docin.com/building/getAdvById.
 ||douyu.com/dygev/*.swf
-||douyucdn.cn/app/douyu/activity/js/richMan/
 ||duba.net/skins/2009/images/db300_250.gif
 ||dwstatic.com^*/newsPopup/
 ||dwstatic.com^*/sidebar.js
@@ -583,7 +582,6 @@ to8to.com##.btm-float
 ck101.com##.btn_dw_app
 uuu9.com##.c_box
 iciba.com##.cb-downmask
-douyu.com,douyutv.com##.chat > .no-login
 zuowen.com##.cj
 hao123.com##.cjcard2017Container
 mumayi.com##.clientBox
