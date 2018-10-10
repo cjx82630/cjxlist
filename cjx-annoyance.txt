@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201810072324
+! Version: 201810101152
 ! Title: CJX's Annoyance List
-! Last modified: 2018/10/07 23:24 +0800
+! Last modified: 2018/10/10 11:52 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -300,6 +300,7 @@
 ||zuoyebang.cc/static/question/question/resource/QRCode_
 ||zuoyebang.cc/zyb_4953cbb8a9a2332469592196c056a906.jpg
 !------------------------Specific element hiding rules------------------------!
+csdn.net##.adblock
 house365.com###AD-coup-left
 cheaa.com###AD002
 cheaa.com###ADText
