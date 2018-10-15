@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201810120028
+! Version: 201810152102
 ! Title: CJX's Annoyance List
-! Last modified: 2018/10/12 00:28 +0800
+! Last modified: 2018/10/15 21:02 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -302,6 +302,11 @@
 ||yuedu.baidu.com/hybrid/wkrec/search?
 ||zhan.com/static/scripts/middle_ad_modal.js
 !------------------------Specific element hiding rules------------------------!
+dianping.com##.QQlink
+dianping.com##.bao-jia-form
+dianping.com##.button_bao-jia
+dianping.com##.layer-container[data-view-bid="b_njcmobox"]
+dianping.com##.weixin1
 smzdm.com##.foot-banner
 itheima.com##.tanchang
 csdn.net##.adblock
