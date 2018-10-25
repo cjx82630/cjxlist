@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Version: 201810152102
+! Version: 201810251943
 ! Title: CJX's Annoyance List
-! Last modified: 2018/10/15 21:02 +0800
+! Last modified: 2018/10/25 19:43 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
-! License: http://creativecommons.org/licenses/by/3.0/
 !
+! License: http://creativecommons.org/licenses/by/3.0/
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
 ! Email (cjxlist@gmail.com)
@@ -302,6 +302,8 @@
 ||yuedu.baidu.com/hybrid/wkrec/search?
 ||zhan.com/static/scripts/middle_ad_modal.js
 !------------------------Specific element hiding rules------------------------!
+zhongyiju360.com###bottom-float
+zhongyiju360.com###bottom-float2
 dianping.com##.QQlink
 dianping.com##.bao-jia-form
 dianping.com##.button_bao-jia
@@ -874,6 +876,7 @@ iqiyi.com##iframe[style^="z-index:"]:last-child
 m.babytree.com##script + a[class]
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
+@@||qbox.me/static/js/ads.js$domain=linux.cn
 @@/adview_pic_$domain=xclient.info
 @@||doub.io^$generichide
 @@||fm.ipinyou.$domain=ipinyou.com.cn
