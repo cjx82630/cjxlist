@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201810251943
+! Version: 201810261442
 ! Title: CJX's Annoyance List
-! Last modified: 2018/10/25 19:43 +0800
+! Last modified: 2018/10/26 14:42 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -499,7 +499,6 @@ sogou.com###sogou_vr_21222401_wrap_0
 ifeng.com###swiper_bottom
 msn.com###taboola-above-homepage-thumbnails
 sina.com.cn###tg_app_w
-firefox.com.cn,firefoxchina.cn###thside-left-banner
 auto.qq.com###tips
 jd.com###toolbar-qrcode
 17173.com###topAlert
