@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201811041905
+! Version: 201811051339
 ! Title: CJX's Annoyance List
-! Last modified: 2018/11/04 19:05 +0800
+! Last modified: 2018/11/05 13:39 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -1009,7 +1009,7 @@ m.babytree.com##script + a[class]
 ||hexun.com/js/att_count.js
 ||hiido.com^$third-party
 ||hm.baidu.com/mkt.js
-||hoopchina.com.cn/web/module/dace/
+||hupu.com/_dace.gif?
 ||house365.com/js/analyze.js
 ||hz.youku.com/red/
 ||iciba.com/web/static/scripts/kds2_record.js
