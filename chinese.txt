@@ -1,5 +1,5 @@
 !#Chinese begin
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#$#hide-if-contains 广告 .c-container '.f13 > .m'
 ruanyifeng.com#$#abort-on-property-read checker
-xianzhenyuan.cn#$#abort-on-property-read alert;abort-on-property-read ad
+xianzhenyuan.cn#$#abort-on-property-read ad
 !#Chinese end
