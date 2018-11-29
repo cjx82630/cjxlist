@@ -1,4 +1,5 @@
 !#Chinese begin
+iqiyi.com#$#abort-on-property-read _jqjsp_show_mars
 rmdown.com#$#abort-on-property-read rmJson
 ruanyifeng.com#$#abort-on-property-read checker
 xianzhenyuan.cn#$#abort-on-property-read ad
