@@ -1,5 +1,4 @@
-!#Chinese begin
+2nyan.org#$#abort-on-property-read _0xcc85f5
 rmdown.com#$#abort-on-property-read rmJson
 ruanyifeng.com#$#abort-on-property-read checker
 xianzhenyuan.cn#$#abort-on-property-read ad
-!#Chinese end

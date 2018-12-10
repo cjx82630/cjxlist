@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201812062043
+! Version: 201812100954
 ! Title: CJX's Annoyance List
-! Last modified: 2018/12/06 20:43 +0800
+! Last modified: 2018/12/10 09:54 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -891,6 +891,7 @@ ltn.com.tw##a[href^="https://draw.ltn.com.tw/"]
 baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baijiahao.baidu.com,feed.baidu.com##body > div[id$="-container"]:last-child
 cnbeta.com#?#div[style^="display:block !important;"]
+cnbeta.com##div[style^="display:block !important;"]
 dongao.com##div[class^="fu_"]
 ifeng.com##div[class^="h"] > div[class$="-main"]
 thenewslens.com##div[class^="help-tnl-container-"]
