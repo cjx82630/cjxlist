@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201812100954
+! Version: 201812111042
 ! Title: CJX's Annoyance List
-! Last modified: 2018/12/10 09:54 +0800
+! Last modified: 2018/12/11 10:42 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -315,6 +315,7 @@
 ||chinaacc.com/lamu/*dl-
 ||chinaacc.com/lamu/*piao
 !------------------------Specific element hiding rules------------------------!
+download.csdn.net##.quake-slider
 china.cn##.ltp_box
 qidian.com##div[style="background: rgba(0,0,0,0.4);position: fixed;left:0;right:0;top:0;bottom:0;z-index:9999;"]
 qidian.com##div[style^="width: 426px; height: 644px; background:"]
@@ -887,7 +888,7 @@ crsky.com##a[href^="http://count."][href$=".exe"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"]
 ~laifeng.youku.com,youku.com##a[href^="http://cps.laifeng.com/"] + .bg + img
 163.com,~love.163.com##a[href^="http://love.163.com/"]
-ltn.com.tw##a[href^="https://draw.ltn.com.tw/"]
+ltn.com.tw##A[href*="draw.ltn.com.tw"]
 baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 baijiahao.baidu.com,feed.baidu.com##body > div[id$="-container"]:last-child
 cnbeta.com#?#div[style^="display:block !important;"]
