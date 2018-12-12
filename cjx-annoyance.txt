@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201812111042
+! Version: 201812121606
 ! Title: CJX's Annoyance List
-! Last modified: 2018/12/11 10:42 +0800
+! Last modified: 2018/12/12 16:06 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -306,7 +306,7 @@
 ||qq.com/inc/utf8/nav/ad.htm
 ||gtimg.com/finance/js/st/p/cms/ce56e2f3303d17b6.js
 ||gtimg.com/finance/js/st/p/quotpage/maxcard_
-||med66.com/lamu/p-ad-
+||med66.com/lamu/
 ||51cto.com/edu/blog/*box.js
 ||taisha.org/statics/js/pc2.0/common/form.bottom.
 ||sohu.com/os/text/focus?
@@ -315,6 +315,9 @@
 ||chinaacc.com/lamu/*dl-
 ||chinaacc.com/lamu/*piao
 !------------------------Specific element hiding rules------------------------!
+liepin.com##DIV[id^="nodetpl_g_"]
+med66.com##.coach_pic
+kekenet.com###bottomlink
 download.csdn.net##.quake-slider
 china.cn##.ltp_box
 qidian.com##div[style="background: rgba(0,0,0,0.4);position: fixed;left:0;right:0;top:0;bottom:0;z-index:9999;"]
