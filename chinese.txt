@@ -2,3 +2,6 @@
 rmdown.com#$#abort-on-property-read rmJson
 ruanyifeng.com#$#abort-on-property-read checker
 xianzhenyuan.cn#$#abort-on-property-read ad
+!隐藏百度搜索百家号
+baidu.com#$#hide-if-contains baijiahao .c-container '.f13 > a'
+baidu.com#$#hide-if-contains 的最新相关信息 .c-container '.t > a:not([data-click])'
