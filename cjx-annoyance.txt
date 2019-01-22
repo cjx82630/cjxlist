@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201901182248
+! Version: 201901221157
 ! Title: CJX's Annoyance List
-! Last modified: 2019/01/18 22:48 +0800
+! Last modified: 2019/01/22 11:57 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -952,7 +952,7 @@ m.babytree.com##script + a[class]
 !---------------------------------URL Whitelist-------------------------------!
 @@||affyun.com^$generichide
 @@||qbox.me/static/js/ads.js$domain=linux.cn
-@@/adview_pic_$domain=fastadmin.net|xclient.info
+@@/adview_pic_$domain=doutula.com|fastadmin.net|xclient.info
 @@||doub.io^$generichide
 @@||fm.ipinyou.$domain=ipinyou.com.cn
 @@||fm.p0y.cn^$domain=ipinyou.com.cn
