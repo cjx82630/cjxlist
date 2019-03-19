@@ -1,5 +1,5 @@
 2nyan.org#$#abort-on-property-read _0xcc85f5
-rmdown.com#$#abort-on-property-read rmJson
+rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
 ruanyifeng.com#$#abort-on-property-read checker
 xianzhenyuan.cn#$#abort-on-property-read ad
 !隐藏百度搜索百家号
