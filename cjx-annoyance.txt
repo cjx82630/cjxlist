@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201903162334
+! Version: 201903190806
 ! Title: CJX's Annoyance List
-! Last modified: 2019/03/16 23:34 +0800
+! Last modified: 2019/03/19 08:06 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -328,7 +328,11 @@
 ||aoji.cn/static/js/pushadv.js
 ||aoji.cn/static/js/yiliao/ad_common.js
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
+||people.com.cn/rmrb/tplimg/new.js
+||appledaily.hk/banners/subscription/
+||bilibili.com/x/web-interface/archive/special/recommend?aid=
 !------------------------Specific element hiding rules------------------------!
+appledaily.com###ebBannerTopDiv + A[href^="http://bit.ly/"]
 360kan.com###js-eb-bottomad
 tianyancha.com###banner_web
 vdianying.cc##div[style^="display:block !important;"]
