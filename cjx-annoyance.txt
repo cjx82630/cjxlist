@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201904191806
+! Version: 201904251713
 ! Title: CJX's Annoyance List
-! Last modified: 2019/04/19 18:06 +0800
+! Last modified: 2019/04/25 17:13 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -80,7 +80,6 @@
 ||21sq.org/js/downloadbanner.js
 ||360doc.com/js/index7/mask_index_yc.js
 ||39.net/PictureLib/A/f76/20160825/org_749281.png
-||4399.com/jss/skiner
 ||51credit.com/bbs/js/bbs-end-layer.js
 ||51cto.com/iframe/get-station-ads
 ||51liucheng.com/js/dialogLogin.js
@@ -336,6 +335,8 @@
 ||lancdn.com/tmp3/GG_Notice.png
 ||chinaacc.com/upload/*zhongjizhicheng
 !------------------------Specific element hiding rules------------------------!
+ttmeiju.me##DIV[style="float:left;margin-bottom:27px;margin-top:27px;"]
+4399.com###ads1_1
 xitonghe.com##.sidebar-wx
 chinaacc.com##.leftBox
 58pic.com##.activitySettings-Fixed
@@ -997,6 +998,7 @@ iqiyi.com##iframe[style^="z-index:"]:last-child
 m.babytree.com##script + a[class]
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
+@@||th7.cn/sanda2015/css/ads.js
 @@||lancdn.com/landian/public/js/ads.js
 @@||qbox.me/static/js/ads.js$domain=linux.cn
 @@/adview_pic_$domain=doutula.com|fastadmin.net|xclient.info
