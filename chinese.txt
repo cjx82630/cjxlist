@@ -1,3 +1,4 @@
+rjno1.com#$#abort-current-inline-script scriptLoaded
 /videos/other/*$domain=iqiyi.com
 iqiyi.com#$#abort-on-property-read mars.video.triggerAdblockCBK
 @@||iqiyi.com/show2?e=
