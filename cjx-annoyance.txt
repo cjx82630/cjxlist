@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906100739
+! Version: 201906200756
 ! Title: CJX's Annoyance List
-! Last modified: 2019/06/10 07:39 +0800
+! Last modified: 2019/06/20 07:56 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -298,7 +298,7 @@
 ||zuoyebang.cc/static/question/question/resource/QRCode_
 ||zuoyebang.cc/zyb_4953cbb8a9a2332469592196c056a906.jpg
 ||yuedu.baidu.com/hybrid/wkrec/search?
-||zhan.com/static/scripts/middle_ad_modal.js
+||zhan.com^*/middle_ad_modal.js
 ||dealmoon.com/build/js/www/home/activity-pop/index.
 ||zglww.net/jsnew/pfkf.js
 ||ld0766.com/index.php?m=call&id=10
@@ -339,6 +339,8 @@
 ||bestqikan.com/static/js/swt.js
 ||book118.com/Public/book118/js/side-customer/customer.js
 !------------------------Specific element hiding rules------------------------!
+douyu.com##.video-info-download
+docer.com##.popup
 voachinese.com##.slide-in-wg
 gitee.com##.gitee-stars-main-widget
 ooopic.com##.fix-newUser
@@ -1117,7 +1119,6 @@ m.babytree.com##script + a[class]
 ||counter.tianjimedia.com^
 ||countpage.sznews.com^
 ||cpms.now.com^
-||d-test.39.net^
 ||damai.cn/phpstat/
 ||data.xici.net^
 ||dcs.conac.cn/js/
