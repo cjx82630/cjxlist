@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201906200756
+! Version: 201906211033
 ! Title: CJX's Annoyance List
-! Last modified: 2019/06/20 07:56 +0800
+! Last modified: 2019/06/21 10:33 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 !
@@ -339,6 +339,7 @@
 ||bestqikan.com/static/js/swt.js
 ||book118.com/Public/book118/js/side-customer/customer.js
 !------------------------Specific element hiding rules------------------------!
+weather.com.cn##.tuiguang
 douyu.com##.video-info-download
 docer.com##.popup
 voachinese.com##.slide-in-wg
@@ -1040,6 +1041,7 @@ m.babytree.com##script + a[class]
 /v.gif?logtype=
 /yesky/js/counter/*
 /zcool-analytics.js
+||126.net^*analysis
 ||zol.com.cn/pvn/
 ||map.baidu.com^$domain=laosiji.com
 ||laosiji.com/static/js/lib/od_statistics.js
