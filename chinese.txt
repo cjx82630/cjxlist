@@ -7,3 +7,4 @@ rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
 ruanyifeng.com#$#abort-on-property-read checker
 xianzhenyuan.cn#$#abort-on-property-read ad
 rjno1.com#$#abort-current-inline-script window.setTimeout
+mokeedev.com#$#abort-on-property-read adBlockDetected
