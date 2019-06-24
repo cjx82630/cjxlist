@@ -4,7 +4,9 @@ iqiyi.com#$#abort-on-property-read mars.video.triggerAdblockCBK
 @@||iqiyi.com/show2?e=
 2nyan.org#$#abort-on-property-read _0xcc85f5
 rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
-ruanyifeng.com#$#abort-on-property-read checker
+@@||ruanyifeng.com^$csp
+ruanyifeng.com#$#abort-on-property-read setTimeout
 xianzhenyuan.cn#$#abort-on-property-read ad
 rjno1.com#$#abort-current-inline-script window.setTimeout
 mokeedev.com#$#abort-on-property-read adBlockDetected
+178.com,nga.cn,ngabbs.com#$#abort-on-property-write __LOAD_BBS_ADS_12
