@@ -8,3 +8,4 @@ rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
 ruanyifeng.com#$#abort-on-property-read setTimeout
 xianzhenyuan.cn#$#abort-on-property-read ad
 rjno1.com#$#abort-current-inline-script window.setTimeout
+4399.com#$#abort-on-property-read defaultbackgroundimg
