@@ -6,3 +6,4 @@ ruanyifeng.com#$#abort-on-property-read setTimeout
 xianzhenyuan.cn#$#abort-on-property-read ad
 rjno1.com#$#abort-current-inline-script window.setTimeout
 4399.com#$#abort-on-property-read defaultbackgroundimg
+hktvyb.com#$#abort-current-inline-script setInterval
