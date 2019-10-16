@@ -8,3 +8,5 @@ rjno1.com#$#abort-current-inline-script window.setTimeout
 4399.com#$#abort-on-property-read defaultbackgroundimg
 hktvyb.com#$#abort-current-inline-script setInterval
 ign.com#$#abort-on-property-read ZiffIntl
+htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
+nfmovies.com#$#abort-current-inline-script alert
