@@ -1,3 +1,4 @@
+bingfeng.tw#$#abort-current-inline-script setTimeout
 rjno1.com#$#abort-current-inline-script scriptLoaded
 2nyan.org#$#abort-on-property-read _0xcc85f5
 rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
