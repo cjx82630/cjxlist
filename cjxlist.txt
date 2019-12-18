@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201911281625
+! Version: 201912181748
 ! Title: CJX's EasyList Lite
-! Last modified: 2019/11/28 16:25 +0800
+! Last modified: 2019/12/18 17:48 +0800
 ! Expires: 10 days (update frequency)
 ! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -10,6 +10,8 @@
 ! you may want to replace "EasyList China+EasyList" with "EasyList China+CJX's EasyList Lite"
 ! Email (cjxlist@gmail.com)
 ! Fork of EasyList https://easylist-downloads.adblockplus.org/easylist.txt
+?ad_type=
+/static/ad-
 /new/ads/*
 /getad.$domain=~getad.pl
 ##.area_ad
