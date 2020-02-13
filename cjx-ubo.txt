@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202002131917
-! Title: CJX's ubo list
+! Title: CJX's uBlock list
 ! Last modified: 2020/02/13 19:17 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
