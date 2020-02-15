@@ -10,7 +10,7 @@
 * CJX's uBlock list  
 `https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt`  
 	
-	只适用于ublock origin.CJX's Annoyance List已经包含这个列表.  
+	只适用于ublock origin.已经集成在CJX's Annoyance List,EasyList Lite  
     这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充.  
     *Supplement for "EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List".Filters optimized for uBlock*  
 
