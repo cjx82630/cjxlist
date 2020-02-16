@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002151055
+! Version: 202002161959
 ! Title: CJX's Annoyance List
-! Last modified: 2020/02/15 10:55 +0800
+! Last modified: 2020/02/16 19:59 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -28,6 +28,8 @@
 /z.zolapp.
 =Ad_ZPlusGoods&
 !------------------------General element hiding rules-------------------------!
+###doyoo_mon_mask
+###doyoo_monitor
 ##.siteAnn1
 ###SOHU_MAIN > .module-cmt-float-bar
 ###appBottomIn
