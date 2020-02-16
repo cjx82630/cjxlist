@@ -30,9 +30,10 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 &emsp;&emsp;这是Easylist的精简版,规则只在简体中文网站触发.如果你只访问简体中文网站,你可以把默认订阅的"EasyList China+EasyList"替换为"EasyList China+CJX's EasyList Lite"    
 &emsp;&emsp;*This is a lite version of Easylist.Filters triggered only on Simplified Chinese websites.If you only visite Simplified Chinese Websites.You can replace "EasyList China+EasyList" with "EasyList China+CJX's EasyList Lite"*    
 
-## Easylist China中文规则列表说明 [#ELC]
-
-**重要: 分别订阅EasyList与EasyList China**
+[Adblock Plus FAQ:](#ELC)   
+## Easylist China (ELC) 中文规则列表说明     
+ 
+**重要: 分别订阅EasyList与EasyList China**  
 
 &emsp;&emsp;因拦截视频广告在国内变得明显不合法，Adblock plus国内用户默认订阅的整合列表EasyList China+EasyList会被替换成EasyList China+EasyList (compliance)不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有<font size="2" color="red"> EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。  
  `https://easylist-downloads.adblockplus.org/easylist.txt`  
