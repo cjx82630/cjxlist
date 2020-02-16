@@ -1,11 +1,11 @@
 bingfeng.tw#$#abort-current-inline-script setTimeout
-rjno1.com#$#abort-current-inline-script scriptLoaded
 2nyan.org#$#abort-on-property-read _0xcc85f5
 rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
 @@||ruanyifeng.com^$csp
 ruanyifeng.com#$#abort-on-property-read setTimeout
 xianzhenyuan.cn#$#abort-on-property-read ad
-rjno1.com#$#abort-current-inline-script window.setTimeout
+rjno1.com#$#abort-on-property-read onload
+@@||rjno1.com^$csp
 4399.com#$#abort-on-property-read defaultbackgroundimg
 hktvyb.com#$#abort-current-inline-script setInterval
 htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
