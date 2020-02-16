@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 &emsp;&emsp;这是Easylist的精简版,规则只在简体中文网站触发.如果你只访问简体中文网站,你可以把默认订阅的"EasyList China+EasyList"替换为"EasyList China+CJX's EasyList Lite"    
 &emsp;&emsp;*This is a lite version of Easylist.Filters triggered only on Simplified Chinese websites.If you only visite Simplified Chinese Websites.You can replace "EasyList China+EasyList" with "EasyList China+CJX's EasyList Lite"*    
 
-## Easylist China中文规则列表说明 [#ELC]
+## Easylist China(ELC)中文列表说明
 
 **重要: 分别订阅EasyList与EasyList China**
 
