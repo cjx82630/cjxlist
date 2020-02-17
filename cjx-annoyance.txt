@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002162254
+! Version: 202002171052
 ! Title: CJX's Annoyance List
-! Last modified: 2020/02/16 22:54 +0800
+! Last modified: 2020/02/17 10:52 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -313,7 +313,6 @@
 ||med66.com/lamu/
 ||51cto.com/edu/blog/*box.js
 ||taisha.org/statics/js/pc2.0/common/form.bottom.
-||sohu.com/os/text/focus?
 ||autoimg.cn/club/v1Content/images/heycar
 ||china.cn/js/common/daniel_pop/
 ||chinaacc.com/lamu/*dl-
@@ -371,7 +370,7 @@
 ||3158.cn/static/js/fixbtm/
 ||house365.com/im_show/imshow.js
 !------------------------Specific element hiding rules------------------------!
-3dmgame.com##.page + A[href^="http://web.3dmgame.com/h5/game?"]
+3dmgame.com##A[href^="http://web.3dmgame.com/h5/game?"]
 hanjutv.com###widget-weixin
 ifeng.com##DIV[class^="enquiry_bottom"]
 ifeng.com##div[class^="bottom_box"]
