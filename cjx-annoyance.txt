@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002181011
+! Version: 202002181717
 ! Title: CJX's Annoyance List
-! Last modified: 2020/02/18 10:11 +0800
+! Last modified: 2020/02/18 17:17 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -11,6 +11,7 @@
 ! Email (cjxlist@gmail.com)
 !#include cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
+/wiseatom/banner/pack_
 -bobo_recommend_
 /3dmgamegzh.png
 =mumumoniqi-piaochuang-
@@ -354,7 +355,6 @@
 ||kmf.com/da/do
 ||daiyanbao.com/flash/md
 ||banzou.name/qq/qq2.js
-||baidu.com/se/static/wiseatom/banner/pack_
 ||5888.tv/Js/topBanner.js
 ||dfcfw.com/zndh/
 ||jsdelivr.net/npm/live2d-
