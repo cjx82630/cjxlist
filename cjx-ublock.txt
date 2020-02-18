@@ -9,6 +9,8 @@
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"
 ! Filters optimized for uBlock
 ! Email (cjxlist@gmail.com)
+@@||iqiyi.com/show2?e=
+*/videos/other/$redirect=noopmp4-1s,domain=m.iqiyi.com
 rjno1.com##+js(aopr, onload)
 bingfeng.tw##+js(nostif, newtag)
 @@||bingfeng.tw^$generichide,badfilter
