@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002151201
+! Version: 202002221006
 ! Title: CJX's EasyList Lite
-! Last modified: 2020/02/15 12:01 +0800
+! Last modified: 2020/02/22 10:06 +0800
 ! Expires: 10 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -11,6 +11,7 @@
 ! Fork of EasyList https://easylist-downloads.adblockplus.org/easylist.txt
 ! Email (cjxlist@gmail.com)
 !#include cjx-ublock.txt
+##.right-ad
 .com/ad1/
 /ad_common.
 /pop_ads.
