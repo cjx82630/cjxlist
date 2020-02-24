@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002231142
+! Version: 202002241200
 ! Title: CJX's uBlock list
-! Last modified: 2020/02/23 11:42 +0800
+! Last modified: 2020/02/24 12:00 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -18,4 +18,27 @@ bingfeng.tw##+js(nostif,newtag)
 @@||bingfeng.tw^$generichide,badfilter
 nfmovies.com##+js(nostif,if)
 nfmovies.com###adleft:style(margin-left:-900px !important;)
+! Fork of https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+
+! https://github.com/uBlockOrigin/uAssets/issues/6205
+||cibntv.net/youku/*$media,redirect=noopmp3-0.1s,domain=youku.com
+||valipl.cp31.ott.cibntv.net^$media,redirect=noopmp3-0.1s,domain=youku.com
+youku.com##+js(nano-stb, , ,0)
+@@||valipl.cp31.ott.cibntv.net^$xhr,domain=youku.com
+*$image,redirect-rule=1x1.gif,domain=youku.com
+
+! https://github.com/uBlockOrigin/uAssets/issues/4291
+! https://github.com/NanoMeow/QuickReports/issues/1615#issuecomment-517884190
+! https://github.com/uBlockOrigin/uAssets/issues/6082#issuecomment-526425109
+! https://github.com/uBlockOrigin/uAssets/issues/6258
+iqiyi.com##+js(aopr, DOMParser)
+iqiyi.com##+js(nano-sib)
+||data.video.iqiyi.com/videos/other/*$xhr,1p
+||static.iqiyi.com/js/common/mars_v.js$script,1p
+@@||t7z.cupid.iqiyi.com/show$script,1p
+iqiyi.com##div[data-adzone][adid]
+
+! https://github.com/uBlockOrigin/uAssets/issues/6942
+qq.com##+js(json-prune, ad, vinfo)
+
 !----------------------------------The End------------------------------------!
