@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002241353
+! Version: 202002250949
 ! Title: CJX's uBlock list
-! Last modified: 2020/02/24 13:53 +0800
+! Last modified: 2020/02/25 09:49 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -9,15 +9,26 @@
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"
 ! Filters optimized for uBlock
 ! Email (cjxlist@gmail.com)
-dlkoo.com##+js(acis,setTimeout,testad)
-@@||tanx.com/ex?i=$script,domain=dlkoo.com,badfilter
+!--------------------------General blocking filters---------------------------!
+!------------------------General element hiding rules-------------------------!
+*##a[href*="nnqp.vip"]
+*###ldgindexbuttom
+!-----------------------------Union&third-party-------------------------------!
+!---------------------------Popups--------------------------------------------!
+!--------------------------Specific blocking filters--------------------------!
 4399.com##+js(aopr,defaultbackgroundimg)
+dlkoo.com##+js(acis,setTimeout,testad)
+nfmovies.com##+js(nostif,if)
+nfmovies.com###adleft:style(margin-left:-900px !important;)
 */videos/other/$redirect=noopmp4-1s,domain=m.iqiyi.com
 rjno1.com##+js(aopr,onload)
 bingfeng.tw##+js(nostif,newtag)
+!------------------------Specific element hiding rules------------------------!
+!---------------------------------CSS Whitelist-------------------------------!
+!---------------------------------URL Whitelist-------------------------------!
+@@||tanx.com/ex?i=$script,domain=dlkoo.com,badfilter
 @@||bingfeng.tw^$generichide,badfilter
-nfmovies.com##+js(nostif,if)
-nfmovies.com###adleft:style(margin-left:-900px !important;)
+!--------------------------------Tracking Systems-----------------------------!
 ! Fork of https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
 ||cibntv.net/youku/*$media,redirect=noopmp3-0.1s,domain=youku.com
 ||valipl.cp31.ott.cibntv.net^$media,redirect=noopmp3-0.1s,domain=youku.com
