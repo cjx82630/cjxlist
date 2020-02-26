@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 **浏览器可选择**:  
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/)   
 &emsp;&emsp;火狐测试版 [https://www.mozilla.org/zh-CN/firefox/beta/all/](https://www.mozilla.org/zh-CN/firefox/beta/all/)   
-&emsp;&emsp;基于Chromium的Edge[https://www.microsoftedgeinsider.com/](https://www.microsoftedgeinsider.com/)  Chrome等。  
+&emsp;&emsp;基于Chromium的Edge [https://www.microsoftedgeinsider.com/](https://www.microsoftedgeinsider.com/)  Chrome等。  
 
 **过滤工具可选择**:  
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。  
