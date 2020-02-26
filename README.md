@@ -47,7 +47,8 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 
 **浏览器可选择**:  
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/)   
-&emsp;&emsp;火狐测试版 [https://www.mozilla.org/zh-CN/firefox/beta/all/](https://www.mozilla.org/zh-CN/firefox/beta/all/) Chrome等。  
+&emsp;&emsp;火狐测试版 [https://www.mozilla.org/zh-CN/firefox/beta/all/](https://www.mozilla.org/zh-CN/firefox/beta/all/)   
+&emsp;&emsp;基于Chromium的Edge[https://www.microsoftedgeinsider.com/](https://www.microsoftedgeinsider.com/)  Chrome等。  
 
 **过滤工具可选择**:  
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。  
@@ -105,7 +106,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 
 #### 反馈途径  
 &emsp;&emsp;反馈中文网站的广告或误拦问题,请点击浏览器右上角的红色ABP图标，选择“报告问题”，会得到及时的回应。注意,某些多语言网站不以中文为主的,不属于中文网站,如twitch,youtube等        
-&emsp;&emsp;或反馈给CJX个人`994722209@qq.com`或QQ群`233902062`或在这里提交issue [https://github.com/cjx82630/cjxlist/issues](https://github.com/cjx82630/cjxlist/issues)      
+&emsp;&emsp;或反馈给CJX个人`994722209@qq.com`或QQ群`233902062`或在这里提交issue      
 &emsp;&emsp;反馈英文网站或EasyList或EasyPrivacy或Fanboy's Social Blocking List的问题：请将网址发到`easylist.subscription@gmail.com`并英文描述  
 &emsp;&emsp;反馈非中英文网站的问题：请查看对应的语言列表[https://adblockplus.org/zh_CN/subscriptions](https://adblockplus.org/zh_CN/subscriptions)  
 &emsp;&emsp;如被"Malware Domain"规则列表误拦(此列表不属于ABP维护),反馈到`malwaredomains@gmail.com`    
