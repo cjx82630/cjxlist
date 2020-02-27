@@ -46,7 +46,9 @@
 **iPhone和iPad**方案:    
 &emsp;&emsp;任选一个[https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329](https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329)
 
-**如果你是Adblock Plus用户，可以往下阅读，能获得更多信息**   
+**如果有问题，请联系 `994722209@qq.com`**    
+----
+*如果你是Adblock Plus用户，可以往下阅读，能获得更多信息*    
 
 ##  Easylist China (ELC) 中文列表说明
 
