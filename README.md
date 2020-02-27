@@ -61,7 +61,7 @@
 
 &emsp;&emsp;因Adblock Plus的局限，无法处理部分问题，如搜狐，腾讯，爱奇艺，优酷黑屏。
 
-### 二、ABP广告过滤规则方案介绍
+### 二、广告过滤规则方案介绍
 
 #### 默认订阅的广告过滤规则方案的介绍  
 &emsp;&emsp;在安装Adblock plus后会默认订阅EasyList China+EasyList。约1.5M，规则全面。EasyList是主规则，主要面向英文网站并包含EasyList China必须的通用规则。EasyList China，简称ELC，面向中文网站，是EasyList的中文补充规则。EasyList China在2014.3.21由Adblock Plus官方发布，主要包含原ChinaList、原cjxlist。原ChinaList在2008.4.24第一次发布，随后成为EasyList的中文补充列表。在2014.3.26停止维护。原cjxlist由CJX在2014.1.3发布，作为ChinaList的补充列表。在2014.3.21停止维护。  
@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 
 #### 反馈途径  
 &emsp;&emsp;反馈中文网站的广告或误拦问题,请点击浏览器右上角的红色ABP图标，选择“报告问题”，会得到及时的回应。注意,某些多语言网站不以中文为主的,不属于中文网站,如twitch,youtube等        
-&emsp;&emsp;或反馈给CJX个人`994722209@qq.com`或QQ群`233902062`或在这里提交issue.      
+&emsp;&emsp;反馈给CJX个人`994722209@qq.com`或QQ群`233902062`或在这里提交issue或论坛 [http://abpchina.org/forum/forum.php](http://abpchina.org/forum/forum.php)       
 &emsp;&emsp;反馈英文网站或EasyList或EasyPrivacy或Fanboy's Social Blocking List的问题：请将网址发到`easylist.subscription@gmail.com`并英文描述  
 &emsp;&emsp;反馈非中英文网站的问题：请查看对应的语言列表[https://adblockplus.org/zh_CN/subscriptions](https://adblockplus.org/zh_CN/subscriptions)  
 &emsp;&emsp;如被"Malware Domain"规则列表误拦(此列表不属于ABP维护),反馈到`malwaredomains@gmail.com`    
