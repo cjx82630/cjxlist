@@ -34,16 +34,13 @@
 **规则方案建议**:  
 &emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则.
 
-**安卓平台方案一**:  
+**安卓平台**:  
 &emsp;&emsp;火狐+ublock origin或ABP。安装  
-&emsp;&emsp;火狐正式版[https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/) 或  
-&emsp;&emsp;beta版[https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/)   
+&emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/) 或  
+&emsp;&emsp;beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/)   
 &emsp;&emsp;后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus  
 
-**安卓平台方案二**:  
-&emsp;&emsp;yandex浏览器+ublock origin或ABP。安装浏览器后，再离线下载需要的扩展>把crx后缀名改成zip，解压，把“_metadata”改名为“metadata” >解压后放到手机里>打开Yandex地址栏输入 chrome://extensions/ 勾选开发者模式，加载已解压的扩展程序>用文件管理器打开刚才的文件夹，点击任意文件，安装成功。
-
-**iPhone和iPad**方案:    
+**iPhone和iPad**:    
 &emsp;&emsp;任选一个[https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329](https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329)
 
 **如果有问题，请联系 `994722209@qq.com`**    
