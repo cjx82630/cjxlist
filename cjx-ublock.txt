@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
-! Version: 202002291614
+! Version: 202003010937
 ! Title: CJX's uBlock list
-! Last modified: 2020/02/29 16:14 +0800
+! Last modified: 2020/03/01 09:37 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
 ! 
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"
+! Removed Ads,Anti-adblock,Annoyances,Self-promotion & Privacy Protection on Chinese Websites
 ! Filters optimized for uBlock
 ! Email (cjxlist@gmail.com)
 !--------------------------General blocking filters---------------------------!

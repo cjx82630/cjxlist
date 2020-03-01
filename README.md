@@ -1,7 +1,6 @@
-
-## cjxlist说明  
-
-### 一、CJX's Annoyance List (去自推列表)  
+**cjxlist说明**  
+----
+**一、CJX's Annoyance List (去自推列表)**  
 `https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt`  
 &emsp;[ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX") 
 
@@ -9,14 +8,17 @@
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充. 2015.2.4发布,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.  
 &emsp;&emsp;*Supplement for "EasyList China+EasyList" & "EasyPrivacy".Removed Annoyances,Self-promotion & Privacy Protection on Chinese Websites*  
 
-### 二、CJX's uBlock list (uBlock规则)  
+**二、CJX's uBlock list (uBlock规则)**  
 `https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt`  
 	
 &emsp;&emsp;只适用于ublock origin.已经集成在CJX's Annoyance List,EasyList Lite  
-&emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充.  
-&emsp;&emsp;*Supplement for "EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List".Filters optimized for uBlock*  
+&emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充.2020.2.13发布,过滤广告,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.    
+&emsp;&emsp;*Supplement for "EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List".Removed Ads,Annoyances,Self-promotion & Privacy Protection on Chinese Websites.Filters optimized for uBlock.*   
 
-### 三、使用上面的cjxlist规则，在电脑过滤广告的快速指引  
+**三、使用前述cjxlist规则，在电脑过滤广告的快速指引**  
+
+&emsp;&emsp;**规则方案建议:**   
+&emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则  
 
 &emsp;&emsp;**浏览器可选择:**  
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/)   
@@ -24,35 +26,31 @@
 &emsp;&emsp;基于Chromium的Edge [https://www.microsoftedgeinsider.com/](https://www.microsoftedgeinsider.com/)  Chrome等。   
 
 &emsp;&emsp;**过滤工具可选择:**  
-&emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。     
+&emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock.    
 
-&emsp;&emsp;**规则方案建议:**   
-&emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则
-
-### 四、在手机过滤广告的快速指引   
+**四、在手机过滤广告的快速指引 **  
 
 &emsp;&emsp;**规则方案建议:**  
 &emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则.
 
 &emsp;&emsp;**安卓平台:**  
-&emsp;&emsp;火狐+ublock origin或ABP。安装  
+&emsp;&emsp;推荐Firefox Preview Nightly,快如chrome [https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly)
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/) 或  
-&emsp;&emsp;beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/)   
+&emsp;&emsp;火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/)   
 &emsp;&emsp;后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus  
 
 &emsp;&emsp;**iPhone和iPad:**    
 &emsp;&emsp;任选一个[https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329](https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329)
 
 &emsp;&emsp;**如果有问题，请联系 `994722209@qq.com`**    
-----
+
 *如果你是Adblock Plus用户，可以往下阅读，能获得更多信息*    
 
-##  Easylist China (ELC) 中文列表说明  
+**Easylist China (ELC) 中文列表说明 **  
+----
+**一、ABP过滤视频广告的问题**  
 
-### 一、ABP过滤视频广告的问题  
-
-&emsp;&emsp;**为过滤视频广告须分别订阅EasyList与EasyList China:**  
-&emsp;&emsp;因拦截视频广告在国内变得明显不合法，Adblock plus国内用户默认订阅的整合列表EasyList China+EasyList会被替换成EasyList China+EasyList (compliance)不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。  
+&emsp;&emsp;因拦截视频广告在国内变得明显不合法，Adblock plus大陆IP默认列表EasyList China+EasyList会被替换成EasyList China+EasyList (compliance)不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。  
  `https://easylist-downloads.adblockplus.org/easylist.txt`  
  &emsp;&emsp;[ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")    
  `https://easylist-downloads.adblockplus.org/easylistchina.txt`  
@@ -60,7 +58,7 @@
 
 &emsp;&emsp;因Adblock Plus的局限，无法处理部分问题，如搜狐，腾讯，爱奇艺，优酷黑屏。
 
-### 二、广告过滤规则方案介绍  
+**二、广告过滤规则方案介绍**  
 
 &emsp;&emsp;**默认订阅的广告过滤规则方案的介绍:**   
 &emsp;&emsp;在安装Adblock plus后会默认订阅EasyList China+EasyList。约1.5M，规则全面。EasyList是主规则，主要面向英文网站并包含EasyList China必须的通用规则。EasyList China，简称ELC，面向中文网站，是EasyList的中文补充规则。EasyList China在2014.3.21由Adblock Plus官方发布，主要包含原ChinaList、原cjxlist。原ChinaList在2008.4.24第一次发布，随后成为EasyList的中文补充列表。在2014.3.26停止维护。原cjxlist由CJX在2014.1.3发布，作为ChinaList的补充列表。在2014.3.21停止维护。  
@@ -76,7 +74,7 @@
 &emsp;&emsp;这是Easylist的精简版,规则只在简体中文网站触发.如果你只访问简体中文网站,你可以把默认订阅的"EasyList China+EasyList"替换为"EasyList China+CJX's EasyList Lite"    
 &emsp;&emsp;*This is a lite version of Easylist.Filters triggered only on Simplified Chinese websites.If you only visite Simplified Chinese Websites.You can replace "EasyList China+EasyList" with "EasyList China+CJX's EasyList Lite"*    
 
-### 三、更多强效规则  
+**三、更多强效规则**  
 
 &emsp;&emsp;**chinese.txt (ABP小脚本规则):**   
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt  
@@ -95,7 +93,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
  &emsp;&emsp;[ABP ADB 点此订阅Fanboy's Social Blocking List](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/fanboy-social.txt&title=Fanboy%27s%20Social%20Blocking%20List "Fanboy%27s%20Social%20Blocking%20List")   
  &emsp;&emsp;Adblock Plus官方规则，禁止社交媒体图标跟踪列表。    
 
-### 四、反馈广告或问题   
+**四、反馈广告或问题 **  
 
 &emsp;&emsp;**反馈途径:**    
 &emsp;&emsp;反馈中文网站的广告或误拦问题,请点击浏览器右上角的红色ABP图标，选择“报告问题”，会得到及时的回应。注意,某些多语言网站不以中文为主的,不属于中文网站,如twitch,youtube等        
@@ -113,21 +111,21 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 &emsp;&emsp;有奇怪的弹窗或英文广告等：可能你电脑感染了恶意扩展(插件)或病毒木马.下载[AdwCleaner](http://www.bleepingcomputer.com/download/adwcleaner/)或者[malwarebytes](http://www.malwarebytes.org/antimalware/) 查杀.   
 &emsp;&emsp;出现弹窗：请返回出现弹窗的页面点击ABP图标反馈，而不是在弹出的窗口反馈。  
 
-### 五、一些其他问题   
+**五、一些其他问题 **  
 
-#### 1、Easylist China有没有广告的白名单？   
+**1、Easylist China有没有广告的白名单？ **  
 &emsp;&emsp;Adblock Plus中文规则列表Easylist China致力于反广告，每天频繁更新以提高用户体验，不包含可接受广告的白名单，其存在于另一个规则列表，可手动关闭，即进入ABP设置，取消勾选“可接受广告”
 
-#### 2、我的网站需要展示广告，怎么办？  
+**2、我的网站需要展示广告，怎么办？**  
 &emsp;&emsp;可以申请"白名单",请查看：[https://adblockplus.org/zh_CN/acceptable-ads#get-whitelisted](https://adblockplus.org/zh_CN/acceptable-ads#get-whitelisted)  可以自我推广；也可以用不影响阅读的方式提醒用户取消拦截。
 
-#### 3、如何撰写规则？  
+**3、如何撰写规则？**  
 &emsp;&emsp;[https://adblockplus.org/zh_CN/filters](https://adblockplus.org/zh_CN/filters)
 
-#### 4、旧版ABP2无法过滤百度推广？     
+**4、旧版ABP2无法过滤百度推广？   **  
 > baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .t > A[href^="http://www.baidu.com/baidu.php?"]  
 > baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child  
 > baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)  
 
-#### 5、为什么存在Fixed EasyPrivacy,Fixed Fanboy's Social白名单？  
+**5、为什么存在Fixed EasyPrivacy,Fixed Fanboy's Social白名单？**  
 &emsp;&emsp;有时EasyPrivacy会引发问题, 例如dwz.cn不能登录, taobao.com打不开等. 因为反馈给国外的维护者会耗费时间, 快则几小时, 慢则几天. 所以如果加白名单没影响过滤广告, 会在中文列表添加修正EasyPrivacy的规则.  Fixed Fanboy's Social Blocking List同理
