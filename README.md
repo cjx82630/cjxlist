@@ -28,7 +28,7 @@
 &emsp;&emsp;**过滤工具可选择:**  
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock.    
 
-**四、在手机过滤广告的快速指引 **  
+**四、在手机过滤广告的快速指引**  
 
 &emsp;&emsp;**规则方案建议:**  
 &emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则.
@@ -46,7 +46,7 @@
 
 *如果你是Adblock Plus用户，可以往下阅读，能获得更多信息*    
 
-**Easylist China (ELC) 中文列表说明 **  
+**Easylist China (ELC) 中文列表说明**  
 ----
 **一、ABP过滤视频广告的问题**  
 
@@ -93,7 +93,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
  &emsp;&emsp;[ABP ADB 点此订阅Fanboy's Social Blocking List](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/fanboy-social.txt&title=Fanboy%27s%20Social%20Blocking%20List "Fanboy%27s%20Social%20Blocking%20List")   
  &emsp;&emsp;Adblock Plus官方规则，禁止社交媒体图标跟踪列表。    
 
-**四、反馈广告或问题 **  
+**四、反馈广告或问题**  
 
 &emsp;&emsp;**反馈途径:**    
 &emsp;&emsp;反馈中文网站的广告或误拦问题,请点击浏览器右上角的红色ABP图标，选择“报告问题”，会得到及时的回应。注意,某些多语言网站不以中文为主的,不属于中文网站,如twitch,youtube等        
@@ -111,9 +111,9 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 &emsp;&emsp;有奇怪的弹窗或英文广告等：可能你电脑感染了恶意扩展(插件)或病毒木马.下载[AdwCleaner](http://www.bleepingcomputer.com/download/adwcleaner/)或者[malwarebytes](http://www.malwarebytes.org/antimalware/) 查杀.   
 &emsp;&emsp;出现弹窗：请返回出现弹窗的页面点击ABP图标反馈，而不是在弹出的窗口反馈。  
 
-**五、一些其他问题 **  
+**五、一些其他问题**  
 
-**1、Easylist China有没有广告的白名单？ **  
+**1、Easylist China有没有广告的白名单？**  
 &emsp;&emsp;Adblock Plus中文规则列表Easylist China致力于反广告，每天频繁更新以提高用户体验，不包含可接受广告的白名单，其存在于另一个规则列表，可手动关闭，即进入ABP设置，取消勾选“可接受广告”
 
 **2、我的网站需要展示广告，怎么办？**  
@@ -122,7 +122,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt
 **3、如何撰写规则？**  
 &emsp;&emsp;[https://adblockplus.org/zh_CN/filters](https://adblockplus.org/zh_CN/filters)
 
-**4、旧版ABP2无法过滤百度推广？   **  
+**4、旧版ABP2无法过滤百度推广？**  
 > baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .t > A[href^="http://www.baidu.com/baidu.php?"]  
 > baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child  
 > baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)  
