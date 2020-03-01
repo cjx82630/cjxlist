@@ -17,9 +17,6 @@
 
 **三、使用前述cjxlist规则，在电脑过滤广告的快速指引**<br>
 
-&emsp;&emsp;**规则方案建议:** <br>
-&emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则<br>
-
 &emsp;&emsp;**浏览器可选择:**<br>
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/) <br>
 &emsp;&emsp;火狐测试版 [https://www.mozilla.org/zh-CN/firefox/beta/all/](https://www.mozilla.org/zh-CN/firefox/beta/all/)<br>
@@ -28,16 +25,19 @@
 &emsp;&emsp;**过滤工具可选择:**<br>
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock. <br>
 
-**四、在手机过滤广告的快速指引**<br>
+&emsp;&emsp;**规则方案建议:** <br>
+&emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则<br>
 
-&emsp;&emsp;**规则方案建议:**<br>
-&emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则.<br>
+**四、在手机过滤广告的快速指引**<br>
 
 &emsp;&emsp;**安卓平台:**<br>
 &emsp;&emsp;推荐Firefox Preview Nightly,快如chrome [https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly)<br>
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/) 或<br>
 &emsp;&emsp;火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/) <br>
 &emsp;&emsp;后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus<br>
+
+&emsp;&emsp;**规则方案建议:**<br>
+&emsp;&emsp;Easylist China + EasyList + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则.<br>
 
 &emsp;&emsp;**iPhone和iPad:**  <br>
 &emsp;&emsp;任选一个[https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329](https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329)<br>
@@ -122,10 +122,5 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt<br>
 **3、如何撰写规则？**<br>
 &emsp;&emsp;[https://adblockplus.org/zh_CN/filters](https://adblockplus.org/zh_CN/filters)<br>
 
-**4、旧版ABP2无法过滤百度推广？**<br>
-> baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .t > A[href^="http://www.baidu.com/baidu.php?"]
-> baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2) + .f13:last-child
-> baidu.com###\31 [data-click^="\7b \"rsv_bdr\":\"0\",\"p5\":"] > .c-abstract:nth-child(2)
-
-**5、为什么存在Fixed EasyPrivacy,Fixed Fanboy's Social白名单？**<br>
+**4、为什么存在Fixed EasyPrivacy,Fixed Fanboy's Social白名单？**<br>
 &emsp;&emsp;有时EasyPrivacy会引发问题, 例如dwz.cn不能登录, taobao.com打不开等. 因为反馈给国外的维护者会耗费时间, 快则几小时, 慢则几天. 所以如果加白名单没影响过滤广告, 会在中文列表添加修正EasyPrivacy的规则.  Fixed Fanboy's Social Blocking List同理<br>
