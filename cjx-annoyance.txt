@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003011808
+! Version: 202003012039
 ! Title: CJX's Annoyance List
-! Last modified: 2020/03/01 18:08 +0800
+! Last modified: 2020/03/01 20:39 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -371,6 +371,7 @@
 ||house365.com/im_show/imshow.js
 ||qixin007.com/webbanner/
 ||gamersky.com/wap/js/gs/gsAllOpenAppBtn.
+||meiju22.com/new/Public/gg.js
 !------------------------Specific element hiding rules------------------------!
 zybang.com##.question-below-text
 zybang.com##.related-question-below-text
