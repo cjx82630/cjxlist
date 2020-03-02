@@ -26,7 +26,7 @@
 [ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX")<br> 
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充. 2015.2.4发布,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
-&emsp;&emsp;**CJX's uBlock list (uBlock列表，只适用于uBlock。CJX's Annoyance List及EasyList lite已经集成，不用额外订阅)**<br>
+&emsp;&emsp;**CJX's uBlock list (只适用于uBlock origin。已经集成于CJX's Annoyance List及EasyList lite，不用额外订阅)**<br>
 `https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt`<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充.2020.2.13发布,过滤广告,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
@@ -38,7 +38,7 @@
 **二、在手机过滤广告的快速指引**<br>
 
 **1、安卓平台:**<br>
-&emsp;&emsp;推荐Firefox Preview Nightly,快如chrome [https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly)<br>
+&emsp;&emsp;推荐Firefox Preview Nightly，快如chrome [https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly)<br>
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/) 或<br>
 &emsp;&emsp;火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/) <br>
 &emsp;&emsp;后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus<br>
