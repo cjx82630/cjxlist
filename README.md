@@ -2,15 +2,15 @@
 ----
 **一、在电脑过滤广告的快速指引**<br>
 
-&emsp;&emsp;**1、浏览器可选择:**<br>
+**1、浏览器可选择:**<br>
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/all/](https://www.mozilla.org/zh-CN/firefox/all/) <br>
 &emsp;&emsp;火狐测试版 [https://www.mozilla.org/zh-CN/firefox/beta/all/](https://www.mozilla.org/zh-CN/firefox/beta/all/)<br>
 &emsp;&emsp;基于Chromium的Edge [https://www.microsoftedgeinsider.com/](https://www.microsoftedgeinsider.com/)  Chrome等。<br>
 
-&emsp;&emsp;**2、过滤工具可选择:**<br>
+**2、过滤工具可选择:**<br>
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock. <br>
 
-&emsp;&emsp;**3、规则方案建议:** <br>
+**3、规则方案建议:** <br>
 &emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则<br>
 
 &emsp;&emsp;**EasyList (主规则列表)**<br>
@@ -37,16 +37,16 @@
 
 **二、在手机过滤广告的快速指引**<br>
 
-&emsp;&emsp;**1、安卓平台:**<br>
+**1、安卓平台:**<br>
 &emsp;&emsp;推荐Firefox Preview Nightly,快如chrome [https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly)<br>
 &emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/) 或<br>
 &emsp;&emsp;火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/) <br>
 &emsp;&emsp;后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus<br>
 
-&emsp;&emsp;**2、规则方案建议:**<br>
+**2、规则方案建议:**<br>
 &emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List(已经) + EasyPrivacy 如选择ubo请保留内置规则<br>
 
-&emsp;&emsp;**3、iPhone和iPad:**  <br>
+**3、iPhone和iPad:**  <br>
 &emsp;&emsp;任选一个[https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329](https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329)<br>
 
 **三、如果有问题，请联系 `994722209@qq.com` 或 `cjxlist@gmail.com`**  <br>
