@@ -11,7 +11,7 @@
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock. <br>
 
 **3、规则方案建议:** <br>
-&emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则<br>
+&emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留"内置"栏目规则<br>
 
 &emsp;&emsp;**EasyList (主规则列表)**<br>
 `https://easylist-downloads.adblockplus.org/easylist.txt`<br>
@@ -26,7 +26,7 @@
 [ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX")<br> 
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
-&emsp;&emsp;**CJX's uBlock list (只适用于uBlock origin。如果订阅了本项目的CJX's Annoyance List及EasyList lite会自动拉取此列表，不用再订阅)**<br>
+&emsp;&emsp;**CJX's uBlock list (只适用于uBlock origin。如果订阅了本项目的CJX's Annoyance List或EasyList lite会自动拉取此列表，不用再订阅)**<br>
 `https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt`<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充。2020.2.13发布,过滤广告,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
@@ -44,7 +44,7 @@
 &emsp;&emsp;后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus<br>
 
 **2、规则方案建议:**<br>
-&emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则<br>
+&emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留"内置"栏目规则<br>
 
 **3、iPhone和iPad:**  <br>
 &emsp;&emsp;任选一个[https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329](https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329)<br>
