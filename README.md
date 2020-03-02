@@ -44,7 +44,7 @@
 &emsp;&emsp;后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus<br>
 
 **2、规则方案建议:**<br>
-&emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List(已经) + EasyPrivacy 如选择ubo请保留内置规则<br>
+&emsp;&emsp;EasyList + Easylist China + CJX's Annoyance List + EasyPrivacy 如选择ubo请保留内置规则<br>
 
 **3、iPhone和iPad:**  <br>
 &emsp;&emsp;任选一个[https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329](https://itunes.apple.com/cn/developer/eyeo-gmbh/id1015653329)<br>
@@ -57,7 +57,7 @@
 ----
 **一、ABP过滤视频广告的问题**<br>
 
-&emsp;&emsp;因拦截视频广告在国内变得明显不合法，Adblock plus大陆IP默认列表EasyList China+EasyList会被替换成EasyList China+EasyList (compliance)不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。<br>
+&emsp;&emsp;因拦截视频广告在国内变得明显不合法，大陆IP默认列表EasyList China+EasyList会被替换成EasyList China+EasyList (compliance)不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。<br>
  `https://easylist-downloads.adblockplus.org/easylist.txt`<br>
  &emsp;&emsp;[ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")  <br>
  `https://easylist-downloads.adblockplus.org/easylistchina.txt`<br>
