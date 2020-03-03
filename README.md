@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充。2020.2.13发布,过滤广告,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
-&emsp;&emsp;**(6) chinese.txt (前四列表的补充。ABP专用小脚本规则):**<br>
+&emsp;&emsp;**(6) chinese.txt (前四列表的补充。ABP专用小脚本规则)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt<br>
 &emsp;&emsp;需要ABP 3.5.2以上,订阅无效,只能自定义.请访问上面网址,复制所有规则,再点击ABP图标 > 齿轮 > 高级 >`我的过滤列表`下粘贴.<br>
 
