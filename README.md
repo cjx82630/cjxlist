@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt<br>
 [ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
-&emsp;&emsp;**(5) CJX's uBlock list (ubo补充，ubo专用。如订阅同项目CJX's Annoyance或EasyList lite会自动订阅此列表)**<br>
+&emsp;&emsp;**(5) CJX's uBlock list (ubo补充，ubo专用。如订阅同项目CJX's Annoyance或EasyList lite会自动集成此列表，无需订阅)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充。2020.2.13发布,过滤广告,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
