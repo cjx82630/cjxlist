@@ -13,7 +13,7 @@
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock. <br>
 
 **3、规则方案建议:** <br>
-&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo/ABP补充 (如选择ubo请保留"内置"栏目规则)<br>
+&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择ubo请保留"内置"栏目规则)<br>
 
 &emsp;&emsp;**(1) EasyList (去广告主规则列表。主要面向英文网站，包含大量通用规则)**<br>
 https://easylist-downloads.adblockplus.org/easylist.txt<br>
@@ -36,11 +36,11 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt<br>
 [ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
-&emsp;&emsp;**(5) CJX's uBlock list (前四列表的补充。ubo专用。如订阅同项目CJX's Annoyance或EasyList lite会自动订阅此列表)**<br>
+&emsp;&emsp;**(5) CJX's uBlock list (ubo补充，ubo专用。如订阅同项目CJX's Annoyance或EasyList lite会自动订阅此列表)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充。2020.2.13发布,过滤广告,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
 
-&emsp;&emsp;**(6) chinese.txt (前四列表的补充。ABP专用小脚本规则,不能订阅,看下文操作.)**<br>
+&emsp;&emsp;**(6) chinese.txt (ABP补充，ABP专用。不能订阅，看下文操作.)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt<br>
 &emsp;&emsp;需要ABP 3.5.2以上,订阅无效,只能自定义.请访问上面网址,复制所有规则,再点击ABP图标 > 齿轮 > 高级 >`我的过滤列表`下粘贴.<br>
 
@@ -59,7 +59,7 @@ https://easylist-downloads.adblockplus.org/fanboy-social.txt<br>
 &emsp;&emsp;安装后点右上图标>扩展程序>谷歌商店>搜索安装ublock origin或adblock plus<br>
 
 **2、规则方案建议:**<br>
-&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo/ABP补充 (如选择ubo请保留"内置"栏目规则)<br>
+&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择ubo请保留"内置"栏目规则)<br>
 &emsp;&emsp;同上<br>
 
 **3、iPhone和iPad:**<br>
