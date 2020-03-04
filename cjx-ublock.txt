@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003010937
+! Version: 202003041822
 ! Title: CJX's uBlock list
-! Last modified: 2020/03/01 09:37 +0800
+! Last modified: 2020/03/04 18:22 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -25,6 +25,7 @@ dlkoo.com##+js(acis,setTimeout,testad)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
 nfmovies.com##+js(nostif,if)
 nfmovies.com###adleft:style(margin-left:-900px !important;)
+bbs.pcbeta.com##div[style="width:998px;height:75px;border:1px solid #cdcdcd;border-top:3px solid #009ad9;margin:0 0 10px 0;background:#fff;"] + style + div[class]:style(height:270px !important;)
 rjno1.com##+js(aopr,onload)
 t66y.com##.sptable_do_not_remove:style(margin-left:-9999px !important;)
 t66y.com##.tips:style(height:20px;margin-left:-9999px !important;)
