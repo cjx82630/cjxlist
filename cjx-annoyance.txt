@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003041822
+! Version: 202003051348
 ! Title: CJX's Annoyance List
-! Last modified: 2020/03/04 18:22 +0800
+! Last modified: 2020/03/05 13:48 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -1167,6 +1167,7 @@ m.babytree.com##script + a[class]
 /v.gif?logtype=
 /yesky/js/counter/*
 /zcool-analytics.js
+||count.nuanyuehanxing.com^
 ||pconline.com.cn/ipJson.
 ||develenv.com^$third-party
 ||syzjxz2018.cn^
