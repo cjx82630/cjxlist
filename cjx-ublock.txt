@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003081133
+! Version: 202003081740
 ! Title: CJX's uBlock list
-! Last modified: 2020/03/08 11:33 +0800
+! Last modified: 2020/03/08 17:40 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -49,6 +49,7 @@ iqiyi.com##+js(nano-sib)
 iqiyi.com##div[data-adzone][adid]
 qq.com##+js(json-prune, ad, vinfo)
 !------------------------General element hiding rules-------------------------!
+!#if env_mobile
 ! easylistchina.txt
 ~hkcsl.com,*###gg1
 ~jxedu.com,*###haoetv
@@ -68,6 +69,7 @@ qq.com##+js(json-prune, ad, vinfo)
 ~baidu.com,*##a[href*="/cpro."]
 ~baidu.com,*##a[href*="/cpro/"]
 *###Ad_windows
+*###Layeraa1
 *###Layeraa2
 *###MsnDialog.ad
 *###MyMoveAd
@@ -828,4 +830,5 @@ qq.com##+js(json-prune, ad, vinfo)
 *##.s.u.m.o.me.scrollbox-popup
 *###pop_hongbao
 *###bgframe[style^="position: fixed;"]
+!#endif
 !----------------------------------The End------------------------------------!
