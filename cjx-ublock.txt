@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003081740
+! Version: 202003101814
 ! Title: CJX's uBlock list
-! Last modified: 2020/03/08 17:40 +0800
+! Last modified: 2020/03/10 18:14 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://easylist-downloads.adblockplus.org/COPYING
@@ -14,7 +14,7 @@
 !-----------------------------Union&third-party-------------------------------!
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
-*/videos/other/$redirect=noopmp4-1s,domain=m.iqiyi.com
+3g.163.com##+js(set,specialHideAd,true)
 4399.com##+js(aopr,defaultbackgroundimg)
 bingfeng.tw##+js(nostif,newtag)
 chinaz.com###imgbd:style(background:none !important;)
@@ -22,6 +22,7 @@ chinaz.com##.CCtop:style(margin-top:10px !important;)
 chinaz.com##.CClose
 dlkoo.com##+js(acis,setTimeout,testad)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
+*/videos/other/$redirect=noopmp4-1s,domain=m.iqiyi.com
 nfmovies.com##+js(nostif,if)
 nfmovies.com###adleft:style(margin-left:-900px !important;)
 bbs.pcbeta.com##div[style="width:998px;height:75px;border:1px solid #cdcdcd;border-top:3px solid #009ad9;margin:0 0 10px 0;background:#fff;"] + style + div[class]:style(height:270px !important;)
