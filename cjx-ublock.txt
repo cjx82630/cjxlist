@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003180632
+! Version: 202003210819
 ! Title: CJX's uBlock list
-! Last modified: 2020/03/18 06:32 +0800
+! Last modified: 2020/03/21 08:19 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -16,6 +16,8 @@
 !--------------------------Specific blocking filters--------------------------!
 3g.163.com##+js(set,specialHideAd,true)
 4399.com##+js(aopr,defaultbackgroundimg)
+1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.special_conf_skin .wrap1:style(background:none !important;)
+1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###plat_recom_carousel[style$="380px;"]:style(height:80px !important;)
 bingfeng.tw##+js(nostif,newtag)
 chinaz.com###imgbd:style(background:none !important;)
 chinaz.com##.CCtop:style(margin-top:10px !important;)
