@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003210819
+! Version: 202003251833
 ! Title: CJX's uBlock list
-! Last modified: 2020/03/21 08:19 +0800
+! Last modified: 2020/03/25 18:33 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -44,7 +44,9 @@ t66y.com##.tips:style(height:20px;margin-left:-9999px !important;)
 youku.com##+js(nano-stb, , ,0)
 @@||valipl.cp31.ott.cibntv.net^$xhr,domain=youku.com
 *$image,redirect-rule=1x1.gif,domain=youku.com
-iqiyi.com##+js(aopr, DOMParser)
+! https://github.com/uBlockOrigin/uAssets/issues/7136
+iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
+iqiyi.com#@#+js(aopr, DOMParser)
 iqiyi.com##+js(nano-sib)
 ||data.video.iqiyi.com/videos/other/*$xhr,1p
 ||static.iqiyi.com/js/common/mars_v.js$script,1p
