@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202003251833
+! Version: 202003271953
 ! Title: CJX's uBlock list
-! Last modified: 2020/03/25 18:33 +0800
+! Last modified: 2020/03/27 19:53 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -30,8 +30,8 @@ nfmovies.com###adleft:style(margin-left:-900px !important;)
 bbs.pcbeta.com##div[style="width:998px;height:75px;border:1px solid #cdcdcd;border-top:3px solid #009ad9;margin:0 0 10px 0;background:#fff;"] + style + div[class]:style(height:270px !important;)
 qq.com##+js(json-prune,ad,errCode)
 rjno1.com##+js(aopr,onload)
-t66y.com##.sptable_do_not_remove:style(margin-left:-9999px !important;)
-t66y.com##.tips:style(height:20px;margin-left:-9999px !important;)
+t66y.com##.tips:style(height:20px;margin-left:-12345px !important;)
+t66y.com##.sptable_do_not_remove:style(margin-left:-67890px !important;)
 !------------------------Specific element hiding rules------------------------!
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
