@@ -12,3 +12,5 @@ hktvyb.com#$#abort-current-inline-script setInterval
 htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
 15yc.cc#$#abort-on-property-write encode_version
 dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
+onemanhua.com#$#abort-on-property-read __cad.cpm_popunder
+onemanhua.com#$#abort-on-property-read __ad
