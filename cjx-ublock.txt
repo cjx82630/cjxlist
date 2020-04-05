@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202004032330
+! Version: 202004051241
 ! Title: CJX's uBlock list
-! Last modified: 2020/04/03 23:30 +0800
+! Last modified: 2020/04/05 12:41 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -30,8 +30,28 @@ nfmovies.com###adleft:style(margin-left:-900px !important;)
 bbs.pcbeta.com##div[style="width:998px;height:75px;border:1px solid #cdcdcd;border-top:3px solid #009ad9;margin:0 0 10px 0;background:#fff;"] + style + div[class]:style(height:270px !important;)
 qq.com##+js(json-prune,ad,errCode)
 rjno1.com##+js(aopr,onload)
-t66y.com##.tips td:style(height:20px;text-indent:-599em;width:20% !important;)
-t66y.com##.sptable_do_not_remove:style(text-indent:-599em;width:2% !important;)
+t66y.com##+js(json-prune, 0.c)
+t66y.com##+js(json-prune, 1.c)
+t66y.com##+js(json-prune, 2.c)
+t66y.com##+js(json-prune, 3.c)
+t66y.com##+js(json-prune, 4.c)
+t66y.com##+js(json-prune, 5.c)
+t66y.com##+js(json-prune, 6.c)
+t66y.com##+js(json-prune, 7.c)
+t66y.com##+js(json-prune, 8.c)
+t66y.com##+js(json-prune, 9.c)
+t66y.com##+js(json-prune, 10.c)
+t66y.com##+js(json-prune, 11.c)
+t66y.com##+js(json-prune, 12.c)
+t66y.com##+js(json-prune, 13.c)
+t66y.com##+js(json-prune, 14.c)
+t66y.com##+js(json-prune, 15.c)
+t66y.com##+js(json-prune, 16.c)
+t66y.com##+js(json-prune, 17.c)
+t66y.com##+js(json-prune, 18.c)
+t66y.com##+js(json-prune, 19.c)
+t66y.com##+js(ra,cellspacing|cellpadding|width,.sptable_do_not_remove)
+t66y.com##+js(ra,valign|width|onclick,.sptable_do_not_remove td)
 t66y.com##+js(set,alert,trueFunc)
 t66y.com##+js(set,jQuery.fn.remove,trueFunc)
 t66y.com##+js(set,jQuery.fn.ersrcs,trueFunc)
