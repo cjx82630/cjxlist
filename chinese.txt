@@ -1,16 +1,17 @@
-dlkoo.com#$#abort-current-inline-script setTimeout testad
-bingfeng.tw#$#abort-current-inline-script setTimeout
+1010jiajiao.com#$#abort-on-property-read jQuery.cssHooks.height
+15yc.cc#$#abort-on-property-write encode_version
 2nyan.org#$#abort-on-property-read _0xcc85f5
+4399.com#$#abort-on-property-read defaultbackgroundimg
+bingfeng.tw#$#abort-current-inline-script setTimeout
+dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
+dlkoo.com#$#abort-current-inline-script setTimeout testad
+hktvyb.com#$#abort-current-inline-script setInterval
+htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
+onemanhua.com#$#abort-on-property-read __cad.cpm_popunder
+onemanhua.com#$#abort-on-property-read __ad
+rjno1.com#$#abort-on-property-read onload
+@@||rjno1.com^$csp
 rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
 @@||ruanyifeng.com^$csp
 ruanyifeng.com#$#abort-on-property-read setTimeout
 xianzhenyuan.cn#$#abort-on-property-read ad
-rjno1.com#$#abort-on-property-read onload
-@@||rjno1.com^$csp
-4399.com#$#abort-on-property-read defaultbackgroundimg
-hktvyb.com#$#abort-current-inline-script setInterval
-htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
-15yc.cc#$#abort-on-property-write encode_version
-dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
-onemanhua.com#$#abort-on-property-read __cad.cpm_popunder
-onemanhua.com#$#abort-on-property-read __ad
