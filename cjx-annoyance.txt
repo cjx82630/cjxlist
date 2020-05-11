@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202005091118
+! Version: 202005111802
 ! Title: CJX's Annoyance List
-! Last modified: 2020/05/09 11:18 +0800
+! Last modified: 2020/05/11 18:02 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -607,7 +607,7 @@ zuowen.com##.dialogP
 mcmod.cn###McmodDonate
 pupudy.com##.asst-post_header
 pupudy.com##.sidebar
-view.inews.qq.com##DIV[class^="_"][style="bottom: 0px;"][data-action-id="1"]
+view.inews.qq.com#?#div[class^="_"]:-abp-has(>div[data-action-id]>div>.react-swipeable-view-container)
 douyu.com###js-room-activity
 gdmm.com##a[href="http://www.gdmm.com/appdown/"]
 kingkong.com.tw##.public-activity
