@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202006162042
+! Version: 202006192103
 ! Title: CJX's Annoyance List
-! Last modified: 2020/06/16 20:42 +0800
+! Last modified: 2020/06/19 21:03 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -338,7 +338,6 @@
 ||appledaily.hk/banners/subscription/
 ||bilibili.com/x/web-interface/archive/special/recommend?aid=
 ||lancdn.com/tmp3/GG_Notice.png
-||chinaacc.com/upload/*zhongjizhicheng
 ||zhangzishi.cc/cdn-cgi/apps/
 ||macx.cn/js/blockadblock.js
 ||bestqikan.com/static/js/swt.js
@@ -353,7 +352,6 @@
 ||sinaimg.cn/cj/finance/forex/res/searchCallup.js
 ||tsdm.live/weibo.html
 ||28.com/public/js/w3c_float.js
-||chinaacc.com/upload/js/cia_mjy_pf/
 ||kmf.com/da/do
 ||daiyanbao.com/flash/md
 ||banzou.name/qq/qq2.js
@@ -402,7 +400,9 @@
 ||gaosan.com/js/b.js
 ||igo99.cn/js/freetest.js
 ||huobaowang.com/meeting/js/hbchat.
+||chinaacc.com/upload/*_mjy_
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.vip-member-pop-content
 baidu.com##.app-side-ad
 kanman.com###\5f _acgn-virtual-coin__
 ifeng.com##a[class^="bookrack-"]
