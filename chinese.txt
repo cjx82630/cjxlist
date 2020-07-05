@@ -10,7 +10,8 @@ htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
 nfmovies.com#$#abort-current-inline-script $myui probe
 onemanhua.com#$#abort-on-property-read __cad.cpm_popunder
 onemanhua.com#$#abort-on-property-read __ad
-rjno1.com#$#abort-on-property-read onload
+rjno1.com#$#abort-current-inline-script setTimeout;abort-current-inline-script onload
+rjno1.com#?#div:-abp-has(> p:-abp-contains(chrome-based))
 @@||rjno1.com^$csp
 rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
 @@||ruanyifeng.com^$csp
