@@ -7,7 +7,7 @@ dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read his
 dlkoo.com#$#abort-current-inline-script setTimeout testad
 hktvyb.com#$#abort-current-inline-script setInterval
 htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
-nfmovies.com#$#abort-on-property-read $myui
+nfmovies.com#$#abort-current-inline-script $myui probe
 onemanhua.com#$#abort-on-property-read __cad.cpm_popunder
 onemanhua.com#$#abort-on-property-read __ad
 rjno1.com#$#abort-on-property-read onload
