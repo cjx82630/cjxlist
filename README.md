@@ -68,7 +68,7 @@ https://easylist-downloads.adblockplus.org/fanboy-social.txt<br>
 **三、如果有问题，请联系 `994722209@qq.com` 或 `cjxlist@gmail.com`**  <br>
 
 *如果你是Adblock Plus用户，可以往下阅读，能获得更多信息*<br>
-### ELC
+
 **Easylist China中文列表说明**<br>
 ----
 **一、ABP过滤视频广告的问题**<br>
@@ -102,6 +102,8 @@ https://easylist-downloads.adblockplus.org/fanboy-social.txt<br>
 &emsp;&emsp;试试手动更新规则：在火狐，点击ABP图标>过滤规则首选项>右键点击规则选更新；其它浏览器类似。<br>
 &emsp;&emsp;有奇怪的弹窗或英文广告等：可能你电脑感染了恶意扩展(插件)或病毒木马.下载[AdwCleaner](http://www.bleepingcomputer.com/download/adwcleaner/)或者[malwarebytes](http://www.malwarebytes.org/antimalware/) 查杀. <br>
 &emsp;&emsp;出现弹窗：请返回出现弹窗的页面点击ABP图标反馈，而不是在弹出的窗口反馈。<br>
+
+### Q&A
 
 **四、一些其他问题**<br>
 
