@@ -69,6 +69,8 @@ https://easylist-downloads.adblockplus.org/fanboy-social.txt<br>
 
 *如果你是Adblock Plus用户，可以往下阅读，能获得更多信息*<br>
 
+### ELC
+
 **Easylist China中文列表说明**<br>
 ----
 **一、ABP过滤视频广告的问题**<br>
