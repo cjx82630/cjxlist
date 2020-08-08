@@ -13,7 +13,7 @@
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock. <br>
 
 **3、规则方案建议:** <br>
-&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择ubo请保留"内置"栏目规则)<br>
+&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择ublock origin请保留"内置"栏目规则)<br>
 
 &emsp;&emsp;**(1) EasyList (去广告主规则列表。主要面向英文网站，包含大量通用规则)**<br>
 https://easylist-downloads.adblockplus.org/easylist.txt<br>
@@ -51,15 +51,12 @@ https://easylist-downloads.adblockplus.org/fanboy-social.txt<br>
 **二、在手机过滤广告的快速指引**<br>
 
 **1、安卓平台:**<br>
-&emsp;&emsp;火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/)<br>
-&emsp;&emsp;火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/) <br>
-&emsp;&emsp;推荐Firefox Preview Nightly(需梯子) 快如chrome [https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly](https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly)<br>
-&emsp;&emsp;安装后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin或adblock plus<br>
-&emsp;&emsp;Kiwi(需梯子) [https://play.google.com/store/apps/details?id=com.kiwibrowser.browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)<br>
-&emsp;&emsp;安装后点右上图标>扩展程序>谷歌商店>搜索安装ublock origin或adblock plus<br>
+&emsp;&emsp;安装火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/)<br>
+&emsp;&emsp;&emsp;&emsp;或安装火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/) <br>
+&emsp;&emsp;安装后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin<br>
 
 **2、规则方案建议:**<br>
-&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择ubo请保留"内置"栏目规则)<br>
+&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List (ublock origin请保留"内置"规则)<br>
 &emsp;&emsp;同上<br>
 
 **3、iPhone和iPad:**<br>
