@@ -17,4 +17,4 @@ ruanyifeng.com#$#abort-on-property-read setTimeout
 tingfm.com#$#abort-on-property-read localStorage.removeItem
 xianzhenyuan.cn#$#abort-on-property-read ad
 !#Novels
-zhaishuyuan.com#$#abort-on-property-read alert
+ciymao.com,zhaishuyuan.com#$#abort-on-property-read alert
