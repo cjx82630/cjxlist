@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202010021914
+! Version: 202010071111
 ! Title: CJX's uBlock list
-! Last modified: 2020/10/02 19:14 +0800
+! Last modified: 2020/10/07 11:11 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -23,6 +23,7 @@ bingfeng.tw##+js(nostif,newtag)
 chinaz.com###imgbd:style(background:none !important;)
 chinaz.com##.CCtop:style(margin-top:10px !important;)
 chinaz.com##.CClose
+cocomanhua.com##+js(aopr,jQuery.fn.html)
 dlkoo.com##+js(acis,setTimeout,testad)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
 */videos/other/$redirect=noopmp4-1s,domain=m.iqiyi.com

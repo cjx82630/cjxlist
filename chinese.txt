@@ -3,6 +3,7 @@
 2nyan.org#$#abort-on-property-read _0xcc85f5
 4399.com#$#abort-on-property-read defaultbackgroundimg
 bingfeng.tw#$#abort-current-inline-script setTimeout
+cocomanhua.com#$#abort-on-property-read jQuery.fn.html
 dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
 dlkoo.com#$#abort-current-inline-script setTimeout testad
 hktvyb.com#$#abort-current-inline-script setInterval
