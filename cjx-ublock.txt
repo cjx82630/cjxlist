@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202010071121
+! Version: 202010192028
 ! Title: CJX's uBlock list
-! Last modified: 2020/10/07 11:21 +0800
+! Last modified: 2020/10/19 20:28 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -57,6 +57,8 @@ t66y.com##+js(set,jQuery.fn.jalord,trueFunc)
 t66y.com##+js(set,jQuery.fn.kndseo,trueFunc)
 t66y.com##+js(set,jQuery.fn.pnwsxr,trueFunc)
 tingfm.com##+js(aopr,localStorage.removeItem)
+tingfm.com##+js(aopr,localStorage.wndt_adblocked_user)
+tingfm.com##+js(aopr,google_ads)
 tingfm.com##iframe:style(background:none !important;)
 !#Novels
 ciymao.com,zhaishuyuan.com##+js(aopr,alert)
