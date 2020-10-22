@@ -13,7 +13,7 @@
 &emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock. <br>
 
 **3、规则方案建议:** <br>
-&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择ublock origin请保留"内置"栏目规则)<br>
+&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择Adblock Plus请保留ABP filters.如选择ublock origin请保留"内置"栏目规则)<br>
 
 &emsp;&emsp;**(1) EasyList (去广告主规则列表。主要面向英文网站，包含大量通用规则)**<br>
 https://easylist-downloads.adblockplus.org/easylist.txt<br>
