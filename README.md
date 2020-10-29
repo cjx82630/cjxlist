@@ -15,15 +15,15 @@
 **3、规则方案建议:** <br>
 &emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + ubo补充/ABP补充 (如选择Adblock Plus请保留ABP filters.如选择ublock origin请保留"内置"栏目规则)<br>
 
-&emsp;&emsp;**(1) EasyList (去广告主规则列表。主要面向英文网站，包含大量通用规则)**<br>
+&emsp;&emsp;**(1) EasyList (反广告主规则列表。主要面向英文网站，包含大量通用规则)**<br>
 https://easylist-downloads.adblockplus.org/easylist.txt<br>
 [ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")<br>
 
-&emsp;&emsp;&emsp;&emsp;**EasyList Lite(去广告主规则列表的精简版，只保留简体中文网站触发的规则，建议非桌面浏览器才选用。)**<br>
+&emsp;&emsp;&emsp;&emsp;**EasyList Lite(反广告主规则列表的精简版，只保留简体中文网站触发的规则，建议非桌面浏览器才选用。)**<br>
 &emsp;&emsp;&emsp;&emsp;https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt<br>
 &emsp;&emsp;&emsp;&emsp;[ABP ADB 点此订阅EasyList Lite](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt&title=EasyList%20Lite "EasyList%20Lite")<br>
 
-&emsp;&emsp;**(2) Easylist China (去广告主规则列表的补充。主要面向中文网站)**<br>
+&emsp;&emsp;**(2) Easylist China (反广告主规则列表的补充。主要面向中文网站)**<br>
 https://easylist-downloads.adblockplus.org/easylistchina.txt<br>
 [ABP ADB 点此订阅EasyList China](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylistchina.txt&title=EasyList%20China "EasyList China")<br>
 
@@ -31,7 +31,7 @@ https://easylist-downloads.adblockplus.org/easylistchina.txt<br>
 https://easylist-downloads.adblockplus.org/easyprivacy.txt<br>
 [ABP ADB 点此订阅EasyPrivacy](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easyprivacy.txt&title=EasyPrivacy "EasyPrivacy")<br>
 
-&emsp;&emsp;**(4) CJX's Annoyance List (去自我推广规则列表)**<br>
+&emsp;&emsp;**(4) CJX's Annoyance List (反自我推广规则列表)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt<br>
 [ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,并补充EasyPrivacy隐私规则.<br>
