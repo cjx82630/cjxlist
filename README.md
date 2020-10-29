@@ -31,16 +31,16 @@ https://easylist-downloads.adblockplus.org/easylistchina.txt<br>
 https://easylist-downloads.adblockplus.org/easyprivacy.txt<br>
 [ABP ADB 点此订阅EasyPrivacy](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easyprivacy.txt&title=EasyPrivacy "EasyPrivacy")<br>
 
-&emsp;&emsp;**(4) CJX's Annoyance List (反自我推广,反anti adblock,防跟踪规则列表)**<br>
+&emsp;&emsp;**(4) CJX's Annoyance List (反自我推广,移除anti adblock,防跟踪规则列表)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt<br>
 [ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
-&emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,反anti adblock,并补充EasyPrivacy隐私规则.<br>
+&emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.<br>
 
 &emsp;&emsp;**(5) CJX's uBlock list (CJX's Annoyance List的补充，ubo专用。如订阅同项目CJX's Annoyance或EasyList lite会自动集成此列表，无需订阅)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充。2020.2.13发布.<br>
 
-&emsp;&emsp;** chinese.txt (CJX's Annoyance List的补充，ABP专用。不能订阅，看下文操作.)**<br>
+&emsp;&emsp;**chinese.txt (CJX's Annoyance List的补充，ABP专用。不能订阅，看下文操作.)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt<br>
 &emsp;&emsp;需要ABP 3.5.2以上,订阅无效,只能自定义.请访问上面网址,复制所有规则,再点击ABP图标 > 齿轮 > 高级 >`我的过滤列表`下粘贴.<br>
 
