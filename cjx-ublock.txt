@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202010292347
+! Version: 202011031805
 ! Title: CJX's uBlock list
-! Last modified: 2020/10/29 23:47 +0800
+! Last modified: 2020/11/03 18:05 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -91,6 +91,7 @@ qq.com##+js(json-prune, ad, vinfo)
 *###pop_hongbao
 *###bgframe[style^="position: fixed;"]
 ! easylistchina.txt
+*##img#adv1
 *###Ad_windows
 *###Layeraa1
 *###Layeraa2
