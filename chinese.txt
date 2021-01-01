@@ -1,3 +1,7 @@
+||valipl.cp31.ott.cibntv.net^$media,rewrite=abp-resource:blank-mp3,domain=youku.com
+||cibntv.net/youku/$media,rewrite=abp-resource:blank-mp3,domain=youku.com
+qq.com#$#json-prune ad vinfo
+iqiyi.com#$#override-property-read Object.prototype.parseXML noopFunc
 1010jiajiao.com#$#abort-on-property-read jQuery.cssHooks.height
 15yc.cc#$#abort-on-property-write encode_version
 2nyan.org#$#abort-on-property-read _0xcc85f5
