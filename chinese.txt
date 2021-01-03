@@ -10,7 +10,7 @@ iqiyi.com#$#override-property-read Object.prototype.parseXML noopFunc
 4399.com#$#abort-on-property-read defaultbackgroundimg
 5278.cc#$#abort-on-property-read cc5278_adblock;abort-on-property-read onload
 hboav.com#$#abort-on-property-read onload;abort-on-property-read adbk;abort-on-property-read console.log
-bde4.cc#$#abort-current-inline-script __encode
+bde4.cc#$#abort-on-property-read onload
 bingfeng.tw#$#abort-current-inline-script setTimeout
 cocomanhua.com#$#abort-on-property-read jQuery.fn.html; abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
