@@ -84,7 +84,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt<br>
 
 &emsp;&emsp;**反馈途径:**  <br>
 &emsp;&emsp;反馈中文网站的广告或误拦问题,请点击浏览器右上角的红色ABP图标，选择“报告问题”，会得到及时的回应。注意,某些多语言网站不以中文为主的,不属于中文网站,如twitch,youtube等 <br>
-&emsp;&emsp;反馈给CJX个人`994722209@qq.com`或QQ群`233902062`或在这里提交issue或论坛 [http://abpchina.org/forum/forum.php](http://abpchina.org/forum/forum.php)<br>
+&emsp;&emsp;反馈给CJX个人`994722209@qq.com`或QQ群`233902062` <br>
 &emsp;&emsp;反馈英文网站或EasyList或EasyPrivacy或Fanboy's Social Blocking List的问题：请将网址发到`easylist.subscription@gmail.com`并英文描述<br>
 &emsp;&emsp;反馈非中英文网站的问题：请查看对应的语言列表[https://adblockplus.org/zh_CN/subscriptions](https://adblockplus.org/zh_CN/subscriptions)<br>
 &emsp;&emsp;如被"Malware Domain"规则列表误拦(此列表不属于ABP维护),反馈到`malwaredomains@gmail.com`  <br>
