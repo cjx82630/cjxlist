@@ -15,6 +15,7 @@ bingfeng.tw#$#abort-current-inline-script setTimeout
 cocomanhua.com#$#abort-on-property-read jQuery.fn.html; abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
 dlkoo.com#$#abort-current-inline-script setTimeout testad
+fpbsnc.com,lsntzzy3.com#$#override-property-read ps noopFunc
 hktvyb.com#$#abort-current-inline-script setInterval
 htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
 nfmovies.com#$#abort-current-inline-script $myui probe
