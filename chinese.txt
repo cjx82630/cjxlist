@@ -13,6 +13,7 @@ iqiyi.com#$#override-property-read Object.prototype.parseXML noopFunc
 @@||hboav.com/guga/images/20201021.jpg
 bde4.cc#$#abort-on-property-read alert;abort-current-inline-script dataLayer
 bingfeng.tw#$#abort-current-inline-script setTimeout
+bukaivip.com#$#abort-on-property-read ad_load_success
 cocomanhua.com#$#abort-on-property-read jQuery.fn.html; abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
 dlkoo.com#$#abort-current-inline-script setTimeout testad
