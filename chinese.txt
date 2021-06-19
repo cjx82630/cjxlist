@@ -1,5 +1,5 @@
 !这是中文规则的补充,复制内容到自定义(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
-!;21年0613日0004
+!;21年0620日0652
 ||valipl.cp31.ott.cibntv.net^$media,rewrite=abp-resource:blank-mp3,domain=youku.com
 ||cibntv.net/youku/$media,rewrite=abp-resource:blank-mp3,domain=youku.com
 ||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
@@ -13,7 +13,6 @@ iqiyi.com#$#override-property-read Object.prototype.parseXML noopFunc
 5278.cc,hboav.com#$#abort-on-property-read onload;abort-on-property-read onmessage;abort-on-property-read adbk;abort-on-property-read warm_msg
 ||5278.cc/js/c.js
 @@||hboav.com/guga/images/20201021.jpg
-bde4.cc#$#abort-on-property-read alert;abort-current-inline-script dataLayer
 bingfeng.tw#$#abort-current-inline-script setTimeout
 bukaivip.com,zhenbuka2.com#$#abort-on-property-read ad_load_success
 cocomanhua.com#$#abort-on-property-read jQuery.fn.html; abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
@@ -22,6 +21,7 @@ dlkoo.com#$#abort-current-inline-script setTimeout testad
 fpbsnc.com,lsntzzy3.com#$#override-property-read ps noopFunc
 hktvyb.com#$#abort-current-inline-script setInterval
 htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
+mp4er.com#$#abort-on-property-read onload
 nfmovies.com#$#abort-current-inline-script $myui probe
 rjno1.com#$#abort-current-inline-script setTimeout;abort-current-inline-script onload
 rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
