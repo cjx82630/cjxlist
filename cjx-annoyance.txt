@@ -439,7 +439,6 @@
 ||codenong.com/c1.js
 ||zhenbuka*/statics/js/toastr/jquery.toast.js
 !------------------------Specific element hiding rules------------------------!
-last.fm##.mpu-subscription-upsell
 last.fm##.subscribe-cta
 tgbus.com###guide-download
 pcbaby.com.cn###jpopWinBottom
