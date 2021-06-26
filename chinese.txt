@@ -21,6 +21,7 @@ dlkoo.com#$#abort-current-inline-script setTimeout testad
 fpbsnc.com,lsntzzy3.com#$#override-property-read ps noopFunc
 hktvyb.com#$#abort-current-inline-script setInterval
 htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
+league-funny.com#$#abort-on-property-read onload
 mp4er.com#$#abort-on-property-read onload
 nfmovies.com#$#abort-current-inline-script $myui probe
 rjno1.com#$#abort-current-inline-script setTimeout;abort-current-inline-script onload
