@@ -1,8 +1,5 @@
-[Adblock Plus 2.0]
-! Version: 202106200655
 ! Title: CJX's uBlock list
-! Last modified: 2021/06/20 06:55 +0800
-! Expires: 4 days (update frequency)
+! Expires: 4 days
 ! Homepage: https://github.com/cjx82630/cjxlist
 ! Licence: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
 ! 
@@ -32,6 +29,7 @@ dlkoo.com##+js(acis,setTimeout,testad)
 fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
 juxia.com##.mian_body:style(background-image:none !important;)
+league-funny.com##+js(aopr,onload)
 mp4er.com+js(aopr,onload)
 !https://bbs.kafan.cn/thread-2180923-1-1.html
 nfmovies.com##+js(set,initAd,noopFunc)
