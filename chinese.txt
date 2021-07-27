@@ -16,6 +16,7 @@ iqiyi.com#$#override-property-read Object.prototype.parseXML noopFunc
 bingfeng.tw#$#abort-current-inline-script setTimeout
 bukaivip.com,zhenbuka2.com#$#abort-on-property-read ad_load_success
 cocomanhua.com#$#abort-on-property-read jQuery.fn.html; abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
+ddrk.me#$#abort-on-property-read Object.prototype.ads.isInAdMode
 dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
 dlkoo.com#$#abort-current-inline-script setTimeout testad
 fpbsnc.com,lsntzzy3.com#$#override-property-read ps noopFunc
