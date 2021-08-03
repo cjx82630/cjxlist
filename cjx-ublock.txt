@@ -42,14 +42,13 @@ qq.com##+js(json-prune,ad,errCode)
 rjno1.com##+js(acis, setTimeout)
 rjno1.com##+js(acis, onload)
 rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
-@@||rjno1.com^$csp
 ruanyifeng.com##+js(aopr, setTimeout)
 tianya.cn##+js(acis,src,apk)
 tingfm.com##+js(aopr,localStorage.removeItem)
 tingfm.com##+js(aopr,localStorage.wndt_adblocked_user)
 tingfm.com##+js(aopr,google_ads)
 tingfm.com##iframe:style(background:none !important;)
-zhenbuka.com##+js(acis, setTimeout)
+zhenbuka3.com##+js(acis, setTimeout)
 !#Novels
 ciymao.com,zhaishuyuan.com##+js(aopr,alert)
 !------------------------Specific element hiding rules------------------------!

@@ -1,5 +1,4 @@
 !这是中文规则的补充,复制内容到自定义(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
-!;21年0722日2239
 ||valipl.cp31.ott.cibntv.net^$media,rewrite=abp-resource:blank-mp3,domain=youku.com
 ||cibntv.net/youku/$media,rewrite=abp-resource:blank-mp3,domain=youku.com
 ||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
@@ -29,12 +28,11 @@ rjno1.com#$#abort-current-inline-script setTimeout;abort-current-inline-script o
 rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
 @@||rjno1.com^$csp
 rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
-@@||ruanyifeng.com^$csp
 ruanyifeng.com#$#abort-on-property-read setTimeout;override-property-read checker ''
 tianya.cn#$#abort-current-inline-script src apk
 tingfm.com#$#abort-on-property-read localStorage.removeItem
 xianzhenyuan.cn#$#abort-on-property-read ad
-zhenbuka.com#$#abort-current-inline-script setTimeout
+zhenbuka3.com#$#abort-current-inline-script setTimeout
 !#Novels
 dhzw8.com,hkslg8.com,konlan.org,lewxs.com,snwx3.com,sqsxs.com,xtmetb.com#$#abort-on-property-read _go
 ciymao.com,zhaishuyuan.com#$#abort-on-property-read alert
