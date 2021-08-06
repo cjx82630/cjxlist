@@ -48,7 +48,7 @@ tingfm.com##+js(aopr,localStorage.removeItem)
 tingfm.com##+js(aopr,localStorage.wndt_adblocked_user)
 tingfm.com##+js(aopr,google_ads)
 tingfm.com##iframe:style(background:none !important;)
-zhenbuka3.com##+js(acis, setTimeout)
+zhenbuka3.com##+js(set, ad_load_success, trueFunc)
 !#Novels
 ciymao.com,zhaishuyuan.com##+js(aopr,alert)
 !------------------------Specific element hiding rules------------------------!
