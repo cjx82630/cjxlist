@@ -24,6 +24,7 @@ htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
 league-funny.com#$#abort-on-property-read onload
 mp4er.com#$#abort-on-property-read onload
 nfmovies.com#$#abort-current-inline-script $myui probe
+pcbeta.com#$#abort-on-property-read setTimeout
 rjno1.com#$#abort-current-inline-script setTimeout;abort-current-inline-script onload
 rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
 @@||rjno1.com^$csp
