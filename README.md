@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/chinese.txt<br>
 ----
 **一、ABP过滤视频广告的问题**<br>
 
-&emsp;&emsp;因拦截视频广告在国内变得明显不合法，大陆IP默认列表EasyList China+EasyList会被替换成EasyList China+EasyList (compliance)不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。<br>
+&emsp;&emsp;因拦截视频广告在国内变得明显不合法，大陆IP默认列表EasyList China+EasyList会被替换成 [EasyList China+EasyList compliance](https://easylist-downloads.adblockplus.org/easylistchina+easylistchina_compliance+easylist.txt) 不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。<br>
  https://easylist-downloads.adblockplus.org/easylist.txt<br>
  &emsp;&emsp;[ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")  <br>
  https://easylist-downloads.adblockplus.org/easylistchina.txt<br>
