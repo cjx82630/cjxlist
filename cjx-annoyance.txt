@@ -74,7 +74,6 @@
 ||tawk.to^$third-party
 ||tui.cnzz.net^$third-party
 ||wpa.b.qq.com/cgi/wpa.php?
-||zoosnet.net^$third-party
 ||zoossoft.cn^$third-party
 ||easyliao.com^$third-party
 ||outbrain.com^$third-party
@@ -1462,7 +1461,6 @@ m.babytree.com##script + a[class]
 ||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
 ||analytics.21cn.com^
-||analytics.oneplus.cn^
 ||analytics.techweb.com.cn^
 ||analytics.tv189.cn^
 ||api.cupid.qiyi.com/etx?
@@ -1477,7 +1475,6 @@ m.babytree.com##script + a[class]
 ||baidu.com/4.gif?
 ||baidu.com/smalllog/
 ||baidu.com^*/w.gif?
-||bc.qunar.com^
 ||bdstatic.eastmoney.com^
 ||bendibao.com/js/count.js
 ||bitauto.com/bglog.gif?
@@ -1529,7 +1526,6 @@ m.babytree.com##script + a[class]
 ||fjsen.com:81/mysql/count/
 ||frame.enet.com.cn/a.php
 ||fx678.com/htcount/count.js
-||g.yccdn.com^
 ||gridsumdissector.cn/gs.gif?
 ||guahao.cn/blank.gif?
 ||hao123img.com/res/js/track.js
@@ -1546,9 +1542,7 @@ m.babytree.com##script + a[class]
 ||icon.zol-img.com.cn/mainpage/js/click.js
 ||ifengimg.com^*/sta_collection
 ||img.kuai.xunlei.com/js/statistics.js
-||imgstat.baidu.com^
 ||imp.zol.com.cn^
-||ipinyou.com^$third-party
 ||iqiyi.com/etx?
 ||iqiyi.com/js/pingback/
 ||iqiyi.com/track
@@ -1556,7 +1550,6 @@ m.babytree.com##script + a[class]
 ||it168.com/pv.js
 ||itc.cn/cache/lib/v2/odvmonitor/
 ||itc.cn/hdpv.js
-||itc.cn/pv/
 ||itc.cn^*/tracker.js
 ||itsmore.cn^$third-party
 ||js.passport.qihucdn.com/11.0.1.js
@@ -1591,7 +1584,6 @@ m.babytree.com##script + a[class]
 ||pcpop.com/pv/pv.js
 ||playstats.v.duowan.com^
 ||push.zhanzhang.baidu.com/push.js
-||pv.ltn.com.tw^
 ||pv.zhiding.cn^
 ||pvtest.zol.com.cn^
 ||qdp.qidian.com^
@@ -1651,7 +1643,6 @@ m.babytree.com##script + a[class]
 ||tjj.com^
 ||tongji.xinmin.cn^
 ||track.hujiang.com^
-||track.uc.cn^
 ||trends.com.cn/k.js
 ||tw.rd.yahoo.com^$image
 ||uedas.$domain=qdmm.com|qdwenxue.com|qidian.com
@@ -1675,23 +1666,12 @@ m.babytree.com##script + a[class]
 ||zol.com.cn/cgimp/zc.js
 ! EasyPrivacy
 @@/transparent.gif?ray=$image,~third-party
-/__utm.gif
 /gen_204?$image,script
-/log.gif?
 /track.gif?
-||beacon.sina.com.cn^
-||cnzz.com^$third-party
 ||duba.com/proxy/tj/
 ||google-analytics.com/analytics.js
 ||google.*/gen_204?$~xmlhttprequest
 ||googletagmanager.com/gtm.js?$third-party
-||hm.baidu.com^$third-party
-||msg.71.am^
-||rs.sinajs.cn^
-||s.360.cn^
-||sinajs.cn/open/analytics/
-||stadig.ifeng.com^
-||wrating.com^$third-party
 !---------------------------------微博首页------------------------------------!
 !---首页顶部:提示【微博热点：神最右，爆料，找节操...总有一款适合你，点击使用！】
 weibo.com###v6_pl_content_hometip
