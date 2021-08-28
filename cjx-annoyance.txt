@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202108270825
+! Version: 202108281354
 ! Title: CJX's Annoyance List
-! Last modified: 2021/08/27 08:25 +0800
+! Last modified: 2021/08/28 13:54 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -443,6 +443,7 @@
 ||pstatp.com/origin/137370002e7fbe11b296a
 ||qcjycg.com/template/conch/asset/js/hl
 !------------------------Specific element hiding rules------------------------!
+cartoonmad.com#?#table[width="899"]:-abp-has(a[href="https://www.cartoonmad.cc/func"])
 sg169.com##.Mappdiv
 sg169.com##.jy-pos-3
 jianshu.com##.aside > div[aria-label="3rd-ad"] + div:last-child
@@ -1418,7 +1419,9 @@ m.babytree.com##script + a[class]
 /v.gif?logtype=
 /yesky/js/counter/*
 /zcool-analytics.js
-||pstatp.com/toutiao/push.js
+||cdn-data-cloud.com/history/
+||s.ssl.qhres2.com/ssl/
+||pstatp.com^*/push.js
 ||pv.cheshi.com^
 ||tracking.kdnet.net^
 ||lnd.com.cn/sys/real_calc.js
