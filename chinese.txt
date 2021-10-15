@@ -23,7 +23,7 @@ fpbsnc.com,lsntzzy3.com#$#override-property-read ps noopFunc
 hktvyb.com#$#abort-current-inline-script setInterval
 htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
 league-funny.com#$#abort-on-property-read onload
-mp4er.com#$#abort-on-property-read onload
+mp4er.cc#$#abort-on-property-read onload
 nfmovies.com#$#abort-current-inline-script $myui probe
 pcbeta.com#$#abort-on-property-read setTimeout
 rjno1.com#$#abort-current-inline-script setTimeout;abort-current-inline-script onload
