@@ -36,4 +36,3 @@ xianzhenyuan.cn#$#abort-on-property-read ad
 zhenbuka3.com#$#override-property-read ad_load_success trueFunc
 !#Novels
 dhzw8.com,hkslg8.com,konlan.org,lewxs.com,snwx3.com,sqsxs.com,xtmetb.com#$#abort-on-property-read _go
-ciymao.com,zhaishuyuan.com#$#abort-on-property-read alert
