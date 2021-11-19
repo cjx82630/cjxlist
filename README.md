@@ -10,10 +10,10 @@
 
 **2、过滤工具可选择:**<br>
 &emsp;&emsp;安装浏览器后一般点右上>附加组件/扩展程序,然后搜索安装下面扩展:<br>
-&emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。推荐ubo,有效过滤视频广告,反anti-adblock. <br>
+&emsp;&emsp;Adblock Plus（ABP）、Adblock（ADB）、ublock origin（ubo）等。<br>
 
 **3、规则方案建议:** <br>
-&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + chinese.txt/CJX's uBlock list (另外,如选择Adblock Plus请保留ABP filters.如选择ublock origin请保留"内置"栏目规则)<br>
+&emsp;&emsp;EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + chinese.txt或CJX's uBlock list (另外,如选择Adblock Plus请保留ABP filters.如选择ublock origin请保留"内置"栏目规则)<br>
 &emsp;&emsp;ABP用户: 请点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面链接并确定。
 
 &emsp;&emsp;**(1) EasyList (反广告主规则列表。主要面向英文网站，包含大量通用规则)**<br>
