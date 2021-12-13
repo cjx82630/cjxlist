@@ -9,6 +9,7 @@ iqiyi.com#$#override-property-read Object.prototype.parseXML noopFunc
 15yc.cc#$#abort-on-property-write encode_version
 233tw.com#$#abort-current-inline-script onload
 2nyan.org#$#abort-on-property-read _0xcc85f5
+3cinfo.net#$#abort-current-inline-script eval split
 4399.com#$#abort-on-property-read defaultbackgroundimg
 5278.cc,hboav.com#$#abort-on-property-read onload;abort-on-property-read onmessage;abort-on-property-read adbk;abort-on-property-read warm_msg
 ||5278.cc/js/c.js
