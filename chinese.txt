@@ -32,7 +32,7 @@ rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
 rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
 ruanyifeng.com#$#abort-on-property-read setTimeout;override-property-read checker ''
 tianya.cn#$#abort-current-inline-script src apk
-tingfm.com#$#abort-on-property-read localStorage.removeItem
+tingfm.com#$#override-property-read wndt.is_vip true
 xianzhenyuan.cn#$#abort-on-property-read ad
 zhenbuka3.com#$#override-property-read ad_load_success trueFunc
 !#Novels
