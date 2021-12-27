@@ -33,7 +33,7 @@ fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
 juxia.com##.mian_body:style(background-image:none !important;)
 league-funny.com##+js(aopr,onload)
-mp4er.cc##+js(aopr,onload)
+52bdys.com##+js(aopr,onload)
 !https://bbs.kafan.cn/thread-2180923-1-1.html
 nfmovies.com##+js(set,initAd,noopFunc)
 nfmovies.com##+js(set,adTime,0)
