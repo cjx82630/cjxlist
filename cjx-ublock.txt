@@ -19,6 +19,7 @@
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.special_conf_skin .wrap1:style(background:none !important;)
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###plat_recom_carousel[style$="380px;"]:style(height:80px !important;)
 233tw.com##+js(acis,onload)
+ahri8.top##+js(acis,document.querySelectorAll,popMagic)
 bingfeng.tw##+js(nostif,newtag)
 bukaivip.com,zhenbuka2.com##+js(aopr,ad_load_success)
 chinaz.com###imgbd:style(background:none !important;)

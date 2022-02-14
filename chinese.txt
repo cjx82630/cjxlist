@@ -14,6 +14,7 @@ iqiyi.com#$#override-property-read Object.prototype.parseXML noopFunc
 5278.cc,hboav.com#$#abort-on-property-read onload;abort-on-property-read onmessage;abort-on-property-read adbk;abort-on-property-read warm_msg
 ||5278.cc/js/c.js
 @@||hboav.com/guga/images/20201021.jpg
+ahri8.top#$#abort-current-inline-script document.querySelectorAll popMagic
 bingfeng.tw#$#abort-current-inline-script setTimeout
 bukaivip.com,zhenbuka2.com#$#abort-on-property-read ad_load_success
 cocomanhua.com#$#abort-on-property-read jQuery.fn.html; abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
