@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202205121008
+! Version: 202205142153
 ! Title: CJX's Annoyance List
-! Last modified: 2022/05/12 10:08 +0800
+! Last modified: 2022/05/14 21:53 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -71,6 +71,7 @@
 ||pop800.com^$third-party
 ||soperson.com^$third-party
 ||tawk.to^$third-party
+||webfunny.cn^$third-party
 ||tui.cnzz.net^$third-party
 ||wpa.b.qq.com/cgi/wpa.php?
 ||zoosnet.net^$third-party
