@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.<br>
 
 &emsp;&emsp;**(5 ABP专用) ABP小脚本 (CJX's Annoyance List的补充。不能订阅，看下文操作.)**<br>
-https://cjx82630.github.io/cjxlist.html<br>
+[https://cjx82630.github.io/cjxlist.html](https://cjx82630.github.io/cjxlist.html) <br>
 &emsp;&emsp;需要ABP 3.5.2以上,订阅无效,只能自定义.请访问上面网址,复制所有规则,再点击ABP图标 > 齿轮 > 高级 >`我的过滤列表`下粘贴.<br>
 
 &emsp;&emsp;**(5 ubo专用) CJX's uBlock list (CJX's Annoyance List的补充。ubo订阅CJX's Annoyance会自动集成这个列表)**<br>
