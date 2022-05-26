@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202205260851
+! Version: 202205261155
 ! Title: CJX's Annoyance List
-! Last modified: 2022/05/26 08:51 +0800
+! Last modified: 2022/05/26 11:55 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -473,7 +473,11 @@
 ||mbalib.com/common/a_mbalib/
 ||lotuscard.cc/online/
 ||kuke99.com/static/home/js/index/index.js
+||fulitech.com.cn^*/float.js
 !------------------------Specific element hiding rules------------------------!
+autohome.com.cn##.activity-app-layer
+autohome.com.cn##DIV[id^="popautoapp"]
+shengxinwang.net###floatDivBoxs
 kuke99.com##.index-dialog-mask
 aura.cn##.suspension
 aura.cn##.foot-xcx
