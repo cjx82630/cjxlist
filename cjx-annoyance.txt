@@ -9,7 +9,6 @@
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
 ! Email (cjxlist@gmail.com)
-!#include cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
 /template/bingfeng/statics/js/pingbi.js
