@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202206091104
+! Version: 202206100844
 ! Title: CJX's Annoyance List
-! Last modified: 2022/06/09 11:04 +0800
+! Last modified: 2022/06/10 08:44 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -1502,6 +1502,7 @@ m.babytree.com##script + a[class]
 /cp2.gif?*=qc_
 /hunter/alog/*
 /js/soku-analytics.js
+/hm.js?$script,third-party
 /mysql/count/*$script,domain=ts.cn
 /scriptonline.js?uin=
 /soku/giantstar/js/youlog.js
