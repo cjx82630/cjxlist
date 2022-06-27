@@ -65,13 +65,13 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt<br>
 ----
 **一、ABP过滤视频广告的问题**<br>
 
-&emsp;&emsp;因拦截视频广告在国内变得明显不合法，大陆IP默认列表EasyList China+EasyList会被替换成 [EasyList China+EasyList compliance](https://easylist-downloads.adblockplus.org/easylistchina+easylistchina_compliance+easylist.txt) 不过滤视频广告版本。如需过滤，请删除默认列表，分开订阅EasyList与EasyList China：点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面两个链接并确定。<br>
+&emsp;&emsp;因拦截视频广告在国内变得明显不合法,国内用户的默认规则列表不过滤视频广告,如需过滤请(点击ABP图标>齿轮>高级),删除EasyList China+EasyList (compliance),再(通过URL添加)两个过滤列表: <br>
  https://easylist-downloads.adblockplus.org/easylist.txt<br>
  &emsp;&emsp;[ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")  <br>
  https://easylist-downloads.adblockplus.org/easylistchina.txt<br>
  &emsp;&emsp;[ABP ADB 点此订阅EasyList China](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylistchina.txt&title=EasyList%20China "EasyList China")   <br>
 
-&emsp;&emsp;因Adblock Plus的局限，无法处理部分问题，如搜狐，腾讯，爱奇艺，优酷黑屏。<br>
+&emsp;&emsp;还需自定义小脚本规则,请查看 [https://cjx82630.github.io/cjxlist.html](https://cjx82630.github.io/cjxlist.html) 复制内容到自定义(点击ABP图标>齿轮>高级>我的过滤列表下文本框)<br>
 
 **二、EasyList China介绍**<br>
 
