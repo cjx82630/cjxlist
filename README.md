@@ -29,15 +29,21 @@ https://easylist-downloads.adblockplus.org/easyprivacy.txt<br>
 [ABP ADB 点此订阅EasyPrivacy](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easyprivacy.txt&title=EasyPrivacy "EasyPrivacy")<br>
 
 &emsp;&emsp;**(4) CJX's Annoyance List (反自我推广,移除anti adblock,防跟踪规则列表)**<br>
+https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt<br>
+[镜像.国内可用.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
+
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt<br>
-[ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
+[本体.需梯子.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
+
+或AdGuard提供的镜像.国内可用. https://filters.adtidy.org/extension/ublock/filters/220.txt<br>
+
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.<br>
 
 &emsp;&emsp;**(5 ABP专用) ABP小脚本 (CJX's Annoyance List的补充。不能订阅，看下文操作.)**<br>
 [https://cjx82630.github.io/cjxlist.html](https://cjx82630.github.io/cjxlist.html) <br>
 &emsp;&emsp;需要ABP 3.5.2以上,订阅无效,只能自定义.请访问上面网址,复制所有规则,再点击ABP图标 > 齿轮 > 高级 >`我的过滤列表`下粘贴.<br>
 
-&emsp;&emsp;**(5 ubo专用) CJX's uBlock list (CJX's Annoyance List的补充。ubo订阅CJX's Annoyance会自动集成这个列表)**<br>
+&emsp;&emsp;**(5 ubo专用) CJX's uBlock list (CJX's Annoyance List的补充。)**<br>
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt<br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充。2020.2.13发布.<br>
 
@@ -79,21 +85,19 @@ https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt<br>
 
 **三、反馈广告或问题**<br>
 
+&emsp;&emsp;**反馈前必读:**  <br>
+&emsp;&emsp;Easylist China为ABP扩展定制，部分规则在其它过滤工具上可能无效。<br>
+&emsp;&emsp;360,QQ等国产浏览器使ABP在部分网站失效,可试试换浏览器,比如火狐 https://www.mozilla.org/zh-CN/firefox/all/ 或Chromium版Edge https://www.microsoftedgeinsider.com/<br>
+&emsp;&emsp;试试手动更新规则：点击ABP图标>过滤规则首选项>右键点击规则选更新；<br>
+&emsp;&emsp;有奇怪的弹窗或英文广告等：可能你电脑感染了恶意扩展(插件)或病毒木马.下载[AdwCleaner](http://www.bleepingcomputer.com/download/adwcleaner/)或者[malwarebytes](http://www.malwarebytes.org/antimalware/) 查杀. <br>
+&emsp;&emsp;出现弹窗：请返回出现弹窗的页面点击ABP图标反馈，而不是在弹出的窗口反馈。<br>
+
 &emsp;&emsp;**反馈途径:**  <br>
 &emsp;&emsp;反馈中文网站的广告或误拦问题,请点击浏览器右上角的红色ABP图标，选择“报告问题”，会得到及时的回应。注意,某些多语言网站不以中文为主的,不属于中文网站,如twitch,youtube等 <br>
 &emsp;&emsp;反馈给CJX个人`994722209@qq.com`或QQ群`233902062` <br>
 &emsp;&emsp;反馈英文网站或EasyList或EasyPrivacy或Fanboy's Social Blocking List的问题：请将网址发到`easylist.subscription@gmail.com`并英文描述<br>
 &emsp;&emsp;反馈非中英文网站的问题：请查看对应的语言列表[https://adblockplus.org/zh_CN/subscriptions](https://adblockplus.org/zh_CN/subscriptions)<br>
 &emsp;&emsp;如被"Malware Domain"规则列表误拦(此列表不属于ABP维护),反馈到`malwaredomains@gmail.com`  <br>
-
-&emsp;&emsp;**反馈前必读:**  <br>
-&emsp;&emsp;Easylist China为ABP扩展定制，部分规则在其它过滤工具上可能无效。<br>
-&emsp;&emsp;如果是QQ浏览器且地址栏右侧有e图标,请点它切换到极速模式.再复制`qqbrowser://settings/settings-advanced`粘贴到地址栏并访问,点选(总是使用极速内核).<br>
-&emsp;&emsp;如果是360极速浏览器且地址栏右侧有e图标,请点它切换到极速模式.再复制`chrome://settings/advanced`到地址栏访问,点选(全部使用blink内核).<br>
-&emsp;&emsp;若火狐冷启动后见到广告：试试刷新页面。<br>
-&emsp;&emsp;试试手动更新规则：在火狐，点击ABP图标>过滤规则首选项>右键点击规则选更新；其它浏览器类似。<br>
-&emsp;&emsp;有奇怪的弹窗或英文广告等：可能你电脑感染了恶意扩展(插件)或病毒木马.下载[AdwCleaner](http://www.bleepingcomputer.com/download/adwcleaner/)或者[malwarebytes](http://www.malwarebytes.org/antimalware/) 查杀. <br>
-&emsp;&emsp;出现弹窗：请返回出现弹窗的页面点击ABP图标反馈，而不是在弹出的窗口反馈。<br>
 
 ### Q&A
 
