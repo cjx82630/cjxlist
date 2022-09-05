@@ -1,3 +1,4 @@
+[uBlock Origin]
 ! Title: CJX's uBlock list
 ! Expires: 4 days
 ! Homepage: https://github.com/cjx82630/cjxlist
