@@ -30,7 +30,7 @@ chinaz.com##.CClose
 cocomanhua.com##+js(aopr,jQuery.fn.html)
 cocomanhua.com##+js(aopr,__cad.cpm_popunder)
 cocomanhua.com##+js(aopr,__ad)
-ddrk.me##+js(aopr,Object.prototype.ads.isInAdMode)
+ddrk.me,ddys.tv,ddys2.me##+js(aopr,Object.prototype.ads.isInAdMode)
 dlkoo.com##+js(acis,setTimeout,testad)
 fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
