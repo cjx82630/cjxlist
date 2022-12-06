@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202211262135
+! Version: 202212061452
 ! Title: CJX's Annoyance List
-! Last modified: 2022/11/26 21:35 +0800
+! Last modified: 2022/12/06 14:52 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -482,6 +482,8 @@
 ||3dmgame.com/page/js/indexalert_ad.
 ||nicelinks.site/ad-block-
 !------------------------Specific element hiding rules------------------------!
+chinagwy.org##.ewm0610
+360kuai.com##.novel_galery_icon
 iciba.com##div[class^="Kyad_"]
 yahoo.com###module-appPromoBanner
 findlaw.cn###wlcommonbot

@@ -23,7 +23,6 @@
 ahri8.top##+js(acis,document.querySelectorAll,popMagic)
 baomidou.com##+js(set, _AdBlockInit, true)
 bingfeng.tw##+js(nostif,newtag)
-bukaivip.com,zhenbuka2.com##+js(aopr,ad_load_success)
 chinaz.com###imgbd:style(background:none !important;)
 chinaz.com##.CCtop:style(margin-top:10px !important;)
 chinaz.com##.CClose
@@ -57,7 +56,6 @@ tingfm.com##+js(aopr,localStorage.removeItem)
 tingfm.com##+js(aopr,localStorage.wndt_adblocked_user)
 tingfm.com##+js(aopr,google_ads)
 tingfm.com##iframe:style(background:none !important;)
-zhenbuka3.com##+js(set, ad_load_success, trueFunc)
 !#Novels
 !------------------------Specific element hiding rules------------------------!
 !---------------------------------CSS Whitelist-------------------------------!
