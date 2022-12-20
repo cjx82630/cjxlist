@@ -1,3 +1,4 @@
+
 **cjxlist说明**<br>
 ----
 **一、在电脑过滤广告的快速指引**<br>
@@ -17,41 +18,45 @@
 &emsp;&emsp;ABP用户: 请点击浏览器右上角的ABP图标>齿轮>高级>如果有 EasyList China+EasyList (compliance) 就点击右侧的垃圾桶取消订阅，再依次点击下面链接并确定。
 
 &emsp;&emsp;**(1) EasyList (反广告主规则列表。主要面向英文网站，包含大量通用规则)**<br>
+&emsp;&emsp;[ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")<br>
 [https://easylist-downloads.adblockplus.org/easylist.txt](https://easylist-downloads.adblockplus.org/easylist.txt)<br>
-[ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")<br>
 
 &emsp;&emsp;**(2) Easylist China (反广告主规则列表的补充。主要面向中文网站)**<br>
+&emsp;&emsp;[ABP ADB 点此订阅EasyList China](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylistchina.txt&title=EasyList%20China "EasyList China")<br>
 [https://easylist-downloads.adblockplus.org/easylistchina.txt](https://easylist-downloads.adblockplus.org/easylistchina.txt)<br>
-[ABP ADB 点此订阅EasyList China](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylistchina.txt&title=EasyList%20China "EasyList China")<br>
 
 &emsp;&emsp;**(3) EasyPrivacy (防隐私跟踪挖矿规则列表)**<br>
+&emsp;&emsp;[ABP ADB 点此订阅EasyPrivacy](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easyprivacy.txt&title=EasyPrivacy "EasyPrivacy")<br>
 [https://easylist-downloads.adblockplus.org/easyprivacy.txt](https://easylist-downloads.adblockplus.org/easyprivacy.txt)<br>
-[ABP ADB 点此订阅EasyPrivacy](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easyprivacy.txt&title=EasyPrivacy "EasyPrivacy")<br>
+
+### FYI
 
 &emsp;&emsp;**(4) CJX's Annoyance List (反自我推广,移除anti adblock,防跟踪规则列表)**<br>
+&emsp;&emsp;CJX's Annoyance List是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.<br>
+
+&emsp;&emsp;推荐AdGuard提供的镜像.国内可用 <br>
+[https://filters.adtidy.org/extension/ublock/filters/220.txt](https://filters.adtidy.org/extension/ublock/filters/220.txt)<br>
+
+&emsp;&emsp;[国内可用.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
 [https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt](https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt)<br>
-[镜像.国内可用.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
 
+&emsp;&emsp;[需梯子.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
 [https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)<br>
-[本体.需梯子.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
-
-或AdGuard提供的镜像.国内可用 [https://filters.adtidy.org/extension/ublock/filters/220.txt](https://filters.adtidy.org/extension/ublock/filters/220.txt)<br>
-
-&emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy"的补充。2015.2.4发布,过滤烦人的自我推广,移除anti adblock,并补充EasyPrivacy隐私规则.<br>
 
 &emsp;&emsp;**(5 ABP专用) ABP小脚本 (CJX's Annoyance List的补充。不能订阅，看下文操作.)**<br>
-[https://cjx82630.github.io/cjxlist.html](https://cjx82630.github.io/cjxlist.html) <br>
 &emsp;&emsp;需要ABP 3.5.2以上,订阅无效,只能自定义.请访问上面网址,复制所有规则,再点击ABP图标 > 齿轮 > 高级 >`我的过滤列表`下粘贴.<br>
+[https://cjx82630.github.io/cjxlist.html](https://cjx82630.github.io/cjxlist.html) <br>
 
 &emsp;&emsp;**(5 ubo专用) CJX's uBlock list (CJX's Annoyance List的补充。)**<br>
-[https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt) <br>
 &emsp;&emsp;这是"EasyList China+EasyList" & "EasyPrivacy" & "CJX's Annoyance List"的补充。2020.2.13发布.<br>
+[https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt) <br>
 
 **二、在手机过滤广告的快速指引**<br>
 
 **1、安卓平台:**<br>
+&emsp;&emsp;安装火狐及ubo需梯子:<br>
 &emsp;&emsp;安装火狐正式版 [https://www.mozilla.org/zh-CN/firefox/android/all/](https://www.mozilla.org/zh-CN/firefox/android/all/)<br>
-&emsp;&emsp;&emsp;&emsp;或安装火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/) <br>
+&emsp;&emsp;或安装火狐beta版 [https://www.mozilla.org/zh-CN/firefox/android/beta/all/](https://www.mozilla.org/zh-CN/firefox/android/beta/all/) <br>
 &emsp;&emsp;安装后点右上图标>附加组件>浏览全部Firefox附加组件>搜索安装ublock origin<br>
 
 **2、规则方案建议:**<br>
@@ -63,19 +68,20 @@
 
 **三、如果有问题，请联系 `994722209@qq.com` 或 `cjxlist@gmail.com`**  <br>
 
-*如果你是Adblock Plus用户，可以往下阅读，能获得更多信息*<br>
 
 ### ELC
+*Adblock Plus用户可以往下阅读，能获得更多信息*<br>
 
 **Easylist China中文列表说明**<br>
 ----
 **一、ABP过滤视频广告的问题**<br>
 
 &emsp;&emsp;因拦截视频广告在国内变得明显不合法,国内用户的默认规则列表不过滤视频广告,如需过滤请(点击ABP图标>齿轮>高级),删除EasyList China+EasyList (compliance),再(通过URL添加)两个过滤列表: <br>
- [https://easylist-downloads.adblockplus.org/easylist.txt](https://easylist-downloads.adblockplus.org/easylist.txt)<br>
  &emsp;&emsp;[ABP ADB 点此订阅EasyList](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylist.txt&title=EasyList "EasyList")  <br>
- [https://easylist-downloads.adblockplus.org/easylistchina.txt](https://easylist-downloads.adblockplus.org/easylistchina.txt)<br>
+ [https://easylist-downloads.adblockplus.org/easylist.txt](https://easylist-downloads.adblockplus.org/easylist.txt)<br>
+
  &emsp;&emsp;[ABP ADB 点此订阅EasyList China](https://subscribe.adblockplus.org?location=https://easylist-downloads.adblockplus.org/easylistchina.txt&title=EasyList%20China "EasyList China")   <br>
+ [https://easylist-downloads.adblockplus.org/easylistchina.txt](https://easylist-downloads.adblockplus.org/easylistchina.txt)<br>
 
 &emsp;&emsp;还需自定义小脚本规则,请查看 [https://cjx82630.github.io/cjxlist.html](https://cjx82630.github.io/cjxlist.html) 复制内容到自定义(点击ABP图标>齿轮>高级>我的过滤列表下文本框)<br>
 
