@@ -38,6 +38,7 @@ itdog.cn##+js(aopr,alert)
 league-funny.com##+js(aopr,onload)
 52bdys.com##+js(aopr,onload)
 52xkdy.com,fydy8.com##+js(set,jsok,true)
+939394.xyz##+js(aopr,_0x53bd)
 bde4.icu##+js(aopr,onload)
 !https://bbs.kafan.cn/thread-2180923-1-1.html
 nfmovies.com##+js(set,initAd,noopFunc)
