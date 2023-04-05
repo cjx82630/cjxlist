@@ -32,6 +32,7 @@ cocomanhua.com##+js(aopr,__ad)
 ddrk.me,ddys.tv,ddys2.me##+js(aopr,Object.prototype.ads.isInAdMode)
 dlkoo.com##+js(acis,setTimeout,testad)
 fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
+||huya.com/leaf/*=vodadv&$redirect=noop-0.1s.mp3,domain=huya.com
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
 juxia.com##.mian_body:style(background-image:none !important;)
 itdog.cn##+js(aopr,alert)
