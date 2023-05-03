@@ -396,7 +396,6 @@ msn.com##.ad
 /common/ad.
 /common/ad_
 /contentAd.
-/css/ad.
 /css/ads.
 /data/ads/*
 /default/ads/*
