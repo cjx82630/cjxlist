@@ -54,10 +54,7 @@ rjno1.com##+js(acis, onload)
 rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
 ruanyifeng.com##+js(aopr, setTimeout)
 tianya.cn##+js(acis,src,apk)
-tingfm.com##+js(aopr,localStorage.removeItem)
-tingfm.com##+js(aopr,localStorage.wndt_adblocked_user)
-tingfm.com##+js(aopr,google_ads)
-tingfm.com##iframe:style(background:none !important;)
+tingfm.com##+js(set, wndt.is_vip, true)
 !#Novels
 !------------------------Specific element hiding rules------------------------!
 !---------------------------------CSS Whitelist-------------------------------!
