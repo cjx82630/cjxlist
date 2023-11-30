@@ -13,6 +13,9 @@
 !-----------------------------Union&third-party-------------------------------!
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
+yemancomic.com,zkk78.com,jinbaodm.com##+js(acis,document.write,location.href)
+yemancomic.com,zkk78.com,jinbaodm.com##+js(nostif, location.href)
+yemancomic.com##+js(aopr,randoms)
 1010jiajiao.com##+js(aopr,jdrand)
 3g.163.com##+js(set,specialHideAd,true)
 3cinfo.net##+js(acis,eval,split)
