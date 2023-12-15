@@ -37,9 +37,6 @@
 &emsp;&emsp;推荐AdGuard提供的镜像.国内可用 <br>
 [https://filters.adtidy.org/extension/ublock/filters/220.txt](https://filters.adtidy.org/extension/ublock/filters/220.txt)<br>
 
-&emsp;&emsp;[国内可用.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
-[https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt](https://main.filter-delivery-staging.eyeo.com/v3/full/cjx-annoyance.txt)<br>
-
 &emsp;&emsp;[需梯子.ABP ADB 点此订阅CJX's Annoyance List](https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt&title=CJX "CJX's Annoyance List")<br> 
 [https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)<br>
 
