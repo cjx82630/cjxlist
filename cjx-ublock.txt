@@ -13,8 +13,8 @@
 !-----------------------------Union&third-party-------------------------------!
 !---------------------------Popups--------------------------------------------!
 !--------------------------Specific blocking filters--------------------------!
-yemancomic.com,zkk78.com,jinbaodm.com##+js(acis,document.write,location.href)
-yemancomic.com,zkk78.com,jinbaodm.com##+js(nostif, location.href)
+youminggu.com,yemancomic.com,zkk78.com,jinbaodm.com##+js(acis,document.write,location.href)
+youminggu.com,yemancomic.com,zkk78.com,jinbaodm.com##+js(nostif, location.href)
 yemancomic.com##+js(aopr,randoms)
 1010jiajiao.com##+js(aopr,jdrand)
 3g.163.com##+js(set,specialHideAd,true)
@@ -56,7 +56,6 @@ rjno1.com##+js(acis, setTimeout)
 rjno1.com##+js(acis, onload)
 rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
 ruanyifeng.com##+js(aopr, setTimeout)
-tianya.cn##+js(acis,src,apk)
 tingfm.com##+js(set, canRunAds, true)
 !#Novels
 !------------------------Specific element hiding rules------------------------!
