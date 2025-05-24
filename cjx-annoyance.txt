@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202505030731
+! Version: 202505242344
 ! Title: CJX's Annoyance List
-! Last modified: 2025/05/03 07:31 +0800
+! Last modified: 2025/05/24 23:44 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
