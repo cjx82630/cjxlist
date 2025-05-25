@@ -58,6 +58,7 @@ rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
 ruanyifeng.com##+js(aopr, setTimeout)
 tingfm.com##+js(set, canRunAds, true)
 !#Novels
+biquge.ac,zhuoshuge.com##+js(aopr,setTimeout)
 bqug8.com,biqudd.com,biquge345.com,dingdian365.com,dingdian888.com,nicmar.net,xianguke.net,ykxs.cc,zhuoshuge.com,zuizhong.net##+js(acis, document.write, style)
 !------------------------Specific element hiding rules------------------------!
 !---------------------------------CSS Whitelist-------------------------------!
