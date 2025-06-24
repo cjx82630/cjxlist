@@ -40,8 +40,6 @@ ip.cn##img[src*="/img/"]:style(height:101px !important;)
 juxia.com##.mian_body:style(background-image:none !important;)
 itdog.cn##+js(aopr,alert)
 league-funny.com##+js(aopr,onload)
-52bdys.com##+js(aopr,onload)
-52xkdy.com,fydy8.com##+js(set,jsok,true)
 939394.xyz##+js(acis,atob)
 bde4.icu##+js(aopr,onload)
 !https://bbs.kafan.cn/thread-2180923-1-1.html
@@ -59,7 +57,7 @@ ruanyifeng.com##+js(aopr, setTimeout)
 tingfm.com##+js(set, canRunAds, true)
 !#Novels
 biquge.ac,zhuoshuge.com##+js(aopr,setTimeout)
-dingdian365.com,jinpai123.net,fwdadr.net,haijiaobooksw.top,bqug8.com,biqudd.com,biquge345.com,dingdian365.com,dingdian888.com,nicmar.net,xianguke.net,ykxs.cc,zhuoshuge.com,zuizhong.net##+js(acis, document.write, style)
+20me.net,dingdian365.com,jinpai123.net,fwdadr.net,haijiaobooksw.top,bqug8.com,biqudd.com,biquge345.com,dingdian365.com,dingdian888.com,nicmar.net,xianguke.net,ykxs.cc,zhuoshuge.com,zuizhong.net##+js(acis, document.write, style)
 !------------------------Specific element hiding rules------------------------!
 !---------------------------------CSS Whitelist-------------------------------!
 !---------------------------------URL Whitelist-------------------------------!
