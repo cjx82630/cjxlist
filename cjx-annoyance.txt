@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202602270839
+! Version: 202603110915
 ! Title: CJX's Annoyance List
-! Last modified: 2026/02/27 08:39 +0800
+! Last modified: 2026/03/11 09:15 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -11,6 +11,7 @@
 ! Email (cjxlist@gmail.com)
 !--------------------------General blocking filters---------------------------!
 /wiseatom/banner/pack_
+/npm/disable-devtool
 /bbs/include/javascript/adblock.
 /template/bingfeng/statics/js/pingbi.js
 -bobo_recommend_
